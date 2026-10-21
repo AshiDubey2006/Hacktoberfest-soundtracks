@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
+| Adventure Field 4 | 163697 | [163697-adventure-field-4.json](./163697-adventure-field-4.json) |
 | Adventure Field 5 | 235367 | [235367-adventure-field-5.json](./235367-adventure-field-5.json) |
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
@@ -3011,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
 | Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
+| Aeternum Vale | 163783 | [163783-aeternum-vale.json](./163783-aeternum-vale.json) |
 | Aethelgard: Galactic Guardian | 404804 | [404804-aethelgard-galactic-guardian.json](./404804-aethelgard-galactic-guardian.json) |
 | Aether | 254916 | [254916-aether.json](./254916-aether.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
@@ -3120,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
+| After | 163792 | [163792-after.json](./163792-after.json) |
 | After | 219966 | [219966-after.json](./219966-after.json) |
 | After | 237551 | [237551-after.json](./237551-after.json) |
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
@@ -12024,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
+| Astraverse | 163794 | [163794-astraverse.json](./163794-astraverse.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
