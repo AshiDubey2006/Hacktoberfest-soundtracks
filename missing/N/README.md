@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihilist Simulator | 72337 | [72337-nihilist-simulator.json](./72337-nihilist-simulator.json) |
 | Nihilist Syndrome | 366940 | [366940-nihilist-syndrome.json](./366940-nihilist-syndrome.json) |
 | Nihility: Infinite Teeth | 256880 | [256880-nihility-infinite-teeth.json](./256880-nihility-infinite-teeth.json) |
+| Nihilo | 164758 | [164758-nihilo.json](./164758-nihilo.json) |
 | Nihilore: The Mechanical Empire | 270844 | [270844-nihilore-the-mechanical-empire.json](./270844-nihilore-the-mechanical-empire.json) |
 | Nihilsearch | 146551 | [146551-nihilsearch.json](./146551-nihilsearch.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
