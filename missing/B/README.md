@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
 | Baby Dino Adventures | 137893 | [137893-baby-dino-adventures.json](./137893-baby-dino-adventures.json) |
 | Baby Eater | 26127 | [26127-baby-eater.json](./26127-baby-eater.json) |
+| Baby Einstein: Baby Newton Fun With Shapes | 165372 | [165372-baby-einstein-baby-newton-fun-with-shapes.json](./165372-baby-einstein-baby-newton-fun-with-shapes.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
 | Baby Felix Creativity Center | 200456 | [200456-baby-felix-creativity-center.json](./200456-baby-felix-creativity-center.json) |
 | Baby Felix Halloween | 50033 | [50033-baby-felix-halloween.json](./50033-baby-felix-halloween.json) |
@@ -10717,6 +10718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
+| Bowels of the Ocean | 165481 | [165481-bowels-of-the-ocean.json](./165481-bowels-of-the-ocean.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowl 'Em Down | 240106 | [240106-bowl-em-down.json](./240106-bowl-em-down.json) |
 | Bowl VR | 32315 | [32315-bowl-vr.json](./32315-bowl-vr.json) |
