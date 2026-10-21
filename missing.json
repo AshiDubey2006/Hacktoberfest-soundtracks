@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T17:22:31.385Z",
-  "total_missing": 243119,
+  "generated_at": "2026-10-21T17:37:07.209Z",
+  "total_missing": 243169,
   "games": [
     {
       "igdb_id": 191680,
@@ -27607,6 +27607,11 @@
       "file": "missing/A/104830-aerial-guardian.json"
     },
     {
+      "igdb_id": 166989,
+      "game_name": "Aerial Life: Premium Limited Edition",
+      "file": "missing/A/166989-aerial-life-premium-limited-edition.json"
+    },
+    {
       "igdb_id": 337421,
       "game_name": "Aerial Lockdown",
       "file": "missing/A/337421-aerial-lockdown.json"
@@ -32222,6 +32227,11 @@
       "file": "missing/A/127938-aikagi-kimi-to-issho-ni-pack.json"
     },
     {
+      "igdb_id": 166992,
+      "game_name": "Aikano: Yukizora no Triangle - Premium Limited Edition",
+      "file": "missing/A/166992-aikano-yukizora-no-triangle-premium-limited-edition.json"
+    },
+    {
       "igdb_id": 320311,
       "game_name": "Aikatsu On Parade!",
       "file": "missing/A/320311-aikatsu-on-parade.json"
@@ -36790,6 +36800,11 @@
       "igdb_id": 139997,
       "game_name": "Aleste Collection",
       "file": "missing/A/139997-aleste-collection.json"
+    },
+    {
+      "igdb_id": 167017,
+      "game_name": "Aleste Collection: Game Gear Micro Limited Edition",
+      "file": "missing/A/167017-aleste-collection-game-gear-micro-limited-edition.json"
     },
     {
       "igdb_id": 345144,
@@ -70797,6 +70812,11 @@
       "file": "missing/A/154791-assassins-creed-infinity.json"
     },
     {
+      "igdb_id": 167003,
+      "game_name": "Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack",
+      "file": "missing/A/167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json"
+    },
+    {
       "igdb_id": 26095,
       "game_name": "Assassin's Creed IV Black Flag: Aveline",
       "file": "missing/A/26095-assassins-creed-iv-black-flag-aveline.json"
@@ -97187,6 +97207,11 @@
       "file": "missing/B/26443-battle-garegga-rev-2016.json"
     },
     {
+      "igdb_id": 166996,
+      "game_name": "Battle Garegga Rev.2016: Premium Edition",
+      "file": "missing/B/166996-battle-garegga-rev-2016-premium-edition.json"
+    },
+    {
       "igdb_id": 223441,
       "game_name": "Battle Gear",
       "file": "missing/B/223441-battle-gear.json"
@@ -99045,6 +99070,11 @@
       "igdb_id": 28966,
       "game_name": "Battlefield 1: In the Name of the Tsar",
       "file": "missing/B/28966-battlefield-1-in-the-name-of-the-tsar.json"
+    },
+    {
+      "igdb_id": 166991,
+      "game_name": "Battlefield 1: Premium Edition",
+      "file": "missing/B/166991-battlefield-1-premium-edition.json"
     },
     {
       "igdb_id": 94085,
@@ -120440,6 +120470,11 @@
       "igdb_id": 145058,
       "game_name": "Blaster Master Zero III",
       "file": "missing/B/145058-blaster-master-zero-iii.json"
+    },
+    {
+      "igdb_id": 166977,
+      "game_name": "Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition",
+      "file": "missing/B/166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json"
     },
     {
       "igdb_id": 49840,
@@ -194207,6 +194242,11 @@
       "file": "missing/C/31957-club-manager-2017.json"
     },
     {
+      "igdb_id": 167031,
+      "game_name": "Club Marian",
+      "file": "missing/C/167031-club-marian.json"
+    },
+    {
       "igdb_id": 30427,
       "game_name": "Club Naughty",
       "file": "missing/C/30427-club-naughty.json"
@@ -211620,6 +211660,11 @@
       "igdb_id": 196811,
       "game_name": "Cotton Games' New Game Bundle",
       "file": "missing/C/196811-cotton-games-new-game-bundle.json"
+    },
+    {
+      "igdb_id": 166980,
+      "game_name": "Cotton Guardian Force Saturn Tribute: Special Edition",
+      "file": "missing/C/166980-cotton-guardian-force-saturn-tribute-special-edition.json"
     },
     {
       "igdb_id": 146808,
@@ -246912,6 +246957,11 @@
       "file": "missing/D/225904-dead-or-alive-6-energy-up-training-wear-set.json"
     },
     {
+      "igdb_id": 167018,
+      "game_name": "Dead or Alive 6: Gamecity Limited Edition",
+      "file": "missing/D/167018-dead-or-alive-6-gamecity-limited-edition.json"
+    },
+    {
       "igdb_id": 341667,
       "game_name": "Dead or Alive 6: Nyotengu",
       "file": "missing/D/341667-dead-or-alive-6-nyotengu.json"
@@ -252195,6 +252245,11 @@
       "igdb_id": 127797,
       "game_name": "Deemo II",
       "file": "missing/D/127797-deemo-ii.json"
+    },
+    {
+      "igdb_id": 167005,
+      "game_name": "Deemo Reborn: Premium Edition",
+      "file": "missing/D/167005-deemo-reborn-premium-edition.json"
     },
     {
       "igdb_id": 74540,
@@ -267192,6 +267247,11 @@
       "file": "missing/D/27920-digimon-story-cyber-sleuth-hackers-memory.json"
     },
     {
+      "igdb_id": 167006,
+      "game_name": "Digimon Story: Cyber Sleuth - Hacker's Memory: Digimon 20th Anniversary Box",
+      "file": "missing/D/167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json"
+    },
+    {
       "igdb_id": 67307,
       "game_name": "Digimon Story: Lost Evolution",
       "file": "missing/D/67307-digimon-story-lost-evolution.json"
@@ -277520,6 +277580,11 @@
       "igdb_id": 139184,
       "game_name": "Dokapon UP! Mugen no Roulette",
       "file": "missing/D/139184-dokapon-up-mugen-no-roulette.json"
+    },
+    {
+      "igdb_id": 167014,
+      "game_name": "Dokapon UP! Mugen no Roulette: Premium Limited Edition",
+      "file": "missing/D/167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json"
     },
     {
       "igdb_id": 81411,
@@ -328267,6 +328332,11 @@
       "file": "missing/E/56433-esp-ra-de-psi.json"
     },
     {
+      "igdb_id": 167029,
+      "game_name": "ESP Ra.De. Psi: Limited Edition",
+      "file": "missing/E/167029-esp-ra-de-psi-limited-edition.json"
+    },
+    {
       "igdb_id": 326172,
       "game_name": "ESP: ExtraSensitive Pervert",
       "file": "missing/E/326172-esp-extrasensitive-pervert.json"
@@ -349762,6 +349832,11 @@
       "file": "missing/F/45787-fast-striker-1-5.json"
     },
     {
+      "igdb_id": 166998,
+      "game_name": "Fast Striker: Limited Edition",
+      "file": "missing/F/166998-fast-striker-limited-edition.json"
+    },
+    {
       "igdb_id": 117050,
       "game_name": "Fast Travel: Loot Delivery Service",
       "file": "missing/F/117050-fast-travel-loot-delivery-service.json"
@@ -354820,6 +354895,11 @@
       "igdb_id": 240427,
       "game_name": "FIFA 15",
       "file": "missing/F/240427-fifa-15.json"
+    },
+    {
+      "igdb_id": 167025,
+      "game_name": "FIFA 15: Ultimate Edition",
+      "file": "missing/F/167025-fifa-15-ultimate-edition.json"
     },
     {
       "igdb_id": 42898,
@@ -406380,6 +406460,11 @@
       "igdb_id": 188440,
       "game_name": "Ghost",
       "file": "missing/G/188440-ghost.json"
+    },
+    {
+      "igdb_id": 166995,
+      "game_name": "Ghost 1.0: Limited Edition",
+      "file": "missing/G/166995-ghost-1-0-limited-edition.json"
     },
     {
       "igdb_id": 391665,
@@ -487932,6 +488017,11 @@
       "file": "missing/I/397377-i-would-like-a-snack.json"
     },
     {
+      "igdb_id": 167022,
+      "game_name": "I x She Tell: Limited Edition",
+      "file": "missing/I/167022-i-x-she-tell-limited-edition.json"
+    },
+    {
       "igdb_id": 69879,
       "game_name": "I-0: Jailbait on Interstate Zero",
       "file": "missing/I/69879-i-0-jailbait-on-interstate-zero.json"
@@ -539202,6 +539292,11 @@
       "file": "missing/K/136754-kiniro-loveriche.json"
     },
     {
+      "igdb_id": 167023,
+      "game_name": "Kin'iro Loveriche: Golden Box Limited Edition",
+      "file": "missing/K/167023-kiniro-loveriche-golden-box-limited-edition.json"
+    },
+    {
       "igdb_id": 141187,
       "game_name": "Kin'iro Loveriche: Golden Time",
       "file": "missing/K/141187-kiniro-loveriche-golden-time.json"
@@ -541215,6 +541310,11 @@
       "igdb_id": 187459,
       "game_name": "Kingdom Hearts III + Re Mind: Cloud Version",
       "file": "missing/K/187459-kingdom-hearts-iii-re-mind-cloud-version.json"
+    },
+    {
+      "igdb_id": 167000,
+      "game_name": "Kingdom Hearts III Integrum Masterpiece: e-Store Limited Edition",
+      "file": "missing/K/167000-kingdom-hearts-iii-integrum-masterpiece-e-store-limited-edition.json"
     },
     {
       "igdb_id": 403641,
@@ -582442,6 +582542,11 @@
       "file": "missing/L/28128-lords-of-the-fallen-collectors-edition.json"
     },
     {
+      "igdb_id": 166990,
+      "game_name": "Lords of the Fallen: Complete Edition",
+      "file": "missing/L/166990-lords-of-the-fallen-complete-edition.json"
+    },
+    {
       "igdb_id": 250427,
       "game_name": "Lords of the Fallen: Deluxe Edition",
       "file": "missing/L/250427-lords-of-the-fallen-deluxe-edition.json"
@@ -586960,6 +587065,11 @@
       "igdb_id": 172449,
       "game_name": "Lovecraft's Untold Stories 2",
       "file": "missing/L/172449-lovecrafts-untold-stories-2.json"
+    },
+    {
+      "igdb_id": 166999,
+      "game_name": "Lovecraft's Untold Stories: Collector's Edition",
+      "file": "missing/L/166999-lovecrafts-untold-stories-collectors-edition.json"
     },
     {
       "igdb_id": 259512,
@@ -600072,6 +600182,11 @@
       "file": "missing/M/136738-maid-san-no-iru-kurashi.json"
     },
     {
+      "igdb_id": 167026,
+      "game_name": "Maid-san no Iru Kurashi: Premium Edition",
+      "file": "missing/M/167026-maid-san-no-iru-kurashi-premium-edition.json"
+    },
+    {
       "igdb_id": 210584,
       "game_name": "Maid-san Slayer: The Soul Of Elegant Skill",
       "file": "missing/M/210584-maid-san-slayer-the-soul-of-elegant-skill.json"
@@ -600550,6 +600665,11 @@
       "igdb_id": 126483,
       "game_name": "Maitetsu: Pure Station",
       "file": "missing/M/126483-maitetsu-pure-station.json"
+    },
+    {
+      "igdb_id": 167008,
+      "game_name": "Maitetsu: Pure Station - Special Luxury Version with Hachiroku Cover Limited Edition",
+      "file": "missing/M/167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json"
     },
     {
       "igdb_id": 167158,
@@ -646337,6 +646457,11 @@
       "file": "missing/M/118909-mlb-the-show-18-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 166987,
+      "game_name": "MLB The Show 18: MVP Edition",
+      "file": "missing/M/166987-mlb-the-show-18-mvp-edition.json"
+    },
+    {
       "igdb_id": 111654,
       "game_name": "MLB The Show 19",
       "file": "missing/M/111654-mlb-the-show-19.json"
@@ -654800,6 +654925,11 @@
       "igdb_id": 41402,
       "game_name": "Moon Ball Magic",
       "file": "missing/M/41402-moon-ball-magic.json"
+    },
+    {
+      "igdb_id": 167032,
+      "game_name": "Moon Base",
+      "file": "missing/M/167032-moon-base.json"
     },
     {
       "igdb_id": 306031,
@@ -716212,6 +716342,11 @@
       "file": "missing/O/157115-one-more-dungeon-2.json"
     },
     {
+      "igdb_id": 167007,
+      "game_name": "One More Dungeon: Limited Edition",
+      "file": "missing/O/167007-one-more-dungeon-limited-edition.json"
+    },
+    {
       "igdb_id": 298817,
       "game_name": "One More Encounter",
       "file": "missing/O/298817-one-more-encounter.json"
@@ -718045,6 +718180,11 @@
       "igdb_id": 145052,
       "game_name": "Oni Ama: Watashi ni Amaete, Onii-chan",
       "file": "missing/O/145052-oni-ama-watashi-ni-amaete-onii-chan.json"
+    },
+    {
+      "igdb_id": 166985,
+      "game_name": "Oni Ama: Watashi ni Amaete, Onii-chan - Limited Edition",
+      "file": "missing/O/166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json"
     },
     {
       "igdb_id": 151529,
@@ -787472,6 +787612,11 @@
       "file": "missing/P/86384-pro-evolution-soccer-2018-lite.json"
     },
     {
+      "igdb_id": 166997,
+      "game_name": "Pro Evolution Soccer 2018: Legendary Edition",
+      "file": "missing/P/166997-pro-evolution-soccer-2018-legendary-edition.json"
+    },
+    {
       "igdb_id": 100359,
       "game_name": "Pro Evolution Soccer 2019",
       "file": "missing/P/100359-pro-evolution-soccer-2019.json"
@@ -818395,6 +818540,11 @@
       "igdb_id": 100787,
       "game_name": "Real Car Racing",
       "file": "missing/R/100787-real-car-racing.json"
+    },
+    {
+      "igdb_id": 167030,
+      "game_name": "Real Carrom",
+      "file": "missing/R/167030-real-carrom.json"
     },
     {
       "igdb_id": 273963,
@@ -878112,6 +878262,11 @@
       "file": "missing/S/167034-semispheres-blue-cover-limited-edition.json"
     },
     {
+      "igdb_id": 167001,
+      "game_name": "Semispheres: Orange Cover - Limited Edition",
+      "file": "missing/S/167001-semispheres-orange-cover-limited-edition.json"
+    },
+    {
       "igdb_id": 238752,
       "game_name": "Semmelweis",
       "file": "missing/S/238752-semmelweis.json"
@@ -878397,6 +878552,11 @@
       "file": "missing/S/60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json"
     },
     {
+      "igdb_id": 167028,
+      "game_name": "Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition",
+      "file": "missing/S/167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json"
+    },
+    {
       "igdb_id": 289017,
       "game_name": "Sengoku IXA",
       "file": "missing/S/289017-sengoku-ixa.json"
@@ -878452,6 +878612,11 @@
       "file": "missing/S/144381-sengoku-koihime-otome-kenran-sengoku-emaki.json"
     },
     {
+      "igdb_id": 167084,
+      "game_name": "Sengoku Koihime: Otome Kenran Sengoku Emaki - Limited Edition",
+      "file": "missing/S/167084-sengoku-koihime-otome-kenran-sengoku-emaki-limited-edition.json"
+    },
+    {
       "igdb_id": 75445,
       "game_name": "Sengoku Legends 2001",
       "file": "missing/S/75445-sengoku-legends-2001.json"
@@ -878465,6 +878630,11 @@
       "igdb_id": 392768,
       "game_name": "Sengoku Mugen",
       "file": "missing/S/392768-sengoku-mugen.json"
+    },
+    {
+      "igdb_id": 167021,
+      "game_name": "Sengoku Musou 4-II: Treasure Box",
+      "file": "missing/S/167021-sengoku-musou-4-ii-treasure-box.json"
     },
     {
       "igdb_id": 61497,
@@ -878685,6 +878855,11 @@
       "igdb_id": 248315,
       "game_name": "Senran Kagura Burst Re:Newal - Miyabi Character and Campaign",
       "file": "missing/S/248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json"
+    },
+    {
+      "igdb_id": 167011,
+      "game_name": "Senran Kagura Burst Re:Newal - Nyuu Nyuu DX Pack Limited Edition",
+      "file": "missing/S/167011-senran-kagura-burst-re-newal-nyuu-nyuu-dx-pack-limited-edition.json"
     },
     {
       "igdb_id": 136293,
@@ -888062,6 +888237,11 @@
       "file": "missing/S/413210-shenmue-i-and-ii-vr-mod.json"
     },
     {
+      "igdb_id": 166986,
+      "game_name": "Shenmue I & II: Limited Edition",
+      "file": "missing/S/166986-shenmue-i-and-ii-limited-edition.json"
+    },
+    {
       "igdb_id": 1218,
       "game_name": "Shenmue II",
       "file": "missing/S/1218-shenmue-ii.json"
@@ -888992,6 +889172,11 @@
       "file": "missing/S/395144-shikhondo-blue-pieta.json"
     },
     {
+      "igdb_id": 166994,
+      "game_name": "Shikhondo: Soul Eater - Limited Edition",
+      "file": "missing/S/166994-shikhondo-soul-eater-limited-edition.json"
+    },
+    {
       "igdb_id": 283772,
       "game_name": "Shikhondo: Youkai Rampage",
       "file": "missing/S/283772-shikhondo-youkai-rampage.json"
@@ -889385,6 +889570,11 @@
       "igdb_id": 238339,
       "game_name": "Shin Megami Tensei III: Nocturne - HD Remaster Digital Deluxe Edition",
       "file": "missing/S/238339-shin-megami-tensei-iii-nocturne-hd-remaster-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 167024,
+      "game_name": "Shin Megami Tensei III: Nocturne - HD Remaster Limited Edition",
+      "file": "missing/S/167024-shin-megami-tensei-iii-nocturne-hd-remaster-limited-edition.json"
     },
     {
       "igdb_id": 336554,
@@ -906595,6 +906785,11 @@
       "igdb_id": 294588,
       "game_name": "Skyland Wars",
       "file": "missing/S/294588-skyland-wars.json"
+    },
+    {
+      "igdb_id": 166979,
+      "game_name": "Skylanders SuperChargers: Dark Edition Starter Pack",
+      "file": "missing/S/166979-skylanders-superchargers-dark-edition-starter-pack.json"
     },
     {
       "igdb_id": 21563,
@@ -972297,6 +972492,11 @@
       "file": "missing/S/336180-summer-lesson-allison-snow-nanokakan-no-niwa.json"
     },
     {
+      "igdb_id": 166976,
+      "game_name": "Summer Lesson: Allison Snow & Chisato Shinjo",
+      "file": "missing/S/166976-summer-lesson-allison-snow-and-chisato-shinjo.json"
+    },
+    {
       "igdb_id": 219030,
       "game_name": "Summer Lesson: Chisato Shinjo - Shichiyou no Etude",
       "file": "missing/S/219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json"
@@ -983097,6 +983297,11 @@
       "file": "missing/S/136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json"
     },
     {
+      "igdb_id": 167016,
+      "game_name": "Super Robot Wars X: Steelbook Edition",
+      "file": "missing/S/167016-super-robot-wars-x-steelbook-edition.json"
+    },
+    {
       "igdb_id": 337040,
       "game_name": "Super Robot Wars Y",
       "file": "missing/S/337040-super-robot-wars-y.json"
@@ -986170,6 +986375,11 @@
       "igdb_id": 190995,
       "game_name": "SuperDungeon MegaCorp",
       "file": "missing/S/190995-superdungeon-megacorp.json"
+    },
+    {
+      "igdb_id": 167027,
+      "game_name": "SuperEpic: The Entertainment War - Badge Edition",
+      "file": "missing/S/167027-superepic-the-entertainment-war-badge-edition.json"
     },
     {
       "igdb_id": 263656,
@@ -993475,6 +993685,11 @@
       "igdb_id": 110843,
       "game_name": "Sword Art Online: Fatal Bullet - Dissonance of the Nexus",
       "file": "missing/S/110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json"
+    },
+    {
+      "igdb_id": 166982,
+      "game_name": "Sword Art Online: Fatal Bullet - Limited Edition",
+      "file": "missing/S/166982-sword-art-online-fatal-bullet-limited-edition.json"
     },
     {
       "igdb_id": 287852,
@@ -1041322,6 +1041537,11 @@
       "file": "missing/T/321571-the-king-of-fighters-xiv-blue-mary.json"
     },
     {
+      "igdb_id": 167009,
+      "game_name": "The King of Fighters XIV: Burn to Fight Premium Edition",
+      "file": "missing/T/167009-the-king-of-fighters-xiv-burn-to-fight-premium-edition.json"
+    },
+    {
       "igdb_id": 322961,
       "game_name": "The King of Fighters XIV: Classic Iori Costume",
       "file": "missing/T/322961-the-king-of-fighters-xiv-classic-iori-costume.json"
@@ -1042815,6 +1043035,11 @@
       "igdb_id": 38490,
       "game_name": "The Last Guardian: Collector's Edition",
       "file": "missing/T/38490-the-last-guardian-collectors-edition.json"
+    },
+    {
+      "igdb_id": 166983,
+      "game_name": "The Last Guardian: First-Press Limited Edition",
+      "file": "missing/T/166983-the-last-guardian-first-press-limited-edition.json"
     },
     {
       "igdb_id": 405004,
@@ -1054772,6 +1054997,11 @@
       "file": "missing/T/313869-the-princess-swap.json"
     },
     {
+      "igdb_id": 167020,
+      "game_name": "The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition",
+      "file": "missing/T/167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json"
+    },
+    {
       "igdb_id": 35022,
       "game_name": "The Princess' Heart",
       "file": "missing/T/35022-the-princess-heart.json"
@@ -1055605,6 +1055835,11 @@
       "igdb_id": 243776,
       "game_name": "The Quintessential Quintuplets: Omoide VR - Yotsuba",
       "file": "missing/T/243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json"
+    },
+    {
+      "igdb_id": 167012,
+      "game_name": "The Quintessential Quintuplets: Summer Memories Also Come in Five - Limited Edition",
+      "file": "missing/T/167012-the-quintessential-quintuplets-summer-memories-also-come-in-five-limited-edition.json"
     },
     {
       "igdb_id": 194029,
@@ -1094032,6 +1094267,11 @@
       "file": "missing/T/236240-tonalities.json"
     },
     {
+      "igdb_id": 166993,
+      "game_name": "Tonari ni Kanojo no Iru Shiawase: Curious Queen - Limited Edition",
+      "file": "missing/T/166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json"
+    },
+    {
       "igdb_id": 219050,
       "game_name": "Tonari ni Kanojo no Iru Shiawase: I Fight with Summer",
       "file": "missing/T/219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json"
@@ -1117810,6 +1118050,11 @@
       "igdb_id": 168149,
       "game_name": "Trove: Square Necessities Pack",
       "file": "missing/T/168149-trove-square-necessities-pack.json"
+    },
+    {
+      "igdb_id": 167010,
+      "game_name": "Trove: Twinkle Treasure Pack",
+      "file": "missing/T/167010-trove-twinkle-treasure-pack.json"
     },
     {
       "igdb_id": 341644,
@@ -1187200,6 +1187445,11 @@
       "igdb_id": 89105,
       "game_name": "World Craft HD",
       "file": "missing/W/89105-world-craft-hd.json"
+    },
+    {
+      "igdb_id": 167019,
+      "game_name": "World Cricket Championship",
+      "file": "missing/W/167019-world-cricket-championship.json"
     },
     {
       "igdb_id": 165526,
