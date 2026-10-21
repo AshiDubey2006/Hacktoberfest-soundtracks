@@ -3395,6 +3395,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
+| Epic Fun: Explosive War Coaster | 169116 | [169116-epic-fun-explosive-war-coaster.json](./169116-epic-fun-explosive-war-coaster.json) |
+| Epic Fun: R0b0t Coaster | 169113 | [169113-epic-fun-r0b0t-coaster.json](./169113-epic-fun-r0b0t-coaster.json) |
+| Epic Fun: Saloon Dart | 169115 | [169115-epic-fun-saloon-dart.json](./169115-epic-fun-saloon-dart.json) |
+| Epic Fun: Saloon Shooter | 169118 | [169118-epic-fun-saloon-shooter.json](./169118-epic-fun-saloon-shooter.json) |
+| Epic Fun: Viking Coaster | 169117 | [169117-epic-fun-viking-coaster.json](./169117-epic-fun-viking-coaster.json) |
+| Epic Fun: Western Coaster | 169114 | [169114-epic-fun-western-coaster.json](./169114-epic-fun-western-coaster.json) |
 | Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
