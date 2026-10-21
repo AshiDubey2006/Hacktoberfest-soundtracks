@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
 | Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
+| Capcom Arcade Stadium Packs 1, 2, and 3 | 164749 | [164749-capcom-arcade-stadium-packs-1-2-and-3.json](./164749-capcom-arcade-stadium-packs-1-2-and-3.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
@@ -7004,6 +7005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Driver: Car Parking Simulator | 277726 | [277726-city-driver-car-parking-simulator.json](./277726-city-driver-car-parking-simulator.json) |
 | City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
 | City Driving Simulator | 135634 | [135634-city-driving-simulator.json](./135634-city-driving-simulator.json) |
+| City Driving Simulator 2 | 164764 | [164764-city-driving-simulator-2.json](./164764-city-driving-simulator-2.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
@@ -10675,6 +10677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
 | Contradiction | 232320 | [232320-contradiction.json](./232320-contradiction.json) |
 | Contradiction | 76229 | [76229-contradiction.json](./76229-contradiction.json) |
+| Contradiction 8Bit | 164767 | [164767-contradiction-8bit.json](./164767-contradiction-8bit.json) |
 | Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
 | Contraption | 13513 | [13513-contraption.json](./13513-contraption.json) |
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
