@@ -8935,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
 | Doki Doki AI Interrogation | 291380 | [291380-doki-doki-ai-interrogation.json](./291380-doki-doki-ai-interrogation.json) |
+| Doki Doki Anomaly | 166457 | [166457-doki-doki-anomaly.json](./166457-doki-doki-anomaly.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Another Round | 334267 | [334267-doki-doki-another-round.json](./334267-doki-doki-another-round.json) |
 | Doki Doki Brazilian Club | 327644 | [327644-doki-doki-brazilian-club.json](./327644-doki-doki-brazilian-club.json) |
