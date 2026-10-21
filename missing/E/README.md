@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
+| Erannorth Chronicles | 164287 | [164287-erannorth-chronicles.json](./164287-erannorth-chronicles.json) |
 | Erannorth Chronicles: Ancient Ruins | 192263 | [192263-erannorth-chronicles-ancient-ruins.json](./192263-erannorth-chronicles-ancient-ruins.json) |
 | Erannorth Chronicles: Guilds and Secret Societies | 226806 | [226806-erannorth-chronicles-guilds-and-secret-societies.json](./226806-erannorth-chronicles-guilds-and-secret-societies.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
@@ -4175,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Route | 147871 | [147871-escape-route.json](./147871-escape-route.json) |
+| Escape Sequence | 164293 | [164293-escape-sequence.json](./164293-escape-sequence.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Shadow Storm | 255272 | [255272-escape-shadow-storm.json](./255272-escape-shadow-storm.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
