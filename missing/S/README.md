@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
+| Semispheres: Orange Cover - Limited Edition | 167001 | [167001-semispheres-orange-cover-limited-edition.json](./167001-semispheres-orange-cover-limited-edition.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semo | 369104 | [369104-semo.json](./369104-semo.json) |
 | SEMP 64 | 331964 | [331964-semp-64.json](./331964-semp-64.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
+| Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition | 167028 | [167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json](./167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json) |
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Genko Campaign - 2nd Mongol Invasion of Japan 1281 | 184473 | [184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json](./184473-sengoku-jidai-genko-campaign-2nd-mongol-invasion-of-japan-1281.json) |
@@ -4179,9 +4181,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Koihime EX 3: Mouri Ke no Kizuna-hen | 411694 | [411694-sengoku-koihime-ex-3-mouri-ke-no-kizuna-hen.json](./411694-sengoku-koihime-ex-3-mouri-ke-no-kizuna-hen.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Sengoku Koihime: Otome Kenran Sengoku Emaki | 144381 | [144381-sengoku-koihime-otome-kenran-sengoku-emaki.json](./144381-sengoku-koihime-otome-kenran-sengoku-emaki.json) |
+| Sengoku Koihime: Otome Kenran Sengoku Emaki - Limited Edition | 167084 | [167084-sengoku-koihime-otome-kenran-sengoku-emaki-limited-edition.json](./167084-sengoku-koihime-otome-kenran-sengoku-emaki-limited-edition.json) |
 | Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
 | Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
+| Sengoku Musou 4-II: Treasure Box | 167021 | [167021-sengoku-musou-4-ii-treasure-box.json](./167021-sengoku-musou-4-ii-treasure-box.json) |
 | Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
@@ -4226,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst | 9915 | [9915-senran-kagura-burst.json](./9915-senran-kagura-burst.json) |
 | Senran Kagura Burst Re:Newal - At the Seams Edition | 136354 | [136354-senran-kagura-burst-re-newal-at-the-seams-edition.json](./136354-senran-kagura-burst-re-newal-at-the-seams-edition.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
+| Senran Kagura Burst Re:Newal - Nyuu Nyuu DX Pack Limited Edition | 167011 | [167011-senran-kagura-burst-re-newal-nyuu-nyuu-dx-pack-limited-edition.json](./167011-senran-kagura-burst-re-newal-nyuu-nyuu-dx-pack-limited-edition.json) |
 | Senran Kagura Burst Re:Newal - Tailor-Made Edition | 136293 | [136293-senran-kagura-burst-re-newal-tailor-made-edition.json](./136293-senran-kagura-burst-re-newal-tailor-made-edition.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Peach and Reflextions: Limited Double Pack | 117172 | [117172-senran-kagura-peach-and-reflextions-limited-double-pack.json](./117172-senran-kagura-peach-and-reflextions-limited-double-pack.json) |
@@ -6101,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue | 1217 | [1217-shenmue.json](./1217-shenmue.json) |
 | Shenmue I & II | 96391 | [96391-shenmue-i-and-ii.json](./96391-shenmue-i-and-ii.json) |
 | Shenmue I & II VR Mod | 413210 | [413210-shenmue-i-and-ii-vr-mod.json](./413210-shenmue-i-and-ii-vr-mod.json) |
+| Shenmue I & II: Limited Edition | 166986 | [166986-shenmue-i-and-ii-limited-edition.json](./166986-shenmue-i-and-ii-limited-edition.json) |
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
 | Shenmue III: Collector's Edition | 296044 | [296044-shenmue-iii-collectors-edition.json](./296044-shenmue-iii-collectors-edition.json) |
@@ -6287,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
 | Shikhondo: Blue Pieta | 395144 | [395144-shikhondo-blue-pieta.json](./395144-shikhondo-blue-pieta.json) |
+| Shikhondo: Soul Eater - Limited Edition | 166994 | [166994-shikhondo-soul-eater-limited-edition.json](./166994-shikhondo-soul-eater-limited-edition.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki | 125100 | [125100-shiki.json](./125100-shiki.json) |
 | Shiki Eiyuuden: Hito Ryuu Densetsu | 58589 | [58589-shiki-eiyuuden-hito-ryuu-densetsu.json](./58589-shiki-eiyuuden-hito-ryuu-densetsu.json) |
@@ -6366,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster Digital Deluxe Edition | 238339 | [238339-shin-megami-tensei-iii-nocturne-hd-remaster-digital-deluxe-edition.json](./238339-shin-megami-tensei-iii-nocturne-hd-remaster-digital-deluxe-edition.json) |
+| Shin Megami Tensei III: Nocturne - HD Remaster Limited Edition | 167024 | [167024-shin-megami-tensei-iii-nocturne-hd-remaster-limited-edition.json](./167024-shin-megami-tensei-iii-nocturne-hd-remaster-limited-edition.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
@@ -9808,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
+| Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
@@ -22946,6 +22955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Knights | 122156 | [122156-summer-knights.json](./122156-summer-knights.json) |
 | Summer Lesson | 13668 | [13668-summer-lesson.json](./13668-summer-lesson.json) |
 | Summer Lesson: Allison Snow - Nanokakan no Niwa | 336180 | [336180-summer-lesson-allison-snow-nanokakan-no-niwa.json](./336180-summer-lesson-allison-snow-nanokakan-no-niwa.json) |
+| Summer Lesson: Allison Snow & Chisato Shinjo | 166976 | [166976-summer-lesson-allison-snow-and-chisato-shinjo.json](./166976-summer-lesson-allison-snow-and-chisato-shinjo.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
@@ -25106,6 +25116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars V | 117578 | [117578-super-robot-wars-v.json](./117578-super-robot-wars-v.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
+| Super Robot Wars X: Steelbook Edition | 167016 | [167016-super-robot-wars-x-steelbook-edition.json](./167016-super-robot-wars-x-steelbook-edition.json) |
 | Super Robot Wars Y | 337040 | [337040-super-robot-wars-y.json](./337040-super-robot-wars-y.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
@@ -25721,6 +25732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDude | 103923 | [103923-superdude.json](./103923-superdude.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
+| SuperEpic: The Entertainment War - Badge Edition | 167027 | [167027-superepic-the-entertainment-war-badge-edition.json](./167027-superepic-the-entertainment-war-badge-edition.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
 | Superfight | 34372 | [34372-superfight.json](./34372-superfight.json) |
@@ -27181,6 +27193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
 | Sword Art Online: Fatal Bullet - Collapse of Balance | 114142 | [114142-sword-art-online-fatal-bullet-collapse-of-balance.json](./114142-sword-art-online-fatal-bullet-collapse-of-balance.json) |
 | Sword Art Online: Fatal Bullet - Dissonance of the Nexus | 110843 | [110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json](./110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json) |
+| Sword Art Online: Fatal Bullet - Limited Edition | 166982 | [166982-sword-art-online-fatal-bullet-limited-edition.json](./166982-sword-art-online-fatal-bullet-limited-edition.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 2 | 380690 | [380690-sword-art-online-fractured-daydream-character-pass-vol-2.json](./380690-sword-art-online-fractured-daydream-character-pass-vol-2.json) |
