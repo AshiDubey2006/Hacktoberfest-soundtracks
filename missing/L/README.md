@@ -6529,6 +6529,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotwick Hill | 422109 | [422109-lotwick-hill.json](./422109-lotwick-hill.json) |
 | Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
+| Lou's Revenge | 164850 | [164850-lous-revenge.json](./164850-lous-revenge.json) |
+| Lou's Revenge + One Dog Story Bundle | 164837 | [164837-lous-revenge-one-dog-story-bundle.json](./164837-lous-revenge-one-dog-story-bundle.json) |
 | Loud on Planet X | 19849 | [19849-loud-on-planet-x.json](./19849-loud-on-planet-x.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
