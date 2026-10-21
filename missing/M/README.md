@@ -7868,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolis 1998 | 244305 | [244305-metropolis-1998.json](./244305-metropolis-1998.json) |
 | Metropolis Card Club | 209519 | [209519-metropolis-card-club.json](./209519-metropolis-card-club.json) |
 | Metropolis Crimes | 67686 | [67686-metropolis-crimes.json](./67686-metropolis-crimes.json) |
+| Metropolis Odyssey | 165377 | [165377-metropolis-odyssey.json](./165377-metropolis-odyssey.json) |
 | Metropolis Origins | 183871 | [183871-metropolis-origins.json](./183871-metropolis-origins.json) |
 | Metropolis: Lux Obscura | 68442 | [68442-metropolis-lux-obscura.json](./68442-metropolis-lux-obscura.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
