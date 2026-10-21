@@ -2062,8 +2062,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Eclipse | 139200 | [139200-haunted-hotel-eclipse.json](./139200-haunted-hotel-eclipse.json) |
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Eternity | 99723 | [99723-haunted-hotel-eternity.json](./99723-haunted-hotel-eternity.json) |
+| Haunted Hotel: Eternity - Collector's Edition | 170195 | [170195-haunted-hotel-eternity-collectors-edition.json](./170195-haunted-hotel-eternity-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
+| Haunted Hotel: Lost Time - Collector's Edition | 170193 | [170193-haunted-hotel-lost-time-collectors-edition.json](./170193-haunted-hotel-lost-time-collectors-edition.json) |
 | Haunted Hotel: Personal Nightmare | 182282 | [182282-haunted-hotel-personal-nightmare.json](./182282-haunted-hotel-personal-nightmare.json) |
 | Haunted Hotel: Personal Nightmare - Collector's Edition | 232925 | [232925-haunted-hotel-personal-nightmare-collectors-edition.json](./232925-haunted-hotel-personal-nightmare-collectors-edition.json) |
 | Haunted Hotel: Phoenix | 99994 | [99994-haunted-hotel-phoenix.json](./99994-haunted-hotel-phoenix.json) |
@@ -5284,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
+| Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: Crown of Solomon - Collector's Edition | 22080 | [22080-hidden-expedition-crown-of-solomon-collectors-edition.json](./22080-hidden-expedition-crown-of-solomon-collectors-edition.json) |
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
@@ -5298,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Expedition: The Pearl of Discord - Collector's Edition | 29102 | [29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json](./29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json) |
 | Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
+| Hidden Expedition: The Price of Paradise - Collector's Edition | 170182 | [170182-hidden-expedition-the-price-of-paradise-collectors-edition.json](./170182-hidden-expedition-the-price-of-paradise-collectors-edition.json) |
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
