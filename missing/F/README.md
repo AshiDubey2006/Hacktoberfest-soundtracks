@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
+| Fantasy Gunner | 164297 | [164297-fantasy-gunner.json](./164297-fantasy-gunner.json) |
 | Fantasy Hearts | 345068 | [345068-fantasy-hearts.json](./345068-fantasy-hearts.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
