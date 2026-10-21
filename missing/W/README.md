@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking | 186108 | [186108-walking.json](./186108-walking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
+| Walking into Walls | 164315 | [164315-walking-into-walls.json](./164315-walking-into-walls.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
@@ -3061,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World League Baseball | 269969 | [269969-world-league-baseball.json](./269969-world-league-baseball.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World League Soccer '98 | 45466 | [45466-world-league-soccer-98.json](./45466-world-league-soccer-98.json) |
+| World Legends | 164316 | [164316-world-legends.json](./164316-world-legends.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
@@ -6816,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormwood: Expanded Universe | 274871 | [274871-wormwood-expanded-universe.json](./274871-wormwood-expanded-universe.json) |
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
 | Worn by the Forgotten | 407866 | [407866-worn-by-the-forgotten.json](./407866-worn-by-the-forgotten.json) |
+| Worn Thin | 164218 | [164218-worn-thin.json](./164218-worn-thin.json) |
 | Worrrm Rebirth | 253253 | [253253-worrrm-rebirth.json](./253253-worrrm-rebirth.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
