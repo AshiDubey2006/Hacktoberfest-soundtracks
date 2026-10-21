@@ -9471,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
+| Don't Starve: Giant Edition + Shipwrecked Expansion | 164840 | [164840-dont-starve-giant-edition-shipwrecked-expansion.json](./164840-dont-starve-giant-edition-shipwrecked-expansion.json) |
 | Don't Starve: Hamlet | 103326 | [103326-dont-starve-hamlet.json](./103326-dont-starve-hamlet.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
@@ -13717,6 +13718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Escape | 207291 | [207291-dungeon-escape.json](./207291-dungeon-escape.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
 | Dungeon Escape VR | 28890 | [28890-dungeon-escape-vr.json](./28890-dungeon-escape-vr.json) |
+| Dungeon Escape: Console Edition | 164750 | [164750-dungeon-escape-console-edition.json](./164750-dungeon-escape-console-edition.json) |
 | Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
 | Dungeon Evolution: Nemesis | 258323 | [258323-dungeon-evolution-nemesis.json](./258323-dungeon-evolution-nemesis.json) |
 | Dungeon Exiles | 290847 | [290847-dungeon-exiles.json](./290847-dungeon-exiles.json) |
