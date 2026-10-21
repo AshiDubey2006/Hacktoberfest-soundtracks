@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor: Call of the Shadows - 2010 Edition | 51880 | [51880-raptor-call-of-the-shadows-2010-edition.json](./51880-raptor-call-of-the-shadows-2010-edition.json) |
 | Raptor: Call of the Shadows - 2015 Edition | 36115 | [36115-raptor-call-of-the-shadows-2015-edition.json](./36115-raptor-call-of-the-shadows-2015-edition.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
+| Raptors of SouthEdge | 163786 | [163786-raptors-of-southedge.json](./163786-raptors-of-southedge.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
