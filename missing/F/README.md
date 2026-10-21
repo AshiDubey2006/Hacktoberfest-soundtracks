@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
 | Fast Striker 1.5 | 45787 | [45787-fast-striker-1-5.json](./45787-fast-striker-1-5.json) |
+| Fast Striker: Limited Edition | 166998 | [166998-fast-striker-limited-edition.json](./166998-fast-striker-limited-edition.json) |
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast Typing Master | 161614 | [161614-fast-typing-master.json](./161614-fast-typing-master.json) |
 | Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
@@ -3319,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
+| FIFA 15: Ultimate Edition | 167025 | [167025-fifa-15-ultimate-edition.json](./167025-fifa-15-ultimate-edition.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
