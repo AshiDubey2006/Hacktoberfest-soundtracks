@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel Gear | 178874 | [178874-feel-gear.json](./178874-feel-gear.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feel the Snow | 31001 | [31001-feel-the-snow.json](./31001-feel-the-snow.json) |
+| Feel Up a Sexy Lifeguard! | 169089 | [169089-feel-up-a-sexy-lifeguard.json](./169089-feel-up-a-sexy-lifeguard.json) |
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feeling Death | 287723 | [287723-feeling-death.json](./287723-feeling-death.json) |
@@ -5388,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
+| Five Nights at Freddy's: Help Wanted - Curse of Dreadbear | 169108 | [169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json](./169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json) |
 | Five Nights at Freddy's: Help Wanted 2 | 250627 | [250627-five-nights-at-freddys-help-wanted-2.json](./250627-five-nights-at-freddys-help-wanted-2.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into Madness | 303290 | [303290-five-nights-at-freddys-into-madness.json](./303290-five-nights-at-freddys-into-madness.json) |
@@ -5863,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flerp | 215575 | [215575-flerp.json](./215575-flerp.json) |
+| Flesh | 169095 | [169095-flesh.json](./169095-flesh.json) |
 | Flesh | 216244 | [216244-flesh.json](./216244-flesh.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
 | Flesh & Wire | 392820 | [392820-flesh-and-wire.json](./392820-flesh-and-wire.json) |
@@ -9511,6 +9514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Fire Emergence | 302928 | [302928-from-fire-emergence.json](./302928-from-fire-emergence.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
+| From Frontier | 169097 | [169097-from-frontier.json](./169097-from-frontier.json) |
 | From Head to Toe | 120053 | [120053-from-head-to-toe.json](./120053-from-head-to-toe.json) |
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
