@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
+| Emergency Call 112: KEF - Das Kleineinsatzfahrzeug | 170724 | [170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json](./170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - The Swap Body Vehicle | 315608 | [315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json](./315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - Volunteer Firefighters | 315605 | [315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json](./315605-emergency-call-112-the-fire-fighting-simulation-2-volunteer-firefighters.json) |
@@ -4805,9 +4806,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro 2016 Shootout Quiz | 110201 | [110201-euro-2016-shootout-quiz.json](./110201-euro-2016-shootout-quiz.json) |
 | Euro 3v3 | 394119 | [394119-euro-3v3.json](./394119-euro-3v3.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
+| Euro Fishing: Bergsee | 170761 | [170761-euro-fishing-bergsee.json](./170761-euro-fishing-bergsee.json) |
 | Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
+| Euro Fishing: Hunters Lake | 170760 | [170760-euro-fishing-hunters-lake.json](./170760-euro-fishing-hunters-lake.json) |
+| Euro Fishing: Le Lac d'or | 170763 | [170763-euro-fishing-le-lac-dor.json](./170763-euro-fishing-le-lac-dor.json) |
+| Euro Fishing: Lilies | 170762 | [170762-euro-fishing-lilies.json](./170762-euro-fishing-lilies.json) |
+| Euro Fishing: Manor Farm Lake | 170759 | [170759-euro-fishing-manor-farm-lake.json](./170759-euro-fishing-manor-farm-lake.json) |
 | Euro Fishing: The Moat | 151065 | [151065-euro-fishing-the-moat.json](./151065-euro-fishing-the-moat.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
+| Euro Fishing: Waldsee | 170764 | [170764-euro-fishing-waldsee.json](./170764-euro-fishing-waldsee.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Train Simulator | 202231 | [202231-euro-train-simulator.json](./202231-euro-train-simulator.json) |
 | Euro Train Simulator 2 | 202232 | [202232-euro-train-simulator-2.json](./202232-euro-train-simulator-2.json) |
