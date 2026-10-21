@@ -4417,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
+| Ressifice | 165937 | [165937-ressifice.json](./165937-ressifice.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Ressurection of Chaos | 268902 | [268902-ressurection-of-chaos.json](./268902-ressurection-of-chaos.json) |
 | Rest | 120149 | [120149-rest.json](./120149-rest.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Back to Basic Pack | 165969 | [165969-ride-3-back-to-basic-pack.json](./165969-ride-3-back-to-basic-pack.json) |
 | Ride 3: Best of 2018 Pack 1 | 165977 | [165977-ride-3-best-of-2018-pack-1.json](./165977-ride-3-best-of-2018-pack-1.json) |
 | Ride 3: Best of 2018 Pack 2 | 165983 | [165983-ride-3-best-of-2018-pack-2.json](./165983-ride-3-best-of-2018-pack-2.json) |
+| Ride 3: BMW R 1200 GS Pack | 165963 | [165963-ride-3-bmw-r-1200-gs-pack.json](./165963-ride-3-bmw-r-1200-gs-pack.json) |
 | Ride 3: Free Pack 1 | 165982 | [165982-ride-3-free-pack-1.json](./165982-ride-3-free-pack-1.json) |
 | Ride 3: Free Pack 10 | 165979 | [165979-ride-3-free-pack-10.json](./165979-ride-3-free-pack-10.json) |
 | Ride 3: Free Pack 11 | 165973 | [165973-ride-3-free-pack-11.json](./165973-ride-3-free-pack-11.json) |
@@ -5500,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Free Pack 8 | 165984 | [165984-ride-3-free-pack-8.json](./165984-ride-3-free-pack-8.json) |
 | Ride 3: Free Pack 9 | 165965 | [165965-ride-3-free-pack-9.json](./165965-ride-3-free-pack-9.json) |
 | Ride 3: Gold Edition | 118750 | [118750-ride-3-gold-edition.json](./118750-ride-3-gold-edition.json) |
+| Ride 3: Italy Pack | 165964 | [165964-ride-3-italy-pack.json](./165964-ride-3-italy-pack.json) |
 | Ride 3: Japan Pack | 165972 | [165972-ride-3-japan-pack.json](./165972-ride-3-japan-pack.json) |
 | Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
 | Ride 3: Naked Bikes Pack | 160299 | [160299-ride-3-naked-bikes-pack.json](./160299-ride-3-naked-bikes-pack.json) |
