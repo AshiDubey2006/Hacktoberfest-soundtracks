@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampirijagd 2 Nightrace | 84437 | [84437-vampirijagd-2-nightrace.json](./84437-vampirijagd-2-nightrace.json) |
 | Vampirium: 1997 | 409402 | [409402-vampirium-1997.json](./409402-vampirium-1997.json) |
 | Vampirix | 232904 | [232904-vampirix.json](./232904-vampirix.json) |
+| Vampiromania: O Game | 163702 | [163702-vampiromania-o-game.json](./163702-vampiromania-o-game.json) |
 | Vampolitics: Vassals of the Void | 375375 | [375375-vampolitics-vassals-of-the-void.json](./375375-vampolitics-vassals-of-the-void.json) |
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
