@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Auction | 264359 | [264359-dark-auction.json](./264359-dark-auction.json) |
 | Dark Avenger | 38510 | [38510-dark-avenger.json](./38510-dark-avenger.json) |
 | Dark Awake: The King Has No Name | 52183 | [52183-dark-awake-the-king-has-no-name.json](./52183-dark-awake-the-king-has-no-name.json) |
+| Dark Blocks | 167517 | [167517-dark-blocks.json](./167517-dark-blocks.json) |
 | Dark Blood | 62625 | [62625-dark-blood.json](./62625-dark-blood.json) |
 | Dark Blood 2:The Cry of Souls | 291614 | [291614-dark-blood-2-the-cry-of-souls.json](./291614-dark-blood-2-the-cry-of-souls.json) |
 | Dark Blood: Beyond the Darkness | 291612 | [291612-dark-blood-beyond-the-darkness.json](./291612-dark-blood-beyond-the-darkness.json) |
@@ -4166,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
+| Deerstalker | 167553 | [167553-deerstalker.json](./167553-deerstalker.json) |
 | Deesse: Love and War | 231962 | [231962-deesse-love-and-war.json](./231962-deesse-love-and-war.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
@@ -5734,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
 | Destroy the Monoliths | 244644 | [244644-destroy-the-monoliths.json](./244644-destroy-the-monoliths.json) |
+| Destroy the Shogun | 167520 | [167520-destroy-the-shogun.json](./167520-destroy-the-shogun.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
@@ -5891,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Solitaire: Butler Story | 123981 | [123981-detective-solitaire-butler-story.json](./123981-detective-solitaire-butler-story.json) |
 | Detective Solitaire: Butler Story 2 | 242580 | [242580-detective-solitaire-butler-story-2.json](./242580-detective-solitaire-butler-story-2.json) |
 | Detective Solitaire: Butler Story 3 | 258947 | [258947-detective-solitaire-butler-story-3.json](./258947-detective-solitaire-butler-story-3.json) |
+| Detective Solitaire: Inspector Magic and the Forbidden Magic | 167555 | [167555-detective-solitaire-inspector-magic-and-the-forbidden-magic.json](./167555-detective-solitaire-inspector-magic-and-the-forbidden-magic.json) |
 | Detective Solitaire: The Ghost Agency | 168693 | [168693-detective-solitaire-the-ghost-agency.json](./168693-detective-solitaire-the-ghost-agency.json) |
 | Detective Solitaire: The Ghost Agency 2 | 222280 | [222280-detective-solitaire-the-ghost-agency-2.json](./222280-detective-solitaire-the-ghost-agency-2.json) |
 | Detective Stories | 218675 | [218675-detective-stories.json](./218675-detective-stories.json) |
@@ -8869,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
+| Dogpet | 167531 | [167531-dogpet.json](./167531-dogpet.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
@@ -11203,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Court: Revived | 315101 | [315101-dragon-court-revived.json](./315101-dragon-court-revived.json) |
 | Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
+| Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
 | Dragon Den | 287502 | [287502-dragon-den.json](./287502-dragon-den.json) |
@@ -11783,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw li | 322427 | [322427-draw-li.json](./322427-draw-li.json) |
 | Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
+| Draw music | 167558 | [167558-draw-music.json](./167558-draw-music.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
@@ -13473,6 +13480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
+| DumbBots: Hello World | 167540 | [167540-dumbbots-hello-world.json](./167540-dumbbots-hello-world.json) |
 | Dumber dwarves | 182724 | [182724-dumber-dwarves.json](./182724-dumber-dwarves.json) |
 | Dumber League | 175063 | [175063-dumber-league.json](./175063-dumber-league.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
