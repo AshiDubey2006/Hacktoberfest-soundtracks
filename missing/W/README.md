@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebCraft | 282219 | [282219-webcraft.json](./282219-webcraft.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | WebCum Secrets | 338386 | [338386-webcum-secrets.json](./338386-webcum-secrets.json) |
+| Webcup Soccer | 163785 | [163785-webcup-soccer.json](./163785-webcup-soccer.json) |
 | Weben Blocks | 204998 | [204998-weben-blocks.json](./204998-weben-blocks.json) |
 | Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
