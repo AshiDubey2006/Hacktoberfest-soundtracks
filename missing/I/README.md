@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| I Accidentally Restarted the USSR | 167527 | [167527-i-accidentally-restarted-the-ussr.json](./167527-i-accidentally-restarted-the-ussr.json) |
 | I Am 1 | 193415 | [193415-i-am-1.json](./193415-i-am-1.json) |
 | I Am 414C | 174216 | [174216-i-am-414c.json](./174216-i-am-414c.json) |
 | I am a Caterpillar | 252772 | [252772-i-am-a-caterpillar.json](./252772-i-am-a-caterpillar.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor | 179698 | [179698-impostor.json](./179698-impostor.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
+| Impostor Inside Us | 167532 | [167532-impostor-inside-us.json](./167532-impostor-inside-us.json) |
 | Impostor Online | 303576 | [303576-impostor-online.json](./303576-impostor-online.json) |
 | Impostor syndrome | 110385 | [110385-impostor-syndrome.json](./110385-impostor-syndrome.json) |
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
