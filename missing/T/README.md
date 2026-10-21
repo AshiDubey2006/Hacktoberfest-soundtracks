@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tackle Box | 228395 | [228395-tackle-box.json](./228395-tackle-box.json) |
 | Tackle Fire With Gun: The Game | 304269 | [304269-tackle-fire-with-gun-the-game.json](./304269-tackle-fire-with-gun-the-game.json) |
 | Tackle for Loss | 304715 | [304715-tackle-for-loss.json](./304715-tackle-for-loss.json) |
+| Tackle Girl | 167523 | [167523-tackle-girl.json](./167523-tackle-girl.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
 | Tackzimon | 335814 | [335814-tackzimon.json](./335814-tackzimon.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Soldier: Undead Rising | 175589 | [175589-tactical-soldier-undead-rising.json](./175589-tactical-soldier-undead-rising.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
+| Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
+| The Ghost | 167559 | [167559-the-ghost.json](./167559-the-ghost.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and the Golem | 211169 | [211169-the-ghost-and-the-golem.json](./211169-the-ghost-and-the-golem.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
@@ -8236,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
 | The Holy Gosh Darn | 240644 | [240644-the-holy-gosh-darn.json](./240644-the-holy-gosh-darn.json) |
+| The Holy Orange | 167513 | [167513-the-holy-orange.json](./167513-the-holy-orange.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
@@ -11022,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night the Carsons Disappeared | 30764 | [30764-the-night-the-carsons-disappeared.json](./30764-the-night-the-carsons-disappeared.json) |
 | The Night You'd Wish to Forget | 190015 | [190015-the-night-youd-wish-to-forget.json](./190015-the-night-youd-wish-to-forget.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
+| The Nightmare | 167533 | [167533-the-nightmare.json](./167533-the-nightmare.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
 | The Nightmare Before Christmas: Oogie's Revenge | 6200 | [6200-the-nightmare-before-christmas-oogies-revenge.json](./6200-the-nightmare-before-christmas-oogies-revenge.json) |
@@ -11257,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
+| The Outbreak: Wilderness | 167519 | [167519-the-outbreak-wilderness.json](./167519-the-outbreak-wilderness.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
@@ -13132,6 +13138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Engine DX | 341855 | [341855-the-spirit-engine-dx.json](./341855-the-spirit-engine-dx.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
+| The Spirit of Snowflake | 167550 | [167550-the-spirit-of-snowflake.json](./167550-the-spirit-of-snowflake.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
 | The Spirit of Twelve | 89820 | [89820-the-spirit-of-twelve.json](./89820-the-spirit-of-twelve.json) |
 | The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
@@ -14254,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
+| The Vampire Regent | 167537 | [167537-the-vampire-regent.json](./167537-the-vampire-regent.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
 | The Vampires | 215316 | [215316-the-vampires.json](./215316-the-vampires.json) |
 | The Van of Justice | 189914 | [189914-the-van-of-justice.json](./189914-the-van-of-justice.json) |
@@ -15852,6 +15860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrower Defense | 415898 | [415898-thrower-defense.json](./415898-thrower-defense.json) |
 | Throwing Master | 226591 | [226591-throwing-master.json](./226591-throwing-master.json) |
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
+| Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
 | Thrunt! | 134682 | [134682-thrunt.json](./134682-thrunt.json) |
 | Thrushbriar Hall | 111031 | [111031-thrushbriar-hall.json](./111031-thrushbriar-hall.json) |
@@ -25039,6 +25048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn on the lights! Brain Game | 245782 | [245782-turn-on-the-lights-brain-game.json](./245782-turn-on-the-lights-brain-game.json) |
+| Turn right | 167548 | [167548-turn-right.json](./167548-turn-right.json) |
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn the bridge | 109373 | [109373-turn-the-bridge.json](./109373-turn-the-bridge.json) |
@@ -25317,6 +25327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
+| Twilight Tunnels | 167528 | [167528-twilight-tunnels.json](./167528-twilight-tunnels.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
