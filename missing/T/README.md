@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texting of the Bread | 92152 | [92152-texting-of-the-bread.json](./92152-texting-of-the-bread.json) |
 | Texting the Awkward Ace Guy You've Had a Crush on Since High School | 279706 | [279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json](./279706-texting-the-awkward-ace-guy-youve-had-a-crush-on-since-high-school.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
+| Textreme 2 | 168084 | [168084-textreme-2.json](./168084-textreme-2.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
 | Texts from HSS | 319755 | [319755-texts-from-hss.json](./319755-texts-from-hss.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
@@ -10911,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -17749,6 +17751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tangle: Adventure Time | 61147 | [61147-time-tangle-adventure-time.json](./61147-time-tangle-adventure-time.json) |
 | Time Tenshi | 318022 | [318022-time-tenshi.json](./318022-time-tenshi.json) |
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
+| Time Tenshi 2: Special Edition DLC | 168070 | [168070-time-tenshi-2-special-edition-dlc.json](./168070-time-tenshi-2-special-edition-dlc.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
