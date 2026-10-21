@@ -7424,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
+| Luminus | 169657 | [169657-luminus.json](./169657-luminus.json) |
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumione | 159539 | [159539-lumione.json](./159539-lumione.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
