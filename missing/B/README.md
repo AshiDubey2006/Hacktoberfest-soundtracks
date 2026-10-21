@@ -729,7 +729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2565,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
 | Batman | 14288 | [14288-batman.json](./14288-batman.json) |
+| Batman | 164313 | [164313-batman.json](./164313-batman.json) |
 | Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman & Robin | 199423 | [199423-batman-and-robin.json](./199423-batman-and-robin.json) |
@@ -7399,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch Volume 1: Rustin Parr | 18489 | [18489-blair-witch-volume-1-rustin-parr.json](./18489-blair-witch-volume-1-rustin-parr.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch Volume 3: The Elly Kedward Tale | 18491 | [18491-blair-witch-volume-3-the-elly-kedward-tale.json](./18491-blair-witch-volume-3-the-elly-kedward-tale.json) |
+| Blair Witch VR | 164320 | [164320-blair-witch-vr.json](./164320-blair-witch-vr.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
 | Blair Witch: Oculus Quest Edition | 193692 | [193692-blair-witch-oculus-quest-edition.json](./193692-blair-witch-oculus-quest-edition.json) |
 | Blake and Mortimer: The Curse of the Thirty Denarii | 89374 | [89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json](./89374-blake-and-mortimer-the-curse-of-the-thirty-denarii.json) |
@@ -8039,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
+| Block Dash Adventure | 164294 | [164294-block-dash-adventure.json](./164294-block-dash-adventure.json) |
 | Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
@@ -11823,6 +11825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Ball Shooter | 219479 | [219479-brick-breaker-ball-shooter.json](./219479-brick-breaker-ball-shooter.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
+| Brick Breaker: Shoot Puzzle | 164292 | [164292-brick-breaker-shoot-puzzle.json](./164292-brick-breaker-shoot-puzzle.json) |
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
@@ -12060,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring It On! | 204901 | [204901-bring-it-on.json](./204901-bring-it-on.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Me Hope | 164221 | [164221-bring-me-hope.json](./164221-bring-me-hope.json) |
 | Bring Me that Shawarma | 275524 | [275524-bring-me-that-shawarma.json](./275524-bring-me-that-shawarma.json) |
 | Bring Me that Shawarma: Supporter Pack | 316385 | [316385-bring-me-that-shawarma-supporter-pack.json](./316385-bring-me-that-shawarma-supporter-pack.json) |
 | Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
@@ -13235,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullfight | 40059 | [40059-bullfight.json](./40059-bullfight.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullfighter Neon | 193238 | [193238-bullfighter-neon.json](./193238-bullfighter-neon.json) |
+| Bullfrogs | 164314 | [164314-bullfrogs.json](./164314-bullfrogs.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
