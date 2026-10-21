@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Me Mr Tako: Definitive Edition | 143839 | [143839-save-me-mr-tako-definitive-edition.json](./143839-save-me-mr-tako-definitive-edition.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
+| Save Me, Sakuya-san!: Remilia Scarlet's Coin and Glass Game | 165948 | [165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json](./165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
 | Save My Human | 258900 | [258900-save-my-human.json](./258900-save-my-human.json) |
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
@@ -6260,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted | 273289 | [273289-shifted.json](./273289-shifted.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
+| Shifter | 165946 | [165946-shifter.json](./165946-shifter.json) |
 | Shifter | 333452 | [333452-shifter.json](./333452-shifter.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
@@ -14634,6 +14636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure Zodiac | 406168 | [406168-space-adventure-zodiac.json](./406168-space-adventure-zodiac.json) |
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
+| Space Adventures | 165932 | [165932-space-adventures.json](./165932-space-adventures.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
@@ -14756,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Cobra the Psychogun | 75734 | [75734-space-cobra-the-psychogun.json](./75734-space-cobra-the-psychogun.json) |
 | Space Codex | 32684 | [32684-space-codex.json](./32684-space-codex.json) |
+| Space Colonizer | 165930 | [165930-space-colonizer.json](./165930-space-colonizer.json) |
 | Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
