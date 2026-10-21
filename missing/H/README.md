@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
+| Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallunazi | 74685 | [74685-hallunazi.json](./74685-hallunazi.json) |
 | Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
+| Hitler Hates Anime | 166486 | [166486-hitler-hates-anime.json](./166486-hitler-hates-anime.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
