@@ -19267,6 +19267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season Three: Concealed Agenda | 209316 | [209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json](./209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season Two: Keener’s Legacy | 209315 | [209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json](./209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
+| Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
@@ -24283,6 +24284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
 | Truck Drag Racing Legends | 281047 | [281047-truck-drag-racing-legends.json](./281047-truck-drag-racing-legends.json) |
 | Truck Driver | 90387 | [90387-truck-driver.json](./90387-truck-driver.json) |
+| Truck Driver + Hidden Places & Damage System DLC Bundle | 164852 | [164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json](./164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json) |
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
