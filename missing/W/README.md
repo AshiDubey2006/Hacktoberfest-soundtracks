@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
+| World Cricket Championship | 167019 | [167019-world-cricket-championship.json](./167019-world-cricket-championship.json) |
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cricket Championship 3 | 165559 | [165559-world-cricket-championship-3.json](./165559-world-cricket-championship-3.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
