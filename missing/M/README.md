@@ -7775,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Quester: Osaka | 315340 | [315340-metro-quester-osaka.json](./315340-metro-quester-osaka.json) |
 | Metro Redux | 6880 | [6880-metro-redux.json](./6880-metro-redux.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
+| Metro Saga Bundle | 164753 | [164753-metro-saga-bundle.json](./164753-metro-saga-bundle.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
@@ -8471,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
+| Middle-earth: Shadow of War - Slaughter Tribe Nemesis | 164839 | [164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json](./164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
@@ -9394,9 +9396,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
+| Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
 | Minecraft Dungeons: Jungle Awakens | 135565 | [135565-minecraft-dungeons-jungle-awakens.json](./135565-minecraft-dungeons-jungle-awakens.json) |
+| Minecraft Dungeons: Ultimate DLC Bundle | 164846 | [164846-minecraft-dungeons-ultimate-dlc-bundle.json](./164846-minecraft-dungeons-ultimate-dlc-bundle.json) |
 | Minecraft Dungeons: Ultimate Edition | 164776 | [164776-minecraft-dungeons-ultimate-edition.json](./164776-minecraft-dungeons-ultimate-edition.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Education: Planet Earth III | 272803 | [272803-minecraft-education-planet-earth-iii.json](./272803-minecraft-education-planet-earth-iii.json) |
