@@ -8910,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
 | Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
+| Siren Head Hentai Edition | 168062 | [168062-siren-head-hentai-edition.json](./168062-siren-head-hentai-edition.json) |
 | Siren Head Horror Bunker VR | 195390 | [195390-siren-head-horror-bunker-vr.json](./195390-siren-head-horror-bunker-vr.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
@@ -10296,6 +10297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
+| Slide Stories: Bonds & Memories | 168061 | [168061-slide-stories-bonds-and-memories.json](./168061-slide-stories-bonds-and-memories.json) |
 | Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
 | Slide the Signs | 234509 | [234509-slide-the-signs.json](./234509-slide-the-signs.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
