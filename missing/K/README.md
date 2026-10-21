@@ -2119,7 +2119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -3819,7 +3818,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi x Mitsu: Senba Shizuku to Saboten no Tegami | 221248 | [221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json](./221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json) |
 | Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
 | Koi Zen: Opposite Colors | 253306 | [253306-koi-zen-opposite-colors.json](./253306-koi-zen-opposite-colors.json) |
+| Koi-Koi Japan: Hana-Awase Rule | 168065 | [168065-koi-koi-japan-hana-awase-rule.json](./168065-koi-koi-japan-hana-awase-rule.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
+| Koi-Koi Japan: Ukiyoe Tours Vol.2 | 168066 | [168066-koi-koi-japan-ukiyoe-tours-vol-2.json](./168066-koi-koi-japan-ukiyoe-tours-vol-2.json) |
+| Koi-Koi Japan: Ukiyoe Tours Vol.3 | 168064 | [168064-koi-koi-japan-ukiyoe-tours-vol-3.json](./168064-koi-koi-japan-ukiyoe-tours-vol-3.json) |
 | Koibana Days | 58571 | [58571-koibana-days.json](./58571-koibana-days.json) |
 | Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
