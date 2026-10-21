@@ -13442,6 +13442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
 | PuppetShow: Fatal Mistake | 187931 | [187931-puppetshow-fatal-mistake.json](./187931-puppetshow-fatal-mistake.json) |
+| PuppetShow: Fatal Mistake - Collector's Edition | 170196 | [170196-puppetshow-fatal-mistake-collectors-edition.json](./170196-puppetshow-fatal-mistake-collectors-edition.json) |
 | PuppetShow: Lightning Strikes | 140276 | [140276-puppetshow-lightning-strikes.json](./140276-puppetshow-lightning-strikes.json) |
 | PuppetShow: Mystery of Joyville | 25926 | [25926-puppetshow-mystery-of-joyville.json](./25926-puppetshow-mystery-of-joyville.json) |
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
