@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
 | Dead or Alive 6: Collector's Limited Edition | 166261 | [166261-dead-or-alive-6-collectors-limited-edition.json](./166261-dead-or-alive-6-collectors-limited-edition.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
+| Dead or Alive 6: Gamecity Limited Edition | 167018 | [167018-dead-or-alive-6-gamecity-limited-edition.json](./167018-dead-or-alive-6-gamecity-limited-edition.json) |
 | Dead or Alive 6: Nyotengu | 341667 | [341667-dead-or-alive-6-nyotengu.json](./341667-dead-or-alive-6-nyotengu.json) |
 | Dead or Alive 6: Strongest Package - Limited Edition | 167104 | [167104-dead-or-alive-6-strongest-package-limited-edition.json](./167104-dead-or-alive-6-strongest-package-limited-edition.json) |
 | Dead or Alive New Project | 389426 | [389426-dead-or-alive-new-project.json](./389426-dead-or-alive-new-project.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
+| Deemo Reborn: Premium Edition | 167005 | [167005-deemo-reborn-premium-edition.json](./167005-deemo-reborn-premium-edition.json) |
 | Deemo: Reborn | 74540 | [74540-deemo-reborn.json](./74540-deemo-reborn.json) |
 | Deemo: Reborn - Aioi Collection | 356573 | [356573-deemo-reborn-aioi-collection.json](./356573-deemo-reborn-aioi-collection.json) |
 | Deemo: Reborn - Classic Song Packs Season Pass | 356587 | [356587-deemo-reborn-classic-song-packs-season-pass.json](./356587-deemo-reborn-classic-song-packs-season-pass.json) |
@@ -6852,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
 | Digimon Story: Cyber Sleuth | 15705 | [15705-digimon-story-cyber-sleuth.json](./15705-digimon-story-cyber-sleuth.json) |
 | Digimon Story: Cyber Sleuth - Hacker's Memory | 27920 | [27920-digimon-story-cyber-sleuth-hackers-memory.json](./27920-digimon-story-cyber-sleuth-hackers-memory.json) |
+| Digimon Story: Cyber Sleuth - Hacker's Memory: Digimon 20th Anniversary Box | 167006 | [167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json](./167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Story: Time Stranger - Costume Digimon Costume Set | 372277 | [372277-digimon-story-time-stranger-costume-digimon-costume-set.json](./372277-digimon-story-time-stranger-costume-digimon-costume-set.json) |
 | Digimon Story: Time Stranger - Costume Pack | 372276 | [372276-digimon-story-time-stranger-costume-pack.json](./372276-digimon-story-time-stranger-costume-pack.json) |
@@ -8918,6 +8921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
+| Dokapon UP! Mugen no Roulette: Premium Limited Edition | 167014 | [167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json](./167014-dokapon-up-mugen-no-roulette-premium-limited-edition.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Dokapon! Sword of Fury | 328413 | [328413-dokapon-sword-of-fury.json](./328413-dokapon-sword-of-fury.json) |
 | Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
