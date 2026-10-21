@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | re:fleXion | 179021 | [179021-re-flexion.json](./179021-re-flexion.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
+| Re:in | 166467 | [166467-re-in.json](./166467-re-in.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
@@ -5908,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Riot Soccer | 182157 | [182157-riot-soccer.json](./182157-riot-soccer.json) |
+| Riot Stars | 166557 | [166557-riot-stars.json](./166557-riot-stars.json) |
 | Riot Zone | 37611 | [37611-riot-zone.json](./37611-riot-zone.json) |
 | Riot: Civil Unrest | 19934 | [19934-riot-civil-unrest.json](./19934-riot-civil-unrest.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
@@ -6548,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
 | Road Toad | 290485 | [290485-road-toad.json](./290485-road-toad.json) |
 | Road Toads | 333135 | [333135-road-toads.json](./333135-road-toads.json) |
+| Road Trip | 166458 | [166458-road-trip.json](./166458-road-trip.json) |
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip | 310967 | [310967-road-trip.json](./310967-road-trip.json) |
