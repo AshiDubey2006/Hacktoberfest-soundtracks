@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Drive | 319867 | [319867-techno-drive.json](./319867-techno-drive.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
+| Techno Tower Defense | 169101 | [169101-techno-tower-defense.json](./169101-techno-tower-defense.json) |
 | Techno: 2Kill | 391766 | [391766-techno-2kill.json](./391766-techno-2kill.json) |
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Birthright | 260051 | [260051-technobabylon-birthright.json](./260051-technobabylon-birthright.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
+| The Cursed Revenant | 169110 | [169110-the-cursed-revenant.json](./169110-the-cursed-revenant.json) |
 | The Cursed Revolver | 28237 | [28237-the-cursed-revolver.json](./28237-the-cursed-revolver.json) |
 | The Cursed Ritual | 322035 | [322035-the-cursed-ritual.json](./322035-the-cursed-ritual.json) |
 | The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
@@ -12333,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Guest | 93494 | [93494-the-second-guest.json](./93494-the-second-guest.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
 | The Second Reality Room: Unspoken Truths | 390782 | [390782-the-second-reality-room-unspoken-truths.json](./390782-the-second-reality-room-unspoken-truths.json) |
+| The Second Reproduction | 169124 | [169124-the-second-reproduction.json](./169124-the-second-reproduction.json) |
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Second Word: Crossword | 232312 | [232312-the-second-word-crossword.json](./232312-the-second-word-crossword.json) |
@@ -12406,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
 | The Seed: Unit 7 | 315821 | [315821-the-seed-unit-7.json](./315821-the-seed-unit-7.json) |
+| The Seeker | 169106 | [169106-the-seeker.json](./169106-the-seeker.json) |
 | The Seeker | 24814 | [24814-the-seeker.json](./24814-the-seeker.json) |
 | The Seekers: Survival | 226593 | [226593-the-seekers-survival.json](./226593-the-seekers-survival.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
@@ -20060,6 +20064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
 | Total Seclusion | 122810 | [122810-total-seclusion.json](./122810-total-seclusion.json) |
+| Total Seduction | 169111 | [169111-total-seduction.json](./169111-total-seduction.json) |
 | Total Shift: Wheeled Rebellion | 387090 | [387090-total-shift-wheeled-rebellion.json](./387090-total-shift-wheeled-rebellion.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
