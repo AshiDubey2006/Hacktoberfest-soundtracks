@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case #9 | 74236 | [74236-case-9.json](./74236-case-9.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
+| Case 02: Paranormal Evil | 168577 | [168577-case-02-paranormal-evil.json](./168577-case-02-paranormal-evil.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
@@ -15178,6 +15179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
 | Cush's Amazin' Adventure!! | 260532 | [260532-cushs-amazin-adventure.json](./260532-cushs-amazin-adventure.json) |
+| Custam Sugoroku | 168573 | [168573-custam-sugoroku.json](./168573-custam-sugoroku.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
@@ -15802,6 +15804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
+| Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
 | Cycling Manager | 94619 | [94619-cycling-manager.json](./94619-cycling-manager.json) |
