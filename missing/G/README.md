@@ -5197,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gong! Goal or No Goal | 209766 | [209766-gong-goal-or-no-goal.json](./209766-gong-goal-or-no-goal.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
+| Gongo | 168572 | [168572-gongo.json](./168572-gongo.json) |
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner: Press Jump to Die Edition | 51831 | [51831-gonner-press-jump-to-die-edition.json](./51831-gonner-press-jump-to-die-edition.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
+| Gowf: A Golf Adventure | 168601 | [168601-gowf-a-golf-adventure.json](./168601-gowf-a-golf-adventure.json) |
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | Goyangi Jeongwon: Merge | 214381 | [214381-goyangi-jeongwon-merge.json](./214381-goyangi-jeongwon-merge.json) |
