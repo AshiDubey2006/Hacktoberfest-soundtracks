@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
+| Roads of Rome: New Generation 3 - Collector's Edition | 170194 | [170194-roads-of-rome-new-generation-3-collectors-edition.json](./170194-roads-of-rome-new-generation-3-collectors-edition.json) |
 | Roads of Rome: Portals - Collector's Edition | 186687 | [186687-roads-of-rome-portals-collectors-edition.json](./186687-roads-of-rome-portals-collectors-edition.json) |
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
