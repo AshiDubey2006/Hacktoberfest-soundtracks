@@ -2763,7 +2763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -2812,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Tron | 11112 | [11112-adventures-of-tron.json](./11112-adventures-of-tron.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
+| Adventures With a Girl | 168602 | [168602-adventures-with-a-girl.json](./168602-adventures-with-a-girl.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures with Barbie: Ocean Discovery | 19403 | [19403-adventures-with-barbie-ocean-discovery.json](./19403-adventures-with-barbie-ocean-discovery.json) |
 | Adventures With Oslo: Tools and Gadgets | 206095 | [206095-adventures-with-oslo-tools-and-gadgets.json](./206095-adventures-with-oslo-tools-and-gadgets.json) |
@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
+| American Theft 80s | 168610 | [168610-american-theft-80s.json](./168610-american-theft-80s.json) |
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
@@ -13510,6 +13511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
+| Avoid the Demons | 168589 | [168589-avoid-the-demons.json](./168589-avoid-the-demons.json) |
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
 | Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
