@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
+| Mac Biskwi Adventures | 169631 | [169631-mac-biskwi-adventures.json](./169631-mac-biskwi-adventures.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
@@ -5040,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Gone Wrong | 376038 | [376038-meat-gone-wrong.json](./376038-meat-gone-wrong.json) |
 | Meat Grinder | 391149 | [391149-meat-grinder.json](./391149-meat-grinder.json) |
 | Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
+| Meat Lead Fire | 169632 | [169632-meat-lead-fire.json](./169632-meat-lead-fire.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
 | Meat Saw | 193268 | [193268-meat-saw.json](./193268-meat-saw.json) |
@@ -8907,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
+| Milf City | 169622 | [169622-milf-city.json](./169622-milf-city.json) |
 | Milf Collection | 367165 | [367165-milf-collection.json](./367165-milf-collection.json) |
 | MILF Conditioning | 230158 | [230158-milf-conditioning.json](./230158-milf-conditioning.json) |
 | Milf Dream | 278949 | [278949-milf-dream.json](./278949-milf-dream.json) |
@@ -9317,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Combat | 213819 | [213819-mine-combat.json](./213819-mine-combat.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
+| Mine Dungeon 2: Rurumu's trip | 169620 | [169620-mine-dungeon-2-rurumus-trip.json](./169620-mine-dungeon-2-rurumus-trip.json) |
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
 | Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
 | Mine Factory | 294039 | [294039-mine-factory.json](./294039-mine-factory.json) |
@@ -11321,6 +11325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Moirs | 169613 | [169613-moirs.json](./169613-moirs.json) |
 | Moji Blade | 421379 | [421379-moji-blade.json](./421379-moji-blade.json) |
 | Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
 | Moji Puzzle Kotoda Maru | 222483 | [222483-moji-puzzle-kotoda-maru.json](./222483-moji-puzzle-kotoda-maru.json) |
@@ -13281,6 +13286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortar Master | 318249 | [318249-mortar-master.json](./318249-mortar-master.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
+| Morte | 169659 | [169659-morte.json](./169659-morte.json) |
 | Mortem | 29645 | [29645-mortem.json](./29645-mortem.json) |
 | Mortem | 409726 | [409726-mortem.json](./409726-mortem.json) |
 | Mortem: VR Edition | 167887 | [167887-mortem-vr-edition.json](./167887-mortem-vr-edition.json) |
