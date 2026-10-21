@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
+| LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Lesson | 266085 | [266085-last-lesson.json](./266085-last-lesson.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
+| Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
@@ -4487,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
+| Little Dog Bob | 163784 | [163784-little-dog-bob.json](./163784-little-dog-bob.json) |
 | Little Doll Princess Oyatsu-hen | 222488 | [222488-little-doll-princess-oyatsu-hen.json](./222488-little-doll-princess-oyatsu-hen.json) |
 | Little Doll Princess: Ryouri-Hen | 222451 | [222451-little-doll-princess-ryouri-hen.json](./222451-little-doll-princess-ryouri-hen.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
@@ -6400,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Resolve | 313293 | [313293-lost-resolve.json](./313293-lost-resolve.json) |
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
+| Lost Robot | 163781 | [163781-lost-robot.json](./163781-lost-robot.json) |
 | Lost Ronin | 83850 | [83850-lost-ronin.json](./83850-lost-ronin.json) |
 | Lost Room: Escape | 324723 | [324723-lost-room-escape.json](./324723-lost-room-escape.json) |
 | Lost Ruins | 142596 | [142596-lost-ruins.json](./142596-lost-ruins.json) |
