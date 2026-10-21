@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Super Joy | 210289 | [210289-electronic-super-joy.json](./210289-electronic-super-joy.json) |
 | Electronic Super Joy | 3151 | [3151-electronic-super-joy.json](./3151-electronic-super-joy.json) |
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
+| Electronic Super Joy 2: Gold Edition | 170187 | [170187-electronic-super-joy-2-gold-edition.json](./170187-electronic-super-joy-2-gold-edition.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
 | Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
 | Electronic Super Joy: Groove City | 17402 | [17402-electronic-super-joy-groove-city.json](./17402-electronic-super-joy-groove-city.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emerita | 177787 | [177787-emerita.json](./177787-emerita.json) |
 | Emeritus Pong | 187128 | [187128-emeritus-pong.json](./187128-emeritus-pong.json) |
+| Emerland Solitaire II: Collector's Edition | 170201 | [170201-emerland-solitaire-ii-collectors-edition.json](./170201-emerland-solitaire-ii-collectors-edition.json) |
 | Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
 | Emery | 261672 | [261672-emery.json](./261672-emery.json) |
