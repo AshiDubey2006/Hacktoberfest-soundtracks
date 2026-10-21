@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
+| Between Two Cities | 164762 | [164762-between-two-cities.json](./164762-between-two-cities.json) |
 | Between Two Stars | 196672 | [196672-between-two-stars.json](./196672-between-two-stars.json) |
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
