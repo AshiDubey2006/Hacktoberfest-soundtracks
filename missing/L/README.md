@@ -293,10 +293,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
+| Labyrinths of the World: Hearts of the Planet - Collector's Edition | 170204 | [170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json](./170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json) |
 | Labyrinths of the World: Secrets of Easter Island | 198093 | [198093-labyrinths-of-the-world-secrets-of-easter-island.json](./198093-labyrinths-of-the-world-secrets-of-easter-island.json) |
 | Labyrinths of the World: Secrets of Easter Island - Collector's Edition | 198094 | [198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json](./198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json) |
 | Labyrinths of the World: Shattered Soul - Collector's Edition | 30674 | [30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json](./30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
+| Labyrinths of the World: The Game of Minds - Collector's Edition | 170203 | [170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json](./170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
 | Labyrinthum | 261646 | [261646-labyrinthum.json](./261646-labyrinthum.json) |
@@ -4939,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
 | Living Legends Remastered: Ice Rose | 187917 | [187917-living-legends-remastered-ice-rose.json](./187917-living-legends-remastered-ice-rose.json) |
+| Living Legends Remastered: Ice Rose - Collector's Edition | 170185 | [170185-living-legends-remastered-ice-rose-collectors-edition.json](./170185-living-legends-remastered-ice-rose-collectors-edition.json) |
 | Living Legends Remastered: Wrath of the Beast - Collector's Edition | 241421 | [241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json](./241421-living-legends-remastered-wrath-of-the-beast-collectors-edition.json) |
 | Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Bound by Wishes - Collector's Edition | 212207 | [212207-living-legends-bound-by-wishes-collectors-edition.json](./212207-living-legends-bound-by-wishes-collectors-edition.json) |
