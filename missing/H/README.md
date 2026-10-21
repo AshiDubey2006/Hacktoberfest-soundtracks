@@ -8157,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
+| Hot Tub Simulator | 165373 | [165373-hot-tub-simulator.json](./165373-hot-tub-simulator.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot View Ecchi Girls | 384885 | [384885-hot-view-ecchi-girls.json](./384885-hot-view-ecchi-girls.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
@@ -9462,6 +9463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Harmony | 209304 | [209304-hybrid-harmony.json](./209304-hybrid-harmony.json) |
 | Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
+| Hybrid Warrior | 165476 | [165476-hybrid-warrior.json](./165476-hybrid-warrior.json) |
 | Hybrid Wars: Deluxe Edition | 51819 | [51819-hybrid-wars-deluxe-edition.json](./51819-hybrid-wars-deluxe-edition.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
