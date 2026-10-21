@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
+| The Dead End | 163771 | [163771-the-dead-end.json](./163771-the-dead-end.json) |
 | The Dead House | 366732 | [366732-the-dead-house.json](./366732-the-dead-house.json) |
 | The Dead in my Living Room | 142378 | [142378-the-dead-in-my-living-room.json](./142378-the-dead-in-my-living-room.json) |
 | The Dead Inside | 208090 | [208090-the-dead-inside.json](./208090-the-dead-inside.json) |
@@ -11043,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
+| The Nightmare Journey | 163780 | [163780-the-nightmare-journey.json](./163780-the-nightmare-journey.json) |
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
 | The Nightmare: Serial Killers | 262321 | [262321-the-nightmare-serial-killers.json](./262321-the-nightmare-serial-killers.json) |
@@ -15536,6 +15538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Side of Me | 185391 | [185391-this-side-of-me.json](./185391-this-side-of-me.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
+| This Starry Void | 163790 | [163790-this-starry-void.json](./163790-this-starry-void.json) |
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This This Rice | 233368 | [233368-this-this-rice.json](./233368-this-this-rice.json) |
@@ -16720,13 +16723,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Soldier I: MP100 | 189428 | [189428-tiger-soldier-i-mp100.json](./189428-tiger-soldier-i-mp100.json) |
 | Tiger Striker: MP011 | 163725 | [163725-tiger-striker-mp011.json](./163725-tiger-striker-mp011.json) |
 | Tiger Striker: MP012 | 163723 | [163723-tiger-striker-mp012.json](./163723-tiger-striker-mp012.json) |
+| Tiger Striker: MP013 | 163713 | [163713-tiger-striker-mp013.json](./163713-tiger-striker-mp013.json) |
 | Tiger Striker: MP014 | 163718 | [163718-tiger-striker-mp014.json](./163718-tiger-striker-mp014.json) |
 | Tiger Striker: MP015 | 163722 | [163722-tiger-striker-mp015.json](./163722-tiger-striker-mp015.json) |
 | Tiger Striker: MP016 | 163731 | [163731-tiger-striker-mp016.json](./163731-tiger-striker-mp016.json) |
+| Tiger Striker: MP017 | 163714 | [163714-tiger-striker-mp017.json](./163714-tiger-striker-mp017.json) |
 | Tiger Striker: MP018 | 163728 | [163728-tiger-striker-mp018.json](./163728-tiger-striker-mp018.json) |
+| Tiger Striker: MP019 | 163716 | [163716-tiger-striker-mp019.json](./163716-tiger-striker-mp019.json) |
 | Tiger Striker: MP020 | 163730 | [163730-tiger-striker-mp020.json](./163730-tiger-striker-mp020.json) |
 | Tiger Striker: MP021 | 163719 | [163719-tiger-striker-mp021.json](./163719-tiger-striker-mp021.json) |
 | Tiger Striker: MP022 | 163729 | [163729-tiger-striker-mp022.json](./163729-tiger-striker-mp022.json) |
+| Tiger Striker: MP023 | 163717 | [163717-tiger-striker-mp023.json](./163717-tiger-striker-mp023.json) |
+| Tiger Striker: MP024 | 163715 | [163715-tiger-striker-mp024.json](./163715-tiger-striker-mp024.json) |
 | Tiger Striker: MP025 | 163732 | [163732-tiger-striker-mp025.json](./163732-tiger-striker-mp025.json) |
 | Tiger Striker: MP026 | 163726 | [163726-tiger-striker-mp026.json](./163726-tiger-striker-mp026.json) |
 | Tiger Striker: MP027 | 163721 | [163721-tiger-striker-mp027.json](./163721-tiger-striker-mp027.json) |
