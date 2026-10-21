@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T15:37:49.379Z",
-  "total_missing": 242769,
+  "generated_at": "2026-10-21T15:52:39.178Z",
+  "total_missing": 242819,
   "games": [
     {
       "igdb_id": 191680,
@@ -11190,6 +11190,11 @@
       "igdb_id": 37642,
       "game_name": "6-in-1 Fami Collection: NES Collection Nr 2",
       "file": "missing/0-9/37642-6-in-1-fami-collection-nes-collection-nr-2.json"
+    },
+    {
+      "igdb_id": 170740,
+      "game_name": "6-in-1 IQ Scale Bundle: Cube Match",
+      "file": "missing/0-9/170740-6-in-1-iq-scale-bundle-cube-match.json"
     },
     {
       "igdb_id": 166212,
@@ -79320,6 +79325,11 @@
       "igdb_id": 171085,
       "game_name": "Automobilista: Formula Truck",
       "file": "missing/A/171085-automobilista-formula-truck.json"
+    },
+    {
+      "igdb_id": 170745,
+      "game_name": "Automobilista: Legendary Tracks Part 1 - Imola",
+      "file": "missing/A/170745-automobilista-legendary-tracks-part-1-imola.json"
     },
     {
       "igdb_id": 156078,
@@ -182937,6 +182947,11 @@
       "file": "missing/C/15158-choplifter-hd.json"
     },
     {
+      "igdb_id": 170746,
+      "game_name": "Choplifter HD: Arrowhead Chopper",
+      "file": "missing/C/170746-choplifter-hd-arrowhead-chopper.json"
+    },
+    {
       "igdb_id": 7823,
       "game_name": "Choplifter II: Rescue Survive",
       "file": "missing/C/7823-choplifter-ii-rescue-survive.json"
@@ -234920,6 +234935,11 @@
       "igdb_id": 33302,
       "game_name": "Damage Control",
       "file": "missing/D/33302-damage-control.json"
+    },
+    {
+      "igdb_id": 170723,
+      "game_name": "Damage Inc. Pacific Squadron WWII: F6F-5N \"Crusader\" Hellcat",
+      "file": "missing/D/170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json"
     },
     {
       "igdb_id": 25067,
@@ -317407,6 +317427,11 @@
       "file": "missing/E/137549-emergency-ambulance-simulator-2013.json"
     },
     {
+      "igdb_id": 170724,
+      "game_name": "Emergency Call 112: KEF - Das Kleineinsatzfahrzeug",
+      "file": "missing/E/170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json"
+    },
+    {
       "igdb_id": 144936,
       "game_name": "Emergency Call 112: The Fire Fighting Simulation 2",
       "file": "missing/E/144936-emergency-call-112-the-fire-fighting-simulation-2.json"
@@ -330012,9 +330037,34 @@
       "file": "missing/E/94706-euro-club-manager-2003-04.json"
     },
     {
+      "igdb_id": 170761,
+      "game_name": "Euro Fishing: Bergsee",
+      "file": "missing/E/170761-euro-fishing-bergsee.json"
+    },
+    {
       "igdb_id": 173108,
       "game_name": "Euro Fishing: Collector's Edition",
       "file": "missing/E/173108-euro-fishing-collectors-edition.json"
+    },
+    {
+      "igdb_id": 170760,
+      "game_name": "Euro Fishing: Hunters Lake",
+      "file": "missing/E/170760-euro-fishing-hunters-lake.json"
+    },
+    {
+      "igdb_id": 170763,
+      "game_name": "Euro Fishing: Le Lac d'or",
+      "file": "missing/E/170763-euro-fishing-le-lac-dor.json"
+    },
+    {
+      "igdb_id": 170762,
+      "game_name": "Euro Fishing: Lilies",
+      "file": "missing/E/170762-euro-fishing-lilies.json"
+    },
+    {
+      "igdb_id": 170759,
+      "game_name": "Euro Fishing: Manor Farm Lake",
+      "file": "missing/E/170759-euro-fishing-manor-farm-lake.json"
     },
     {
       "igdb_id": 151065,
@@ -330025,6 +330075,11 @@
       "igdb_id": 52979,
       "game_name": "Euro Fishing: Urban Edition",
       "file": "missing/E/52979-euro-fishing-urban-edition.json"
+    },
+    {
+      "igdb_id": 170764,
+      "game_name": "Euro Fishing: Waldsee",
+      "file": "missing/E/170764-euro-fishing-waldsee.json"
     },
     {
       "igdb_id": 43298,
@@ -361880,6 +361935,11 @@
       "igdb_id": 280713,
       "game_name": "First Hand",
       "file": "missing/F/280713-first-hand.json"
+    },
+    {
+      "igdb_id": 170726,
+      "game_name": "First Hero: Epic of Gilgamesh",
+      "file": "missing/F/170726-first-hero-epic-of-gilgamesh.json"
     },
     {
       "igdb_id": 30712,
@@ -402450,6 +402510,16 @@
       "igdb_id": 249219,
       "game_name": "Gene Rain Wind Tower: Ultimate Edition",
       "file": "missing/G/249219-gene-rain-wind-tower-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 170738,
+      "game_name": "Gene Rain: Wind Tower - Sky City's Rebirth",
+      "file": "missing/G/170738-gene-rain-wind-tower-sky-citys-rebirth.json"
+    },
+    {
+      "igdb_id": 170739,
+      "game_name": "Gene Rain: Wind Tower - Way to Heaven",
+      "file": "missing/G/170739-gene-rain-wind-tower-way-to-heaven.json"
     },
     {
       "igdb_id": 357180,
@@ -457912,6 +457982,11 @@
       "file": "missing/H/316382-hero-siege-bifrost-viking-skin.json"
     },
     {
+      "igdb_id": 170734,
+      "game_name": "Hero Siege: Class - Shield Lancer",
+      "file": "missing/H/170734-hero-siege-class-shield-lancer.json"
+    },
+    {
       "igdb_id": 224234,
       "game_name": "Hero Siege: Companion Bundle",
       "file": "missing/H/224234-hero-siege-companion-bundle.json"
@@ -459035,6 +459110,11 @@
       "igdb_id": 403812,
       "game_name": "Heroes of the Underworld",
       "file": "missing/H/403812-heroes-of-the-underworld.json"
+    },
+    {
+      "igdb_id": 170770,
+      "game_name": "Heroes of Three Kingdoms",
+      "file": "missing/H/170770-heroes-of-three-kingdoms.json"
     },
     {
       "igdb_id": 77303,
@@ -478755,6 +478835,11 @@
       "igdb_id": 172087,
       "game_name": "How to Survive: El Diablo Islands - Host",
       "file": "missing/H/172087-how-to-survive-el-diablo-islands-host.json"
+    },
+    {
+      "igdb_id": 170744,
+      "game_name": "How to Survive: Heat Wave - Jack's pack",
+      "file": "missing/H/170744-how-to-survive-heat-wave-jacks-pack.json"
     },
     {
       "igdb_id": 164516,
@@ -504180,6 +504265,11 @@
       "igdb_id": 153753,
       "game_name": "Interregnum Chronicles: Signal",
       "file": "missing/I/153753-interregnum-chronicles-signal.json"
+    },
+    {
+      "igdb_id": 170769,
+      "game_name": "Interregnum: Dark Archer",
+      "file": "missing/I/170769-interregnum-dark-archer.json"
     },
     {
       "igdb_id": 184592,
@@ -550620,6 +550710,51 @@
       "igdb_id": 70689,
       "game_name": "Kung Fu Panda: Path of the Panda",
       "file": "missing/K/70689-kung-fu-panda-path-of-the-panda.json"
+    },
+    {
+      "igdb_id": 170753,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Armored Mr. Ping and Jombie Oogway",
+      "file": "missing/K/170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json"
+    },
+    {
+      "igdb_id": 170752,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Bao and Panda Vista",
+      "file": "missing/K/170752-kung-fu-panda-showdown-of-legendary-legends-bao-and-panda-vista.json"
+    },
+    {
+      "igdb_id": 170755,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Jombie Porcupine and Jombie Master Croc",
+      "file": "missing/K/170755-kung-fu-panda-showdown-of-legendary-legends-jombie-porcupine-and-jombie-master-croc.json"
+    },
+    {
+      "igdb_id": 170754,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Kai and Master's Garden",
+      "file": "missing/K/170754-kung-fu-panda-showdown-of-legendary-legends-kai-and-masters-garden.json"
+    },
+    {
+      "igdb_id": 170751,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Master Chicken and Li",
+      "file": "missing/K/170751-kung-fu-panda-showdown-of-legendary-legends-master-chicken-and-li.json"
+    },
+    {
+      "igdb_id": 170750,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Panda Village",
+      "file": "missing/K/170750-kung-fu-panda-showdown-of-legendary-legends-panda-village.json"
+    },
+    {
+      "igdb_id": 170758,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Rhino Armor Li and Jombie Master Bear",
+      "file": "missing/K/170758-kung-fu-panda-showdown-of-legendary-legends-rhino-armor-li-and-jombie-master-bear.json"
+    },
+    {
+      "igdb_id": 170757,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Spirit Realm",
+      "file": "missing/K/170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json"
+    },
+    {
+      "igdb_id": 170756,
+      "game_name": "Kung Fu Panda: Showdown of Legendary Legends - Warrior Po and Jombie Master Chicken",
+      "file": "missing/K/170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json"
     },
     {
       "igdb_id": 16128,
@@ -649492,6 +649627,11 @@
       "file": "missing/M/170859-monkey-king-hero-is-back-mind-palace.json"
     },
     {
+      "igdb_id": 170743,
+      "game_name": "Monkey King: Hero Is Back - Uproar In Heaven",
+      "file": "missing/M/170743-monkey-king-hero-is-back-uproar-in-heaven.json"
+    },
+    {
       "igdb_id": 103248,
       "game_name": "Monkey King: Master of the Clouds",
       "file": "missing/M/103248-monkey-king-master-of-the-clouds.json"
@@ -740332,9 +740472,29 @@
       "file": "missing/P/36611-pathfinder-adventures.json"
     },
     {
+      "igdb_id": 170730,
+      "game_name": "Pathfinder Adventures: A Fighter's Tale - Valeros",
+      "file": "missing/P/170730-pathfinder-adventures-a-fighters-tale-valeros.json"
+    },
+    {
+      "igdb_id": 170729,
+      "game_name": "Pathfinder Adventures: Character Alts 1",
+      "file": "missing/P/170729-pathfinder-adventures-character-alts-1.json"
+    },
+    {
+      "igdb_id": 170728,
+      "game_name": "Pathfinder Adventures: Epic and Legendary Cards 1",
+      "file": "missing/P/170728-pathfinder-adventures-epic-and-legendary-cards-1.json"
+    },
+    {
       "igdb_id": 155354,
       "game_name": "Pathfinder Adventures: Rise of the Goblins",
       "file": "missing/P/155354-pathfinder-adventures-rise-of-the-goblins.json"
+    },
+    {
+      "igdb_id": 170731,
+      "game_name": "Pathfinder Adventures: Rise of the Goblins Deck 2",
+      "file": "missing/P/170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json"
     },
     {
       "igdb_id": 158182,
@@ -787352,9 +787512,19 @@
       "file": "missing/P/53476-professional-farmer-2014-america.json"
     },
     {
+      "igdb_id": 170733,
+      "game_name": "Professional Farmer 2014: America",
+      "file": "missing/P/170733-professional-farmer-2014-america.json"
+    },
+    {
       "igdb_id": 53477,
       "game_name": "Professional Farmer 2014: Collector's Edition",
       "file": "missing/P/53477-professional-farmer-2014-collectors-edition.json"
+    },
+    {
+      "igdb_id": 170732,
+      "game_name": "Professional Farmer 2014: Good Ol' Times",
+      "file": "missing/P/170732-professional-farmer-2014-good-ol-times.json"
     },
     {
       "igdb_id": 53478,
@@ -825902,6 +826072,11 @@
       "file": "missing/R/105624-rento-fortune-monolit.json"
     },
     {
+      "igdb_id": 170741,
+      "game_name": "Rento Fortune Monolit: Deep Board",
+      "file": "missing/R/170741-rento-fortune-monolit-deep-board.json"
+    },
+    {
       "igdb_id": 111592,
       "game_name": "Rento Fortune VR",
       "file": "missing/R/111592-rento-fortune-vr.json"
@@ -843025,6 +843200,11 @@
       "igdb_id": 269878,
       "game_name": "Rockman 2: Basic Master",
       "file": "missing/R/269878-rockman-2-basic-master.json"
+    },
+    {
+      "igdb_id": 170742,
+      "game_name": "Rockman 2: Dr. Wily no Nazo",
+      "file": "missing/R/170742-rockman-2-dr-wily-no-nazo.json"
     },
     {
       "igdb_id": 269879,
@@ -861482,6 +861662,11 @@
       "file": "missing/S/395771-samurai-obby.json"
     },
     {
+      "igdb_id": 170737,
+      "game_name": "Samurai of Hyuga Book 4: Side Stories 1-10",
+      "file": "missing/S/170737-samurai-of-hyuga-book-4-side-stories-1-10.json"
+    },
+    {
       "igdb_id": 321212,
       "game_name": "Samurai of Hyuga Book 5",
       "file": "missing/S/321212-samurai-of-hyuga-book-5.json"
@@ -866065,6 +866250,11 @@
       "igdb_id": 312157,
       "game_name": "Say Cheese",
       "file": "missing/S/312157-say-cheese.json"
+    },
+    {
+      "igdb_id": 170749,
+      "game_name": "Say Goodbye: Deluxe Edition",
+      "file": "missing/S/170749-say-goodbye-deluxe-edition.json"
     },
     {
       "igdb_id": 258359,
@@ -897870,6 +898060,11 @@
       "igdb_id": 170926,
       "game_name": "Similo: Spookies",
       "file": "missing/S/170926-similo-spookies.json"
+    },
+    {
+      "igdb_id": 170725,
+      "game_name": "Similo: Wild Animals",
+      "file": "missing/S/170725-similo-wild-animals.json"
     },
     {
       "igdb_id": 12907,
@@ -998897,6 +999092,11 @@
       "file": "missing/T/127080-takenoko.json"
     },
     {
+      "igdb_id": 170771,
+      "game_name": "Takenoko: Chibis",
+      "file": "missing/T/170771-takenoko-chibis.json"
+    },
+    {
       "igdb_id": 336726,
       "game_name": "Takenoko: Tilt Five AR",
       "file": "missing/T/336726-takenoko-tilt-five-ar.json"
@@ -1033842,6 +1034042,11 @@
       "file": "missing/T/108299-the-godbeast.json"
     },
     {
+      "igdb_id": 170735,
+      "game_name": "The Goddess of Time and the Ice Princess: Episode 1",
+      "file": "missing/T/170735-the-goddess-of-time-and-the-ice-princess-episode-1.json"
+    },
+    {
       "igdb_id": 307906,
       "game_name": "The Goddess Robbery",
       "file": "missing/T/307906-the-goddess-robbery.json"
@@ -1039885,6 +1040090,16 @@
       "igdb_id": 146182,
       "game_name": "The King of Fighters XIV: Ultimate Edition",
       "file": "missing/T/146182-the-king-of-fighters-xiv-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 170767,
+      "game_name": "The King of Fighters XIV: Upgrade Pack 1",
+      "file": "missing/T/170767-the-king-of-fighters-xiv-upgrade-pack-1.json"
+    },
+    {
+      "igdb_id": 170768,
+      "game_name": "The King of Fighters XIV: Upgrade Pack 2",
+      "file": "missing/T/170768-the-king-of-fighters-xiv-upgrade-pack-2.json"
     },
     {
       "igdb_id": 320254,
@@ -1095415,6 +1095630,11 @@
       "igdb_id": 378521,
       "game_name": "Total Tank Simulator 2",
       "file": "missing/T/378521-total-tank-simulator-2.json"
+    },
+    {
+      "igdb_id": 170736,
+      "game_name": "Total Tank Simulator: Italy",
+      "file": "missing/T/170736-total-tank-simulator-italy.json"
     },
     {
       "igdb_id": 250640,
@@ -1160157,6 +1160377,16 @@
       "file": "missing/W/278721-wargame-construction-set-pack.json"
     },
     {
+      "igdb_id": 170747,
+      "game_name": "Wargame: AirLand Battle - Magna Carta",
+      "file": "missing/W/170747-wargame-airland-battle-magna-carta.json"
+    },
+    {
+      "igdb_id": 170748,
+      "game_name": "Wargame: AirLand Battle - Vox Populi",
+      "file": "missing/W/170748-wargame-airland-battle-vox-populi.json"
+    },
+    {
       "igdb_id": 8383,
       "game_name": "Wargame: European Escalation",
       "file": "missing/W/8383-wargame-european-escalation.json"
@@ -1192242,9 +1192472,24 @@
       "file": "missing/X/27663-x-morph-defense.json"
     },
     {
+      "igdb_id": 170773,
+      "game_name": "X-Morph: Defense - European Assault",
+      "file": "missing/X/170773-x-morph-defense-european-assault.json"
+    },
+    {
+      "igdb_id": 170774,
+      "game_name": "X-Morph: Defense - Last Bastion",
+      "file": "missing/X/170774-x-morph-defense-last-bastion.json"
+    },
+    {
       "igdb_id": 166262,
       "game_name": "X-Morph: Defense - Limited Edition",
       "file": "missing/X/166262-x-morph-defense-limited-edition.json"
+    },
+    {
+      "igdb_id": 170775,
+      "game_name": "X-Morph: Defense - Survival of the Fittest",
+      "file": "missing/X/170775-x-morph-defense-survival-of-the-fittest.json"
     },
     {
       "igdb_id": 122757,
@@ -1206095,6 +1206340,11 @@
       "igdb_id": 415959,
       "game_name": "Zelene Lux: Spirit Notes - Collector's Edition",
       "file": "missing/Z/415959-zelene-lux-spirit-notes-collectors-edition.json"
+    },
+    {
+      "igdb_id": 170772,
+      "game_name": "Zeliria Sanctuary: Isle's Memories",
+      "file": "missing/Z/170772-zeliria-sanctuary-isles-memories.json"
     },
     {
       "igdb_id": 220734,
