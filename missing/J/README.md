@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Flash! | 234733 | [234733-jumping-flash.json](./234733-jumping-flash.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
 | Jumping Flash! 2 | 20300 | [20300-jumping-flash-2.json](./20300-jumping-flash-2.json) |
+| Jumping Frog | 169624 | [169624-jumping-frog.json](./169624-jumping-frog.json) |
 | Jumping Frog: A Time Traveller | 247496 | [247496-jumping-frog-a-time-traveller.json](./247496-jumping-frog-a-time-traveller.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Horses Champions | 104509 | [104509-jumping-horses-champions.json](./104509-jumping-horses-champions.json) |
