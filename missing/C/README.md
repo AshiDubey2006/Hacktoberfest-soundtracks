@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Golf | 320029 | [320029-candy-golf.json](./320029-candy-golf.json) |
+| Candy Gun | 163705 | [163705-candy-gun.json](./163705-candy-gun.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
@@ -2335,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
+| Casa dos Artistas | 163701 | [163701-casa-dos-artistas.json](./163701-casa-dos-artistas.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
@@ -3987,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetary | 276401 | [276401-cemetary.json](./276401-cemetary.json) |
 | Cemetery Mary | 177883 | [177883-cemetery-mary.json](./177883-cemetery-mary.json) |
 | Cemetery of Bob | 293510 | [293510-cemetery-of-bob.json](./293510-cemetery-of-bob.json) |
+| Cemetery War | 163772 | [163772-cemetery-war.json](./163772-cemetery-war.json) |
 | Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
@@ -8290,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter 2: He Said She Said | 317294 | [317294-clutter-2-he-said-she-said.json](./317294-clutter-2-he-said-she-said.json) |
 | Clutter Craze | 82188 | [82188-clutter-craze.json](./82188-clutter-craze.json) |
 | Clutter III : Who Is The Void? | 318199 | [318199-clutter-iii-who-is-the-void.json](./318199-clutter-iii-who-is-the-void.json) |
+| Clutter IX: Clutter IXtreme | 163798 | [163798-clutter-ix-clutter-ixtreme.json](./163798-clutter-ix-clutter-ixtreme.json) |
 | Clutter Puzzle Magazine Vol. 15 No. 1: Collector's Edition | 281999 | [281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json](./281999-clutter-puzzle-magazine-vol-15-no-1-collectors-edition.json) |
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
@@ -11970,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
+| Coyote | 163796 | [163796-coyote.json](./163796-coyote.json) |
 | Coyote: An Old West Vignette | 292443 | [292443-coyote-an-old-west-vignette.json](./292443-coyote-an-old-west-vignette.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozmic Fantasy: Bouken Shounen Yuu | 251495 | [251495-cozmic-fantasy-bouken-shounen-yuu.json](./251495-cozmic-fantasy-bouken-shounen-yuu.json) |
