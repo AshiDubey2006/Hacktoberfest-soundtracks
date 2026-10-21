@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
+| Battle Strike World War | 169103 | [169103-battle-strike-world-war.json](./169103-battle-strike-world-war.json) |
 | Battle Submarine | 38185 | [38185-battle-submarine.json](./38185-battle-submarine.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
 | Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
