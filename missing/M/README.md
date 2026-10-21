@@ -13939,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
+| Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
