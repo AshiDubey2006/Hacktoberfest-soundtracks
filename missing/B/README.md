@@ -728,7 +728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5064,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Tree | 68726 | [68726-berry-tree.json](./68726-berry-tree.json) |
 | Berrywitched! | 330215 | [330215-berrywitched.json](./330215-berrywitched.json) |
 | Berrywitched! The Harvest | 374169 | [374169-berrywitched-the-harvest.json](./374169-berrywitched-the-harvest.json) |
+| Berserk and the Band of the Hawk: Additional Scenario Set | 168104 | [168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json](./168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json) |
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
