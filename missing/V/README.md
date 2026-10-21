@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Cruise Director 6 - Collector's Edition | 416159 | [416159-vacation-adventures-cruise-director-6-collectors-edition.json](./416159-vacation-adventures-cruise-director-6-collectors-edition.json) |
 | Vacation Adventures: Cruise Director 8 - Collector's Edition | 248015 | [248015-vacation-adventures-cruise-director-8-collectors-edition.json](./248015-vacation-adventures-cruise-director-8-collectors-edition.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
+| Vacation Adventures: Park Ranger 10 | 169119 | [169119-vacation-adventures-park-ranger-10.json](./169119-vacation-adventures-park-ranger-10.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
 | Vacation Adventures: Park Ranger 13 - Collector's Edition | 233894 | [233894-vacation-adventures-park-ranger-13-collectors-edition.json](./233894-vacation-adventures-park-ranger-13-collectors-edition.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
+| Vacation Adventures: Park Ranger 5 | 169120 | [169120-vacation-adventures-park-ranger-5.json](./169120-vacation-adventures-park-ranger-5.json) |
 | Vacation Adventures: Park Ranger 6 | 153138 | [153138-vacation-adventures-park-ranger-6.json](./153138-vacation-adventures-park-ranger-6.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Adventures: Park Ranger 8 | 191072 | [191072-vacation-adventures-park-ranger-8.json](./191072-vacation-adventures-park-ranger-8.json) |
