@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
+| Samurai of Hyuga Book 4: Side Stories 1-10 | 170737 | [170737-samurai-of-hyuga-book-4-side-stories-1-10.json](./170737-samurai-of-hyuga-book-4-side-stories-1-10.json) |
 | Samurai of Hyuga Book 5 | 321212 | [321212-samurai-of-hyuga-book-5.json](./321212-samurai-of-hyuga-book-5.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saxophight | 177222 | [177222-saxophight.json](./177222-saxophight.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
+| Say Goodbye: Deluxe Edition | 170749 | [170749-say-goodbye-deluxe-edition.json](./170749-say-goodbye-deluxe-edition.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
@@ -8307,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Similo | 95962 | [95962-similo.json](./95962-similo.json) |
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
 | Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
+| Similo: Wild Animals | 170725 | [170725-similo-wild-animals.json](./170725-similo-wild-animals.json) |
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | Simkea | 368231 | [368231-simkea.json](./368231-simkea.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
