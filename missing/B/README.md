@@ -8640,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
+| Bloodsports.TV: Blood Brawl | 170184 | [170184-bloodsports-tv-blood-brawl.json](./170184-bloodsports-tv-blood-brawl.json) |
 | Bloodstain | 257298 | [257298-bloodstain.json](./257298-bloodstain.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
@@ -11932,6 +11933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Cursed Clouds | 240053 | [240053-bridge-to-another-world-cursed-clouds.json](./240053-bridge-to-another-world-cursed-clouds.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
 | Bridge to Another World: Endless Game | 187914 | [187914-bridge-to-another-world-endless-game.json](./187914-bridge-to-another-world-endless-game.json) |
+| Bridge to Another World: Endless Game - Collector's Edition | 170210 | [170210-bridge-to-another-world-endless-game-collectors-edition.json](./170210-bridge-to-another-world-endless-game-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz | 327367 | [327367-bridge-to-another-world-escape-from-oz.json](./327367-bridge-to-another-world-escape-from-oz.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
 | Bridge to Another World: Fate of the Seasons | 397115 | [397115-bridge-to-another-world-fate-of-the-seasons.json](./397115-bridge-to-another-world-fate-of-the-seasons.json) |
