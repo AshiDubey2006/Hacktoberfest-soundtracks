@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Takenoko | 127080 | [127080-takenoko.json](./127080-takenoko.json) |
+| Takenoko: Chibis | 170771 | [170771-takenoko-chibis.json](./170771-takenoko-chibis.json) |
 | Takenoko: Tilt Five AR | 336726 | [336726-takenoko-tilt-five-ar.json](./336726-takenoko-tilt-five-ar.json) |
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
@@ -7744,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The God's Paradise | 82650 | [82650-the-gods-paradise.json](./82650-the-gods-paradise.json) |
 | The God's Treasury: The Bewitched Mask | 54306 | [54306-the-gods-treasury-the-bewitched-mask.json](./54306-the-gods-treasury-the-bewitched-mask.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
+| The Goddess of Time and the Ice Princess: Episode 1 | 170735 | [170735-the-goddess-of-time-and-the-ice-princess-episode-1.json](./170735-the-goddess-of-time-and-the-ice-princess-episode-1.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
@@ -8953,6 +8955,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Shun'ei Kung-Fu Costume | 342867 | [342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json](./342867-the-king-of-fighters-xiv-shunei-kung-fu-costume.json) |
 | The King Of Fighters XIV: Sylvie Little Red Riding Hood Costume | 342870 | [342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json](./342870-the-king-of-fighters-xiv-sylvie-little-red-riding-hood-costume.json) |
 | The King of Fighters XIV: Ultimate Edition | 146182 | [146182-the-king-of-fighters-xiv-ultimate-edition.json](./146182-the-king-of-fighters-xiv-ultimate-edition.json) |
+| The King of Fighters XIV: Upgrade Pack 1 | 170767 | [170767-the-king-of-fighters-xiv-upgrade-pack-1.json](./170767-the-king-of-fighters-xiv-upgrade-pack-1.json) |
+| The King of Fighters XIV: Upgrade Pack 2 | 170768 | [170768-the-king-of-fighters-xiv-upgrade-pack-2.json](./170768-the-king-of-fighters-xiv-upgrade-pack-2.json) |
 | The King of Fighters XIV: Vanessa | 320254 | [320254-the-king-of-fighters-xiv-vanessa.json](./320254-the-king-of-fighters-xiv-vanessa.json) |
 | The King Of Fighters XIV: Whip | 320256 | [320256-the-king-of-fighters-xiv-whip.json](./320256-the-king-of-fighters-xiv-whip.json) |
 | The King of Fighters XV | 113104 | [113104-the-king-of-fighters-xv.json](./113104-the-king-of-fighters-xv.json) |
@@ -20059,6 +20063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
 | Total Tank Simulator 2 | 378521 | [378521-total-tank-simulator-2.json](./378521-total-tank-simulator-2.json) |
+| Total Tank Simulator: Italy | 170736 | [170736-total-tank-simulator-italy.json](./170736-total-tank-simulator-italy.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
