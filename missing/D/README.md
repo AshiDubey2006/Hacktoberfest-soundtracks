@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
 | Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
+| Dark Crypt | 164215 | [164215-dark-crypt.json](./164215-dark-crypt.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
 | Darkness Road | 262206 | [262206-darkness-road.json](./262206-darkness-road.json) |
 | Darkness Rollercoaster: Ultimate Shooter Edition | 118682 | [118682-darkness-rollercoaster-ultimate-shooter-edition.json](./118682-darkness-rollercoaster-ultimate-shooter-edition.json) |
+| Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
@@ -5758,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer For Windows | 312840 | [312840-destroyer-for-windows.json](./312840-destroyer-for-windows.json) |
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
+| Destroyer: The U-Boat Hunter | 164213 | [164213-destroyer-the-u-boat-hunter.json](./164213-destroyer-the-u-boat-hunter.json) |
 | Destroying the Asteroids: Along With Unfair Hurdles | 195967 | [195967-destroying-the-asteroids-along-with-unfair-hurdles.json](./195967-destroying-the-asteroids-along-with-unfair-hurdles.json) |
 | Destrucktors: Warfare Showdown | 114134 | [114134-destrucktors-warfare-showdown.json](./114134-destrucktors-warfare-showdown.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
@@ -6767,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig Raiders: Anomaly Extraction | 406661 | [406661-dig-raiders-anomaly-extraction.json](./406661-dig-raiders-anomaly-extraction.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
+| Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
@@ -10328,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
+| Dou | 164303 | [164303-dou.json](./164303-dou.json) |
 | Dou! | 339065 | [339065-dou.json](./339065-dou.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double 345 Slots | 232352 | [232352-double-345-slots.json](./232352-double-345-slots.json) |
