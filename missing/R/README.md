@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
 | Remnant Records | 198688 | [198688-remnant-records.json](./198688-remnant-records.json) |
+| Remnant: From the Ashes - Complete Edition | 164747 | [164747-remnant-from-the-ashes-complete-edition.json](./164747-remnant-from-the-ashes-complete-edition.json) |
 | Remnant: From the Ashes - Subject 2923 | 134829 | [134829-remnant-from-the-ashes-subject-2923.json](./134829-remnant-from-the-ashes-subject-2923.json) |
 | Remnant: From the Ashes - Swamps of Corsus | 132138 | [132138-remnant-from-the-ashes-swamps-of-corsus.json](./132138-remnant-from-the-ashes-swamps-of-corsus.json) |
 | Remnants | 134335 | [134335-remnants.json](./134335-remnants.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Resistance | 122108 | [122108-resident-evil-resistance.json](./122108-resident-evil-resistance.json) |
+| Resident Evil Revelations 1 & 2 Bundle | 164826 | [164826-resident-evil-revelations-1-and-2-bundle.json](./164826-resident-evil-revelations-1-and-2-bundle.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
 | Resident Evil Revelations Collection | 53790 | [53790-resident-evil-revelations-collection.json](./53790-resident-evil-revelations-collection.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
@@ -7672,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
 | Rogue Company: Second Sight Starter Pack | 406758 | [406758-rogue-company-second-sight-starter-pack.json](./406758-rogue-company-second-sight-starter-pack.json) |
+| Rogue Company: Ultimate Edition | 164751 | [164751-rogue-company-ultimate-edition.json](./164751-rogue-company-ultimate-edition.json) |
 | Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
 | Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
