@@ -7179,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Zombie Madness | 272190 | [272190-city-zombie-madness.json](./272190-city-zombie-madness.json) |
 | City Zombies | 116909 | [116909-city-zombies.json](./116909-city-zombies.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
+| City: 909 | 165950 | [165950-city-909.json](./165950-city-909.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
 | City::Ephemera | 322040 | [322040-city-ephemera.json](./322040-city-ephemera.json) |
 | City’s Hero Collection | 328537 | [328537-city-s-hero-collection.json](./328537-city-s-hero-collection.json) |
