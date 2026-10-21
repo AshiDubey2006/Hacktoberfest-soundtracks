@@ -9142,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
+| The Last Act | 165454 | [165454-the-last-act.json](./165454-the-last-act.json) |
 | The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
 | The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
@@ -9972,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
+| The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
@@ -11118,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Ocean Hunter | 39475 | [39475-the-ocean-hunter.json](./39475-the-ocean-hunter.json) |
 | The Ocean Will Have Us All | 220695 | [220695-the-ocean-will-have-us-all.json](./220695-the-ocean-will-have-us-all.json) |
+| The Octots | 165452 | [165452-the-octots.json](./165452-the-octots.json) |
 | The Odaiba Box | 53766 | [53766-the-odaiba-box.json](./53766-the-odaiba-box.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Battle | 108026 | [108026-the-odd-battle.json](./108026-the-odd-battle.json) |
