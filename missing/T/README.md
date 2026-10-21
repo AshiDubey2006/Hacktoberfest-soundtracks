@@ -8953,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Angel Diabla Costume | 342572 | [342572-the-king-of-fighters-xiv-angel-diabla-costume.json](./342572-the-king-of-fighters-xiv-angel-diabla-costume.json) |
 | The King of Fighters XIV: Athena KOF ‘98 Costume | 342871 | [342871-the-king-of-fighters-xiv-athena-kof-98-costume.json](./342871-the-king-of-fighters-xiv-athena-kof-98-costume.json) |
 | The King of Fighters XIV: Blue Mary | 321571 | [321571-the-king-of-fighters-xiv-blue-mary.json](./321571-the-king-of-fighters-xiv-blue-mary.json) |
+| The King of Fighters XIV: Burn to Fight Premium Edition | 167009 | [167009-the-king-of-fighters-xiv-burn-to-fight-premium-edition.json](./167009-the-king-of-fighters-xiv-burn-to-fight-premium-edition.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King of Fighters XIV: Galaxy Edition | 132080 | [132080-the-king-of-fighters-xiv-galaxy-edition.json](./132080-the-king-of-fighters-xiv-galaxy-edition.json) |
 | The King of Fighters XIV: Heidern | 321570 | [321570-the-king-of-fighters-xiv-heidern.json](./321570-the-king-of-fighters-xiv-heidern.json) |
@@ -9252,6 +9253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
+| The Last Guardian: First-Press Limited Edition | 166983 | [166983-the-last-guardian-first-press-limited-edition.json](./166983-the-last-guardian-first-press-limited-edition.json) |
 | The Last Guardian: Limited Edition | 405004 | [405004-the-last-guardian-limited-edition.json](./405004-the-last-guardian-limited-edition.json) |
 | The Last Guardian: Steelbook Edition | 38488 | [38488-the-last-guardian-steelbook-edition.json](./38488-the-last-guardian-steelbook-edition.json) |
 | The Last Guild | 342200 | [342200-the-last-guild.json](./342200-the-last-guild.json) |
@@ -11643,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
+| The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition | 167020 | [167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json](./167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json) |
 | The Princess' Heart | 35022 | [35022-the-princess-heart.json](./35022-the-princess-heart.json) |
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
@@ -11810,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: Memories of a Quintessential Summer | 301514 | [301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json](./301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: Omoide VR - Yotsuba | 243776 | [243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json](./243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json) |
+| The Quintessential Quintuplets: Summer Memories Also Come in Five - Limited Edition | 167012 | [167012-the-quintessential-quintuplets-summer-memories-also-come-in-five-limited-edition.json](./167012-the-quintessential-quintuplets-summer-memories-also-come-in-five-limited-edition.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Quivering | 8943 | [8943-the-quivering.json](./8943-the-quivering.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
@@ -19495,6 +19499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomytronic 3D: Thundering Turbo | 218306 | [218306-tomytronic-3d-thundering-turbo.json](./218306-tomytronic-3d-thundering-turbo.json) |
 | Ton Ton Ball | 62097 | [62097-ton-ton-ball.json](./62097-ton-ton-ball.json) |
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
+| Tonari ni Kanojo no Iru Shiawase: Curious Queen - Limited Edition | 166993 | [166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json](./166993-tonari-ni-kanojo-no-iru-shiawase-curious-queen-limited-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: In First Snow With Her - Premium Edition | 385851 | [385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json](./385851-tonari-ni-kanojo-no-iru-shiawase-in-first-snow-with-her-premium-edition.json) |
 | Tonari ni Kanojo no Iru Shiawase: Two Farce | 70892 | [70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json](./70892-tonari-ni-kanojo-no-iru-shiawase-two-farce.json) |
@@ -24251,6 +24256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trove: Geode Companion Pack 2 | 168142 | [168142-trove-geode-companion-pack-2.json](./168142-trove-geode-companion-pack-2.json) |
 | Trove: Mega Menagerie Pack | 168143 | [168143-trove-mega-menagerie-pack.json](./168143-trove-mega-menagerie-pack.json) |
 | Trove: Square Necessities Pack | 168149 | [168149-trove-square-necessities-pack.json](./168149-trove-square-necessities-pack.json) |
+| Trove: Twinkle Treasure Pack | 167010 | [167010-trove-twinkle-treasure-pack.json](./167010-trove-twinkle-treasure-pack.json) |
 | Trovemount | 341644 | [341644-trovemount.json](./341644-trovemount.json) |
 | Trover Saves the Universe: Important Cosmic Jobs | 132636 | [132636-trover-saves-the-universe-important-cosmic-jobs.json](./132636-trover-saves-the-universe-important-cosmic-jobs.json) |
 | Trow's Space | 250876 | [250876-trows-space.json](./250876-trows-space.json) |
