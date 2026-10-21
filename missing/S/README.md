@@ -9485,6 +9485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Bullets | 188859 | [188859-skull-bullets.json](./188859-skull-bullets.json) |
+| Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
@@ -15078,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kabaam: Neon IV | 361906 | [361906-space-kabaam-neon-iv.json](./361906-space-kabaam-neon-iv.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kahuna | 180582 | [180582-space-kahuna.json](./180582-space-kahuna.json) |
+| Space Kettle | 167515 | [167515-space-kettle.json](./167515-space-kettle.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
@@ -26518,6 +26520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
+| Suspicious Spaceroads | 167546 | [167546-suspicious-spaceroads.json](./167546-suspicious-spaceroads.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
