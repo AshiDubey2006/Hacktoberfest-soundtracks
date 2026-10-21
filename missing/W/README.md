@@ -1338,6 +1338,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
+| Warlock II: The Exiled - The Good, the Bad, & the Muddy | 170192 | [170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json](./170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json) |
+| Warlock II: The Exiled - The Thrilling Trio | 170186 | [170186-warlock-ii-the-exiled-the-thrilling-trio.json](./170186-warlock-ii-the-exiled-the-thrilling-trio.json) |
 | Warlock II: The Exiled - Three Mighty Mages | 170789 | [170789-warlock-ii-the-exiled-three-mighty-mages.json](./170789-warlock-ii-the-exiled-three-mighty-mages.json) |
 | Warlock II: The Exiled - Wrath of the Nagas | 19207 | [19207-warlock-ii-the-exiled-wrath-of-the-nagas.json](./19207-warlock-ii-the-exiled-wrath-of-the-nagas.json) |
 | Warlock of Firetop Mountain | 200318 | [200318-warlock-of-firetop-mountain.json](./200318-warlock-of-firetop-mountain.json) |
@@ -6656,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Adrift Island Creator | 36387 | [36387-worlds-adrift-island-creator.json](./36387-worlds-adrift-island-creator.json) |
 | Worlds Align: Beginning - Collector's Edition | 254909 | [254909-worlds-align-beginning-collectors-edition.json](./254909-worlds-align-beginning-collectors-edition.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
+| Worlds Align: Deadly Dream - Collector's Edition | 170209 | [170209-worlds-align-deadly-dream-collectors-edition.json](./170209-worlds-align-deadly-dream-collectors-edition.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
 | Worlds Best Freaking Card Game | 65416 | [65416-worlds-best-freaking-card-game.json](./65416-worlds-best-freaking-card-game.json) |
