@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Escape | 17825 | [17825-unlimited-escape.json](./17825-unlimited-escape.json) |
 | Unlimited Escape 2 | 17748 | [17748-unlimited-escape-2.json](./17748-unlimited-escape-2.json) |
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
+| Unlimited Fight | 163778 | [163778-unlimited-fight.json](./163778-unlimited-fight.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
