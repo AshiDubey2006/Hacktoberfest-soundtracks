@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5881,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigger Guns: Expansion Pack | 226246 | [226246-bigger-guns-expansion-pack.json](./226246-bigger-guns-expansion-pack.json) |
 | Bigger Than Me | 183431 | [183431-bigger-than-me.json](./183431-bigger-than-me.json) |
 | Bigger Than You Think | 60208 | [60208-bigger-than-you-think.json](./60208-bigger-than-you-think.json) |
+| Bigger Trucks | 168620 | [168620-bigger-trucks.json](./168620-bigger-trucks.json) |
 | BiggerNouis | 181802 | [181802-biggernouis.json](./181802-biggernouis.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
@@ -6783,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
+| Bjorn | 168591 | [168591-bjorn.json](./168591-bjorn.json) |
 | Bjorn to Dance | 183763 | [183763-bjorn-to-dance.json](./183763-bjorn-to-dance.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK Concentration | 312953 | [312953-bk-concentration.json](./312953-bk-concentration.json) |
