@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
+| Onmyoudou: Arcade Edition | 170223 | [170223-onmyoudou-arcade-edition.json](./170223-onmyoudou-arcade-edition.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai | 143385 | [143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json](./143385-onna-no-ko-to-misshitsu-ni-itara-shichau-kamoshirenai.json) |
 | Onna Sansirou: Typhoon Gal | 40378 | [40378-onna-sansirou-typhoon-gal.json](./40378-onna-sansirou-typhoon-gal.json) |
