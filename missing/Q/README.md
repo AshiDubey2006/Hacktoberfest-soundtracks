@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadcubes | 357178 | [357178-quadcubes.json](./357178-quadcubes.json) |
+| Quaddro 2: Blue Level Pack | 165958 | [165958-quaddro-2-blue-level-pack.json](./165958-quaddro-2-blue-level-pack.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadline | 194181 | [194181-quadline.json](./194181-quadline.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
