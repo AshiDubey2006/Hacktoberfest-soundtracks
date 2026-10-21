@@ -11105,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite Blitz | 117503 | [117503-smite-blitz.json](./117503-smite-blitz.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smite Tactics | 25085 | [25085-smite-tactics.json](./25085-smite-tactics.json) |
+| Smite: Digital Deluxe Edition 2021 | 164843 | [164843-smite-digital-deluxe-edition-2021.json](./164843-smite-digital-deluxe-edition-2021.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
@@ -13423,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
+| Sonic Mania: Encore | 164855 | [164855-sonic-mania-encore.json](./164855-sonic-mania-encore.json) |
 | Sonic Mars | 229527 | [229527-sonic-mars.json](./229527-sonic-mars.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
@@ -15431,6 +15433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Thugs | 326184 | [326184-space-thugs.json](./326184-space-thugs.json) |
 | Space Time | 226616 | [226616-space-time.json](./226616-space-time.json) |
 | Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
+| Space to Grow | 164763 | [164763-space-to-grow.json](./164763-space-to-grow.json) |
 | Space to Interrogate | 177801 | [177801-space-to-interrogate.json](./177801-space-to-interrogate.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
 | Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
@@ -17953,6 +17956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidward Neighbor. Sponge Revenge of Bob | 100791 | [100791-squidward-neighbor-sponge-revenge-of-bob.json](./100791-squidward-neighbor-sponge-revenge-of-bob.json) |
 | Squidward Tentacles Jigsaw | 320895 | [320895-squidward-tentacles-jigsaw.json](./320895-squidward-tentacles-jigsaw.json) |
 | Squidward Tractor | 320896 | [320896-squidward-tractor.json](./320896-squidward-tractor.json) |
+| Squidward's Suicide | 164757 | [164757-squidwards-suicide.json](./164757-squidwards-suicide.json) |
 | Squiggle Drop | 234099 | [234099-squiggle-drop.json](./234099-squiggle-drop.json) |
 | Squigley | 291724 | [291724-squigley.json](./291724-squigley.json) |
 | Squigs | 79750 | [79750-squigs.json](./79750-squigs.json) |
@@ -20171,6 +20175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
+| Steep X Games: Gold Edition | 164854 | [164854-steep-x-games-gold-edition.json](./164854-steep-x-games-gold-edition.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
@@ -22081,6 +22086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
 | Stunt Bike Extreme | 322447 | [322447-stunt-bike-extreme.json](./322447-stunt-bike-extreme.json) |
+| Stunt Buggies | 164759 | [164759-stunt-buggies.json](./164759-stunt-buggies.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Car Parking and Driving Simulator | 91257 | [91257-stunt-car-parking-and-driving-simulator.json](./91257-stunt-car-parking-and-driving-simulator.json) |
