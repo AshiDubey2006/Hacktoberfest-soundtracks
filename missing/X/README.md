@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XanChuchamel | 207368 | [207368-xanchuchamel.json](./207368-xanchuchamel.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xander: 7-Shot | 337108 | [337108-xander-7-shot.json](./337108-xander-7-shot.json) |
+| Xando: Xtreme & Over the Top | 163707 | [163707-xando-xtreme-and-over-the-top.json](./163707-xando-xtreme-and-over-the-top.json) |
 | Xangel | 181044 | [181044-xangel.json](./181044-xangel.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | Xanguito Aventura | 150763 | [150763-xanguito-aventura.json](./150763-xanguito-aventura.json) |
