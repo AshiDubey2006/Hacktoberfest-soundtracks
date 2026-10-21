@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
+| Jerma's Big Adventure | 165471 | [165471-jermas-big-adventure.json](./165471-jermas-big-adventure.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
 | Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica's Plight | 385894 | [385894-jessicas-plight.json](./385894-jessicas-plight.json) |
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
+| Jessie: Mother's Sins | 165371 | [165371-jessie-mothers-sins.json](./165371-jessie-mothers-sins.json) |
 | Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
 | Jest Messter | 296155 | [296155-jest-messter.json](./296155-jest-messter.json) |
 | Jester | 251714 | [251714-jester.json](./251714-jester.json) |
