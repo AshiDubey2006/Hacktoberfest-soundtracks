@@ -1047,6 +1047,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
+| Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
+| Wargame: AirLand Battle - Vox Populi | 170748 | [170748-wargame-airland-battle-vox-populi.json](./170748-wargame-airland-battle-vox-populi.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
 | Wargame: Red Dragon - Complete Edition | 53887 | [53887-wargame-red-dragon-complete-edition.json](./53887-wargame-red-dragon-complete-edition.json) |
 | Wargame: Red Dragon - Double Nation Pack Reds | 226885 | [226885-wargame-red-dragon-double-nation-pack-reds.json](./226885-wargame-red-dragon-double-nation-pack-reds.json) |
