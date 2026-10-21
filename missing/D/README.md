@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Speaking with the Dead | 187932 | [187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json](./187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json) |
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
+| Dark Tales: Edgar Allan Poe's The Bells - Collector's Edition | 170189 | [170189-dark-tales-edgar-allan-poes-the-bells-collectors-edition.json](./170189-dark-tales-edgar-allan-poes-the-bells-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat | 257823 | [257823-dark-tales-edgar-allan-poes-the-black-cat.json](./257823-dark-tales-edgar-allan-poes-the-black-cat.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
@@ -5267,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Tsuku 3: Derby-ba wo Tsukurou! | 288143 | [288143-derby-tsuku-3-derby-ba-wo-tsukurou.json](./288143-derby-tsuku-3-derby-ba-wo-tsukurou.json) |
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
+| Dere Exe: Classic Edition | 170220 | [170220-dere-exe-classic-edition.json](./170220-dere-exe-classic-edition.json) |
 | Dere Quartet | 337578 | [337578-dere-quartet.json](./337578-dere-quartet.json) |
 | Dere-chat | 199499 | [199499-dere-chat.json](./199499-dere-chat.json) |
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
@@ -11548,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dream | 268638 | [268638-dragons-dream.json](./268638-dragons-dream.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
+| Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 216403 | [216403-dragons-heaven.json](./216403-dragons-heaven.json) |
