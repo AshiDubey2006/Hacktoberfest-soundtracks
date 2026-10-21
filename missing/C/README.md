@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeraland | 174589 | [174589-chimeraland.json](./174589-chimeraland.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
+| Chimeras: Cherished Serpent - Collector's Edition | 170216 | [170216-chimeras-cherished-serpent-collectors-edition.json](./170216-chimeras-cherished-serpent-collectors-edition.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
 | Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
@@ -6189,7 +6190,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: Puss in Boots - Collector's Edition | 153140 | [153140-christmas-stories-puss-in-boots-collectors-edition.json](./153140-christmas-stories-puss-in-boots-collectors-edition.json) |
 | Christmas Stories: The Adventures of Santa Claus | 328539 | [328539-christmas-stories-the-adventures-of-santa-claus.json](./328539-christmas-stories-the-adventures-of-santa-claus.json) |
 | Christmas Stories: The Christmas Tree Forest | 187961 | [187961-christmas-stories-the-christmas-tree-forest.json](./187961-christmas-stories-the-christmas-tree-forest.json) |
+| Christmas Stories: The Christmas Tree Forest - Collector's Edition | 170208 | [170208-christmas-stories-the-christmas-tree-forest-collectors-edition.json](./170208-christmas-stories-the-christmas-tree-forest-collectors-edition.json) |
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
+| Christmas Stories: The Gift of the Magi - Collector's Edition | 170217 | [170217-christmas-stories-the-gift-of-the-magi-collectors-edition.json](./170217-christmas-stories-the-gift-of-the-magi-collectors-edition.json) |
 | Christmas Stories: The Legend of Toymakers - Collector's Edition | 294932 | [294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json](./294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json) |
 | Christmas Stories: Yulemen | 187966 | [187966-christmas-stories-yulemen.json](./187966-christmas-stories-yulemen.json) |
 | Christmas Stories: Yulemen - Collector's Edition | 188854 | [188854-christmas-stories-yulemen-collectors-edition.json](./188854-christmas-stories-yulemen-collectors-edition.json) |
@@ -13825,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
+| Crowntakers: Undead Undertakings | 170221 | [170221-crowntakers-undead-undertakings.json](./170221-crowntakers-undead-undertakings.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crows: Burning Edge | 13521 | [13521-crows-burning-edge.json](./13521-crows-burning-edge.json) |
