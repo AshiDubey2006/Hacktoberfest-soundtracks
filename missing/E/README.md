@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Editor | 288086 | [288086-earth-editor.json](./288086-earth-editor.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
+| Earth Guard: Egypt | 165931 | [165931-earth-guard-egypt.json](./165931-earth-guard-egypt.json) |
 | Earth Impact | 99135 | [99135-earth-impact.json](./99135-earth-impact.json) |
 | Earth Inc. | 224063 | [224063-earth-inc.json](./224063-earth-inc.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
 | Erannorth Reborn: Canticum Noctem | 168913 | [168913-erannorth-reborn-canticum-noctem.json](./168913-erannorth-reborn-canticum-noctem.json) |
+| Erannorth Reborn: Underworld | 165961 | [165961-erannorth-reborn-underworld.json](./165961-erannorth-reborn-underworld.json) |
 | Erannorth Renaissance | 280288 | [280288-erannorth-renaissance.json](./280288-erannorth-renaissance.json) |
 | Eras of Alchemy | 233531 | [233531-eras-of-alchemy.json](./233531-eras-of-alchemy.json) |
 | Eras Rising | 244731 | [244731-eras-rising.json](./244731-eras-rising.json) |
