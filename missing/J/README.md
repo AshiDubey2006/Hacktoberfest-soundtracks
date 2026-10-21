@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
+| Johnny Lionface | 167541 | [167541-johnny-lionface.json](./167541-johnny-lionface.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
