@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
+| Hanako's flower shop | 163787 | [163787-hanakos-flower-shop.json](./163787-hanakos-flower-shop.json) |
 | Hanamaru Koumuten | 363672 | [363672-hanamaru-koumuten.json](./363672-hanamaru-koumuten.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
@@ -8682,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Make Slime: DIY Slime Making for Kids | 90838 | [90838-how-to-make-slime-diy-slime-making-for-kids.json](./90838-how-to-make-slime-diy-slime-making-for-kids.json) |
 | How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
+| How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
