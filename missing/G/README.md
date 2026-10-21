@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GHGuessr | 294541 | [294541-ghguessr.json](./294541-ghguessr.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
+| Ghost 1.0: Limited Edition | 166995 | [166995-ghost-1-0-limited-edition.json](./166995-ghost-1-0-limited-edition.json) |
 | Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
