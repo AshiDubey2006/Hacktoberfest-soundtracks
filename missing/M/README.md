@@ -6772,6 +6772,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
 | Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
+| Memory Card Monsters: Expanded Content 3 | 168080 | [168080-memory-card-monsters-expanded-content-3.json](./168080-memory-card-monsters-expanded-content-3.json) |
+| Memory Card Monsters: Expanded Content 4 | 168078 | [168078-memory-card-monsters-expanded-content-4.json](./168078-memory-card-monsters-expanded-content-4.json) |
+| Memory Card Monsters: Expanded Content 5 | 168077 | [168077-memory-card-monsters-expanded-content-5.json](./168077-memory-card-monsters-expanded-content-5.json) |
+| Memory Card Monsters: Expanded Content 6 | 168079 | [168079-memory-card-monsters-expanded-content-6.json](./168079-memory-card-monsters-expanded-content-6.json) |
+| Memory Card Monsters: Expanded Content 7 | 168081 | [168081-memory-card-monsters-expanded-content-7.json](./168081-memory-card-monsters-expanded-content-7.json) |
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
@@ -10048,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniopolis | 418518 | [418518-miniopolis.json](./418518-miniopolis.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
+| MiniRacer | 168076 | [168076-miniracer.json](./168076-miniracer.json) |
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
 | Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
@@ -11797,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
+| Monolith | 168101 | [168101-monolith.json](./168101-monolith.json) |
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
 | Monolith O Pesadelo | 265202 | [265202-monolith-o-pesadelo.json](./265202-monolith-o-pesadelo.json) |
 | Monolith VR | 160155 | [160155-monolith-vr.json](./160155-monolith-vr.json) |
@@ -15572,6 +15579,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Felt World: farm, ocean, safari, arctic | 104505 | [104505-my-felt-world-farm-ocean-safari-arctic.json](./104505-my-felt-world-farm-ocean-safari-arctic.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
+| My Fight: EeOneGuy | 168069 | [168069-my-fight-eeoneguy.json](./168069-my-fight-eeoneguy.json) |
+| My Fight: Mariana Ro | 168068 | [168068-my-fight-mariana-ro.json](./168068-my-fight-mariana-ro.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Craft Survival | 259988 | [259988-my-first-craft-survival.json](./259988-my-first-craft-survival.json) |
