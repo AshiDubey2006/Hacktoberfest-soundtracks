@@ -1051,6 +1051,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
 | Wargame: AirLand Battle - Vox Populi | 170748 | [170748-wargame-airland-battle-vox-populi.json](./170748-wargame-airland-battle-vox-populi.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
+| Wargame: European Escalation - Conquest | 168087 | [168087-wargame-european-escalation-conquest.json](./168087-wargame-european-escalation-conquest.json) |
+| Wargame: European Escalation - Fatal Error | 168089 | [168089-wargame-european-escalation-fatal-error.json](./168089-wargame-european-escalation-fatal-error.json) |
+| Wargame: European Escalation - New Battlefields | 168088 | [168088-wargame-european-escalation-new-battlefields.json](./168088-wargame-european-escalation-new-battlefields.json) |
 | Wargame: Red Dragon - Complete Edition | 53887 | [53887-wargame-red-dragon-complete-edition.json](./53887-wargame-red-dragon-complete-edition.json) |
 | Wargame: Red Dragon - Double Nation Pack Reds | 226885 | [226885-wargame-red-dragon-double-nation-pack-reds.json](./226885-wargame-red-dragon-double-nation-pack-reds.json) |
 | Wargame: Red Dragon - Nation Pack: Israel | 226884 | [226884-wargame-red-dragon-nation-pack-israel.json](./226884-wargame-red-dragon-nation-pack-israel.json) |
@@ -3054,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
