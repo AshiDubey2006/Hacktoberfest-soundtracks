@@ -6107,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 2: Dark Waters - A Pirate's Clothes | 53511 | [53511-risen-2-dark-waters-a-pirates-clothes.json](./53511-risen-2-dark-waters-a-pirates-clothes.json) |
 | Risen 2: Dark Waters - Gold Edition | 51874 | [51874-risen-2-dark-waters-gold-edition.json](./51874-risen-2-dark-waters-gold-edition.json) |
 | Risen 2: Dark Waters - The Air Temple | 53512 | [53512-risen-2-dark-waters-the-air-temple.json](./53512-risen-2-dark-waters-the-air-temple.json) |
+| Risen 2: Dark Waters - Treasure Isle | 168570 | [168570-risen-2-dark-waters-treasure-isle.json](./168570-risen-2-dark-waters-treasure-isle.json) |
 | Risen 2: Dark Waters - Treasure Isle | 53513 | [53513-risen-2-dark-waters-treasure-isle.json](./53513-risen-2-dark-waters-treasure-isle.json) |
 | Risen 3: Fog Island | 238516 | [238516-risen-3-fog-island.json](./238516-risen-3-fog-island.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
@@ -8966,6 +8967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG World - Action RPG Maker | 131334 | [131334-rpg-world-action-rpg-maker.json](./131334-rpg-world-action-rpg-maker.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
 | RPG: Fire Keeper | 405966 | [405966-rpg-fire-keeper.json](./405966-rpg-fire-keeper.json) |
+| RPG: Squad battle | 168604 | [168604-rpg-squad-battle.json](./168604-rpg-squad-battle.json) |
 | RPG: The Legends of Power Volume 1 | 351590 | [351590-rpg-the-legends-of-power-volume-1.json](./351590-rpg-the-legends-of-power-volume-1.json) |
 | RPG2 | 407195 | [407195-rpg2.json](./407195-rpg2.json) |
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
