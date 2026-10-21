@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
+| Alien World Millionaire | 169619 | [169619-alien-world-millionaire.json](./169619-alien-world-millionaire.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien Worm | 192757 | [192757-alien-worm.json](./192757-alien-worm.json) |
 | Alien Worms Invasion | 89657 | [89657-alien-worms-invasion.json](./89657-alien-worms-invasion.json) |
@@ -12828,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
 | Attack on Titan: Brave Order | 174604 | [174604-attack-on-titan-brave-order.json](./174604-attack-on-titan-brave-order.json) |
 | Attack on Titan: Burning Bright in the Forests of the Night | 200576 | [200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json](./200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json) |
+| Attack on Titan: Episode 1 | 169651 | [169651-attack-on-titan-episode-1.json](./169651-attack-on-titan-episode-1.json) |
 | Attack on Titan: Episode 2 | 169780 | [169780-attack-on-titan-episode-2.json](./169780-attack-on-titan-episode-2.json) |
 | Attack on Titan: Episode 3 | 169781 | [169781-attack-on-titan-episode-3.json](./169781-attack-on-titan-episode-3.json) |
 | Attack on Titan: Humanity in Chains | 20040 | [20040-attack-on-titan-humanity-in-chains.json](./20040-attack-on-titan-humanity-in-chains.json) |
