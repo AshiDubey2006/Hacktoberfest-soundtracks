@@ -2318,7 +2318,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
+| Pathfinder Adventures: A Fighter's Tale - Valeros | 170730 | [170730-pathfinder-adventures-a-fighters-tale-valeros.json](./170730-pathfinder-adventures-a-fighters-tale-valeros.json) |
+| Pathfinder Adventures: Character Alts 1 | 170729 | [170729-pathfinder-adventures-character-alts-1.json](./170729-pathfinder-adventures-character-alts-1.json) |
+| Pathfinder Adventures: Epic and Legendary Cards 1 | 170728 | [170728-pathfinder-adventures-epic-and-legendary-cards-1.json](./170728-pathfinder-adventures-epic-and-legendary-cards-1.json) |
 | Pathfinder Adventures: Rise of the Goblins | 155354 | [155354-pathfinder-adventures-rise-of-the-goblins.json](./155354-pathfinder-adventures-rise-of-the-goblins.json) |
+| Pathfinder Adventures: Rise of the Goblins Deck 2 | 170731 | [170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json](./170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
@@ -11722,7 +11726,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
+| Professional Farmer 2014: America | 170733 | [170733-professional-farmer-2014-america.json](./170733-professional-farmer-2014-america.json) |
 | Professional Farmer 2014: Collector's Edition | 53477 | [53477-professional-farmer-2014-collectors-edition.json](./53477-professional-farmer-2014-collectors-edition.json) |
+| Professional Farmer 2014: Good Ol' Times | 170732 | [170732-professional-farmer-2014-good-ol-times.json](./170732-professional-farmer-2014-good-ol-times.json) |
 | Professional Farmer 2014: Platinum Edition | 53478 | [53478-professional-farmer-2014-platinum-edition.json](./53478-professional-farmer-2014-platinum-edition.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017 | 19885 | [19885-professional-farmer-2017.json](./19885-professional-farmer-2017.json) |
