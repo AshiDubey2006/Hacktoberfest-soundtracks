@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin:D | 202143 | [202143-kin-d.json](./202143-kin-d.json) |
 | Kin:d Barabin's Expedition | 372698 | [372698-kin-d-barabins-expedition.json](./372698-kin-d-barabins-expedition.json) |
 | Kin'iro Loveriche | 136754 | [136754-kiniro-loveriche.json](./136754-kiniro-loveriche.json) |
+| Kin'iro Loveriche: Golden Box Limited Edition | 167023 | [167023-kiniro-loveriche-golden-box-limited-edition.json](./167023-kiniro-loveriche-golden-box-limited-edition.json) |
 | Kin'iro Loveriche: Golden Time | 141187 | [141187-kiniro-loveriche-golden-time.json](./141187-kiniro-loveriche-golden-time.json) |
 | Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kin's Chronicle | 149981 | [149981-kins-chronicle.json](./149981-kins-chronicle.json) |
@@ -2561,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts II Final Mix: Free Flow Virtuoso Improvements Implementation | 419929 | [419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json](./419929-kingdom-hearts-ii-final-mix-free-flow-virtuoso-improvements-implementation.json) |
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
+| Kingdom Hearts III Integrum Masterpiece: e-Store Limited Edition | 167000 | [167000-kingdom-hearts-iii-integrum-masterpiece-e-store-limited-edition.json](./167000-kingdom-hearts-iii-integrum-masterpiece-e-store-limited-edition.json) |
 | Kingdom Hearts III Light vs. Darkness Edition | 403641 | [403641-kingdom-hearts-iii-light-vs-darkness-edition.json](./403641-kingdom-hearts-iii-light-vs-darkness-edition.json) |
 | Kingdom Hearts III: Deluxe Edition | 136130 | [136130-kingdom-hearts-iii-deluxe-edition.json](./136130-kingdom-hearts-iii-deluxe-edition.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
