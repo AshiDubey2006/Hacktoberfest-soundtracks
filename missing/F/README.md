@@ -5433,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Leon’s 3 | 362602 | [362602-five-nights-at-leon-s-3.json](./362602-five-nights-at-leon-s-3.json) |
 | Five Nights at Leon’s 4 | 362595 | [362595-five-nights-at-leon-s-4.json](./362595-five-nights-at-leon-s-4.json) |
 | Five Nights at Leon's: Remastered | 362594 | [362594-five-nights-at-leons-remastered.json](./362594-five-nights-at-leons-remastered.json) |
+| Five Nights at Macho's | 165473 | [165473-five-nights-at-machos.json](./165473-five-nights-at-machos.json) |
 | Five Nights At Maggies | 301498 | [301498-five-nights-at-maggies.json](./301498-five-nights-at-maggies.json) |
 | Five Nights At Monkeys | 374968 | [374968-five-nights-at-monkeys.json](./374968-five-nights-at-monkeys.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
@@ -9029,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frenzy Plants | 122187 | [122187-frenzy-plants.json](./122187-frenzy-plants.json) |
 | Frenzy Retribution | 122306 | [122306-frenzy-retribution.json](./122306-frenzy-retribution.json) |
 | Frenzy Train: Undead Vengeance | 100831 | [100831-frenzy-train-undead-vengeance.json](./100831-frenzy-train-undead-vengeance.json) |
+| Frenzy VR | 165453 | [165453-frenzy-vr.json](./165453-frenzy-vr.json) |
 | Frenzy! | 135647 | [135647-frenzy.json](./135647-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
