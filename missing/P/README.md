@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | Petrolhead Paradise | 252561 | [252561-petrolhead-paradise.json](./252561-petrolhead-paradise.json) |
+| PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
@@ -7819,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
 | Pochi and Nyaa | 252128 | [252128-pochi-and-nyaa.json](./252128-pochi-and-nyaa.json) |
 | Pochi and Nyaa | 40188 | [40188-pochi-and-nyaa.json](./40188-pochi-and-nyaa.json) |
+| Pocke-Kano: Fumio Ueno | 166554 | [166554-pocke-kano-fumio-ueno.json](./166554-pocke-kano-fumio-ueno.json) |
 | Pocke-Kano: Shizuka Houjouin | 166553 | [166553-pocke-kano-shizuka-houjouin.json](./166553-pocke-kano-shizuka-houjouin.json) |
 | Pocke-Kano: Yumi Aida | 166552 | [166552-pocke-kano-yumi-aida.json](./166552-pocke-kano-yumi-aida.json) |
 | PockeDate! | 323228 | [323228-pockedate.json](./323228-pockedate.json) |
