@@ -11492,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon View | 42635 | [42635-dragon-view.json](./42635-dragon-view.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon Village Collection | 266259 | [266259-dragon-village-collection.json](./266259-dragon-village-collection.json) |
+| Dragon Village NEW | 169126 | [169126-dragon-village-new.json](./169126-dragon-village-new.json) |
 | Dragon Village X | 193844 | [193844-dragon-village-x.json](./193844-dragon-village-x.json) |
 | Dragon Vita | 243071 | [243071-dragon-vita.json](./243071-dragon-vita.json) |
 | Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
