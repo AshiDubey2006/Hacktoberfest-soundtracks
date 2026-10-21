@@ -11693,6 +11693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Five Elements Survival | 344891 | [344891-monkey-king-five-elements-survival.json](./344891-monkey-king-five-elements-survival.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
+| Monkey King: Hero Is Back - Uproar In Heaven | 170743 | [170743-monkey-king-hero-is-back-uproar-in-heaven.json](./170743-monkey-king-hero-is-back-uproar-in-heaven.json) |
 | Monkey King: Master of the Clouds | 103248 | [103248-monkey-king-master-of-the-clouds.json](./103248-monkey-king-master-of-the-clouds.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Kong | 94343 | [94343-monkey-kong.json](./94343-monkey-kong.json) |
