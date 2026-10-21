@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 3: Champions Edition | 89837 | [89837-ea-sports-ufc-3-champions-edition.json](./89837-ea-sports-ufc-3-champions-edition.json) |
 | EA Sports UFC 3: Deluxe Edition | 118728 | [118728-ea-sports-ufc-3-deluxe-edition.json](./118728-ea-sports-ufc-3-deluxe-edition.json) |
+| EA Sports UFC 4: Deluxe Edition | 164841 | [164841-ea-sports-ufc-4-deluxe-edition.json](./164841-ea-sports-ufc-4-deluxe-edition.json) |
 | EA Sports UFC 5 | 255901 | [255901-ea-sports-ufc-5.json](./255901-ea-sports-ufc-5.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | EA Sports UFC 5: Ultimate Edition | 308591 | [308591-ea-sports-ufc-5-ultimate-edition.json](./308591-ea-sports-ufc-5-ultimate-edition.json) |
@@ -2945,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic 2 | 314438 | [314438-endoparasitic-2.json](./314438-endoparasitic-2.json) |
 | Endoparasitic Jam Version | 374237 | [374237-endoparasitic-jam-version.json](./374237-endoparasitic-jam-version.json) |
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
+| Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
