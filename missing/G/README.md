@@ -3783,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Glix | 264547 | [264547-glix.json](./264547-glix.json) |
 | Glixel | 260533 | [260533-glixel.json](./260533-glixel.json) |
+| Glizzy Gobbler | 167557 | [167557-glizzy-gobbler.json](./167557-glizzy-gobbler.json) |
 | GlizzySouls | 395261 | [395261-glizzysouls.json](./395261-glizzysouls.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
