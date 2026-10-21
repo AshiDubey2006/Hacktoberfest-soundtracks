@@ -9873,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Wind Waker HD Bundle Limited Edition | 45133 | [45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json](./45133-the-legend-of-zelda-the-wind-waker-hd-bundle-limited-edition.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
+| The Legend of Zelda: The Wind Waker Randomizer | 166474 | [166474-the-legend-of-zelda-the-wind-waker-randomizer.json](./166474-the-legend-of-zelda-the-wind-waker-randomizer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
 | The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
 | The Legend of Zelda: Time Lost | 314132 | [314132-the-legend-of-zelda-time-lost.json](./314132-the-legend-of-zelda-time-lost.json) |
@@ -24431,6 +24432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
+| True Tears | 166455 | [166455-true-tears.json](./166455-true-tears.json) |
 | True Thief | 340278 | [340278-true-thief.json](./340278-true-thief.json) |
 | True Three Kingdoms | 331157 | [331157-true-three-kingdoms.json](./331157-true-three-kingdoms.json) |
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
@@ -24664,6 +24666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumohime | 81725 | [81725-tsukumohime.json](./81725-tsukumohime.json) |
+| Tsukumono Yume | 166470 | [166470-tsukumono-yume.json](./166470-tsukumono-yume.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
 | Tsukutte Utau: Saru Band | 230300 | [230300-tsukutte-utau-saru-band.json](./230300-tsukutte-utau-saru-band.json) |
