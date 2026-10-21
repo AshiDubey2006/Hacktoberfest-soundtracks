@@ -2124,6 +2124,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain | 105269 | [105269-gene-rain.json](./105269-gene-rain.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
+| Gene Rain: Wind Tower - Sky City's Rebirth | 170738 | [170738-gene-rain-wind-tower-sky-citys-rebirth.json](./170738-gene-rain-wind-tower-sky-citys-rebirth.json) |
+| Gene Rain: Wind Tower - Way to Heaven | 170739 | [170739-gene-rain-wind-tower-way-to-heaven.json](./170739-gene-rain-wind-tower-way-to-heaven.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
