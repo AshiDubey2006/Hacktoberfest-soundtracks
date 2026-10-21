@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
+| Glass | 166487 | [166487-glass.json](./166487-glass.json) |
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloamroot | 399850 | [399850-gloamroot.json](./399850-gloamroot.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
+| Glob Dash | 166481 | [166481-glob-dash.json](./166481-glob-dash.json) |
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
 | Global Adventures | 43119 | [43119-global-adventures.json](./43119-global-adventures.json) |
 | Global Arcade Classics | 93502 | [93502-global-arcade-classics.json](./93502-global-arcade-classics.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
+| Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
@@ -4445,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
 | Gocco of War | 14677 | [14677-gocco-of-war.json](./14677-gocco-of-war.json) |
+| Gochachiru | 166562 | [166562-gochachiru.json](./166562-gochachiru.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | Gochi-Show! for Girls | 31731 | [31731-gochi-show-for-girls.json](./31731-gochi-show-for-girls.json) |
 | God as a Fat Woman Sitting in the Bath | 206580 | [206580-god-as-a-fat-woman-sitting-in-the-bath.json](./206580-god-as-a-fat-woman-sitting-in-the-bath.json) |
@@ -7099,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
+| Grim Tranquility | 166477 | [166477-grim-tranquility.json](./166477-grim-tranquility.json) |
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
 | Grim Wanderings II | 170787 | [170787-grim-wanderings-ii.json](./170787-grim-wanderings-ii.json) |
 | Grim-chan's Soul Fight | 349177 | [349177-grim-chans-soul-fight.json](./349177-grim-chans-soul-fight.json) |
