@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyFish Girls | 368764 | [368764-jellyfish-girls.json](./368764-jellyfish-girls.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
 | Jellyfish the Ghost | 108387 | [108387-jellyfish-the-ghost.json](./108387-jellyfish-the-ghost.json) |
+| Jellyfish: The Healing Friend | 171854 | [171854-jellyfish-the-healing-friend.json](./171854-jellyfish-the-healing-friend.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
 | Jewel Match Solitaire X | 397877 | [397877-jewel-match-solitaire-x.json](./397877-jewel-match-solitaire-x.json) |
 | Jewel Match Solitaire X: Collector's Edition | 201697 | [201697-jewel-match-solitaire-x-collectors-edition.json](./201697-jewel-match-solitaire-x-collectors-edition.json) |
+| Jewel Match Solitaire: Collector's Edition | 170213 | [170213-jewel-match-solitaire-collectors-edition.json](./170213-jewel-match-solitaire-collectors-edition.json) |
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
 | Jewel Match Twilight | 223346 | [223346-jewel-match-twilight.json](./223346-jewel-match-twilight.json) |
 | Jewel Match Twilight 2 | 225217 | [225217-jewel-match-twilight-2.json](./225217-jewel-match-twilight-2.json) |
