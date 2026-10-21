@@ -6530,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity Well | 142317 | [142317-gravity-well.json](./142317-gravity-well.json) |
+| Gravity Well | 169655 | [169655-gravity-well.json](./169655-gravity-well.json) |
 | Gravity Well | 91588 | [91588-gravity-well.json](./91588-gravity-well.json) |
 | Gravity Zero Racing | 123319 | [123319-gravity-zero-racing.json](./123319-gravity-zero-racing.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
+| Gun Master | 169652 | [169652-gun-master.json](./169652-gun-master.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
