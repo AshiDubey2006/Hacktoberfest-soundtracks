@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Man: Village | 90817 | [90817-eternal-man-village.json](./90817-eternal-man-village.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Maze | 65836 | [65836-eternal-maze.json](./65836-eternal-maze.json) |
+| Eternal Melody | 166555 | [166555-eternal-melody.json](./166555-eternal-melody.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity | 407870 | [407870-eternity.json](./407870-eternity.json) |
 | Eternity Breaker | 376662 | [376662-eternity-breaker.json](./376662-eternity-breaker.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
+| Eternity Egg | 166475 | [166475-eternity-egg.json](./166475-eternity-egg.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
