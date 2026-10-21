@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
+| Daedaluz | 165938 | [165938-daedaluz.json](./165938-daedaluz.json) |
 | Daegeonmulju: Geonmulju Kiugi | 239012 | [239012-daegeonmulju-geonmulju-kiugi.json](./239012-daegeonmulju-geonmulju-kiugi.json) |
 | Daemmerlicht | 123987 | [123987-daemmerlicht.json](./123987-daemmerlicht.json) |
 | Daemon | 360053 | [360053-daemon.json](./360053-daemon.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
+| Dead Space 3: Enervator | 165944 | [165944-dead-space-3-enervator.json](./165944-dead-space-3-enervator.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space Collection | 371743 | [371743-dead-space-collection.json](./371743-dead-space-collection.json) |
 | Dead Space Demake | 245167 | [245167-dead-space-demake.json](./245167-dead-space-demake.json) |
@@ -4343,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
 | Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
+| Defensia | 165935 | [165935-defensia.json](./165935-defensia.json) |
 | Defensive | 287499 | [287499-defensive.json](./287499-defensive.json) |
 | Defensive Attacks | 150548 | [150548-defensive-attacks.json](./150548-defensive-attacks.json) |
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
@@ -6253,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
 | Dfuse | 314423 | [314423-dfuse.json](./314423-dfuse.json) |
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
+| DGU: Death God University - Finals Week | 165962 | [165962-dgu-death-god-university-finals-week.json](./165962-dgu-death-god-university-finals-week.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | DGU: Death God University - Sinister Semester | 171337 | [171337-dgu-death-god-university-sinister-semester.json](./171337-dgu-death-god-university-sinister-semester.json) |
 | Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
@@ -13583,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Abyss | 253275 | [253275-dungeon-abyss.json](./253275-dungeon-abyss.json) |
 | Dungeon Adventure | 100677 | [100677-dungeon-adventure.json](./100677-dungeon-adventure.json) |
+| Dungeon Adventure | 165934 | [165934-dungeon-adventure.json](./165934-dungeon-adventure.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
