@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
+| On Scene: The Horror Stories of Fred & Karen | 164321 | [164321-on-scene-the-horror-stories-of-fred-and-karen.json](./164321-on-scene-the-horror-stories-of-fred-and-karen.json) |
 | On Streaming | 415261 | [415261-on-streaming.json](./415261-on-streaming.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
 | Orb Fort | 215865 | [215865-orb-fort.json](./215865-orb-fort.json) |
+| Orb Heroes | 164295 | [164295-orb-heroes.json](./164295-orb-heroes.json) |
 | Orb Hunter | 274327 | [274327-orb-hunter.json](./274327-orb-hunter.json) |
 | Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
