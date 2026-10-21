@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
 | Ailing Space | 176201 | [176201-ailing-space.json](./176201-ailing-space.json) |
 | Ailment | 120310 | [120310-ailment.json](./120310-ailment.json) |
+| Ailment & Endurance Bundle | 164838 | [164838-ailment-and-endurance-bundle.json](./164838-ailment-and-endurance-bundle.json) |
 | Ailment: Endurance | 120311 | [120311-ailment-endurance.json](./120311-ailment-endurance.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
@@ -8116,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day? | 409695 | [409695-another-day.json](./409695-another-day.json) |
 | Another Dimension | 231427 | [231427-another-dimension.json](./231427-another-dimension.json) |
 | Another Door | 284403 | [284403-another-door.json](./284403-another-door.json) |
+| Another Dungeon | 164761 | [164761-another-dungeon.json](./164761-another-dungeon.json) |
 | Another Dungeon | 245210 | [245210-another-dungeon.json](./245210-another-dungeon.json) |
 | Another Dungeon Game | 217274 | [217274-another-dungeon-game.json](./217274-another-dungeon-game.json) |
 | Another Earth | 276852 | [276852-another-earth.json](./276852-another-earth.json) |
@@ -9348,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
+| Arcade Archives: Kuri Kinton | 164766 | [164766-arcade-archives-kuri-kinton.json](./164766-arcade-archives-kuri-kinton.json) |
 | Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
 | Arcade Archives: Lead Angle | 315929 | [315929-arcade-archives-lead-angle.json](./315929-arcade-archives-lead-angle.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
@@ -11478,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin Run 2D | 164755 | [164755-assassin-run-2d.json](./164755-assassin-run-2d.json) |
 | Assassin Story | 345076 | [345076-assassin-story.json](./345076-assassin-story.json) |
 | Assassin vs. Mummies: Match 3 | 101047 | [101047-assassin-vs-mummies-match-3.json](./101047-assassin-vs-mummies-match-3.json) |
 | Assassin War Sniper Shooting | 274452 | [274452-assassin-war-sniper-shooting.json](./274452-assassin-war-sniper-shooting.json) |
@@ -11567,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
+| Assassin's Creed Valhalla: Deluxe Edition | 164835 | [164835-assassins-creed-valhalla-deluxe-edition.json](./164835-assassins-creed-valhalla-deluxe-edition.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
@@ -11699,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
+| Assetto Corsa Competizione: Intercontinental GT Pack | 164853 | [164853-assetto-corsa-competizione-intercontinental-gt-pack.json](./164853-assetto-corsa-competizione-intercontinental-gt-pack.json) |
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
 | Assetto Corsa Evoluzione | 400702 | [400702-assetto-corsa-evoluzione.json](./400702-assetto-corsa-evoluzione.json) |
 | Assetto Corsa Mobile | 174267 | [174267-assetto-corsa-mobile.json](./174267-assetto-corsa-mobile.json) |
