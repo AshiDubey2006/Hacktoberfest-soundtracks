@@ -5649,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bear: Salmon Hunter | 102074 | [102074-big-bear-salmon-hunter.json](./102074-big-bear-salmon-hunter.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
+| Big Beautiful Cthulhu | 166473 | [166473-big-beautiful-cthulhu.json](./166473-big-beautiful-cthulhu.json) |
 | Big Beautiful Van Derby Racing | 366095 | [366095-big-beautiful-van-derby-racing.json](./366095-big-beautiful-van-derby-racing.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Ben | 13814 | [13814-big-ben.json](./13814-big-ben.json) |
@@ -7441,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
+| Blasphemer | 166491 | [166491-blasphemer.json](./166491-blasphemer.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Complete Sacrament Edition | 402946 | [402946-blasphemous-2-complete-sacrament-edition.json](./402946-blasphemous-2-complete-sacrament-edition.json) |
 | Blasphemous 2: Limited Collector's Edition | 281293 | [281293-blasphemous-2-limited-collectors-edition.json](./281293-blasphemous-2-limited-collectors-edition.json) |
@@ -10437,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
+| Botworld Adventure | 166452 | [166452-botworld-adventure.json](./166452-botworld-adventure.json) |
 | Botworld Odyssey | 315339 | [315339-botworld-odyssey.json](./315339-botworld-odyssey.json) |
 | Botzin!!! | 185925 | [185925-botzin.json](./185925-botzin.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
@@ -10966,6 +10969,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
 | BoyKisser Clicker | 310600 | [310600-boykisser-clicker.json](./310600-boykisser-clicker.json) |
 | Boykisser Mayhem | 268332 | [268332-boykisser-mayhem.json](./268332-boykisser-mayhem.json) |
+| Boys Be | 166447 | [166447-boys-be.json](./166447-boys-be.json) |
+| Boys Be 2nd Season | 166448 | [166448-boys-be-2nd-season.json](./166448-boys-be-2nd-season.json) |
 | Boys Race | 315811 | [315811-boys-race.json](./315811-boys-race.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
