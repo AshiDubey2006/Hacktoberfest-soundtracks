@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume 4 | 269185 | [269185-yume-4.json](./269185-yume-4.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
+| Yume Aruki | 166464 | [166464-yume-aruki.json](./166464-yume-aruki.json) |
 | Yume Cyber | 286130 | [286130-yume-cyber.json](./286130-yume-cyber.json) |
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
 | Yume Dreamer | 201778 | [201778-yume-dreamer.json](./201778-yume-dreamer.json) |
@@ -1467,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
 | Yume ka Utsutsu ka Matryoshka | 399060 | [399060-yume-ka-utsutsu-ka-matryoshka.json](./399060-yume-ka-utsutsu-ka-matryoshka.json) |
 | Yume Kakigori | 319019 | [319019-yume-kakigori.json](./319019-yume-kakigori.json) |
+| Yume Kayoi | 166471 | [166471-yume-kayoi.json](./166471-yume-kayoi.json) |
 | Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Tagai | 166580 | [166580-yume-tagai.json](./166580-yume-tagai.json) |
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
+| Yume wa Maeyono | 166469 | [166469-yume-wa-maeyono.json](./166469-yume-wa-maeyono.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
 | Yume wo Kanaeru Zou | 64198 | [64198-yume-wo-kanaeru-zou.json](./64198-yume-wo-kanaeru-zou.json) |
 | Yume wo Mita | 210533 | [210533-yume-wo-mita.json](./210533-yume-wo-mita.json) |
