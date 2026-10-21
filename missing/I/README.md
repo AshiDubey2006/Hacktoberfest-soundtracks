@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Won't Slay Dragons for You | 206581 | [206581-i-wont-slay-dragons-for-you.json](./206581-i-wont-slay-dragons-for-you.json) |
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
+| I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-Dolls | 360764 | [360764-i-dolls.json](./360764-i-dolls.json) |
