@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mission | 40083 | [40083-last-mission.json](./40083-last-mission.json) |
 | Last Monday | 402867 | [402867-last-monday.json](./402867-last-monday.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
+| Last Moon | 166480 | [166480-last-moon.json](./166480-last-moon.json) |
 | Last Moor | 278287 | [278287-last-moor.json](./278287-last-moor.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
