@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid-Sama Cafe: Anime Girls Services in Cute Outfits | 396913 | [396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json](./396913-maid-sama-cafe-anime-girls-services-in-cute-outfits.json) |
 | Maid-san Crisis: The Elegant Region Power | 210562 | [210562-maid-san-crisis-the-elegant-region-power.json](./210562-maid-san-crisis-the-elegant-region-power.json) |
 | Maid-san no Iru Kurashi | 136738 | [136738-maid-san-no-iru-kurashi.json](./136738-maid-san-no-iru-kurashi.json) |
+| Maid-san no Iru Kurashi: Premium Edition | 167026 | [167026-maid-san-no-iru-kurashi-premium-edition.json](./167026-maid-san-no-iru-kurashi-premium-edition.json) |
 | Maid-san Slayer: The Soul Of Elegant Skill | 210584 | [210584-maid-san-slayer-the-soul-of-elegant-skill.json](./210584-maid-san-slayer-the-soul-of-elegant-skill.json) |
 | Maid-san wo Migi ni Mi | 111051 | [111051-maid-san-wo-migi-ni-mi.json](./111051-maid-san-wo-migi-ni-mi.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
 | Maitetsu: Pure Station | 126483 | [126483-maitetsu-pure-station.json](./126483-maitetsu-pure-station.json) |
+| Maitetsu: Pure Station - Special Luxury Version with Hachiroku Cover Limited Edition | 167008 | [167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json](./167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maitre des Fleurs | 146063 | [146063-maitre-des-fleurs.json](./146063-maitre-des-fleurs.json) |
@@ -10905,6 +10907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
 | MLB The Show 17 | 25310 | [25310-mlb-the-show-17.json](./25310-mlb-the-show-17.json) |
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
+| MLB The Show 18: MVP Edition | 166987 | [166987-mlb-the-show-18-mvp-edition.json](./166987-mlb-the-show-18-mvp-edition.json) |
 | MLB The Show 19 | 111654 | [111654-mlb-the-show-19.json](./111654-mlb-the-show-19.json) |
 | MLB The Show 19: Digital Deluxe Edition | 118691 | [118691-mlb-the-show-19-digital-deluxe-edition.json](./118691-mlb-the-show-19-digital-deluxe-edition.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
@@ -12598,6 +12601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon and Fang | 390752 | [390752-moon-and-fang.json](./390752-moon-and-fang.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
+| Moon Base | 167032 | [167032-moon-base.json](./167032-moon-base.json) |
 | Moon Bingo | 306031 | [306031-moon-bingo.json](./306031-moon-bingo.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Break | 358892 | [358892-moon-break.json](./358892-moon-break.json) |
