@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Gold Edition | 53019 | [53019-far-cry-4-gold-edition.json](./53019-far-cry-4-gold-edition.json) |
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
+| Far Cry 4: Overrun | 168585 | [168585-far-cry-4-overrun.json](./168585-far-cry-4-overrun.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
@@ -10206,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
+| Funanigans: Party Games | 168579 | [168579-funanigans-party-games.json](./168579-funanigans-party-games.json) |
 | Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
