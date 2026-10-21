@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interquel | 369370 | [369370-interquel.json](./369370-interquel.json) |
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
 | Interregnum Chronicles: Signal | 153753 | [153753-interregnum-chronicles-signal.json](./153753-interregnum-chronicles-signal.json) |
+| Interregnum: Dark Archer | 170769 | [170769-interregnum-dark-archer.json](./170769-interregnum-dark-archer.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
 | Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
