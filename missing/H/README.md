@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
+| Heartbeat: Regret | 164222 | [164222-heartbeat-regret.json](./164222-heartbeat-regret.json) |
 | Heartbeats | 211814 | [211814-heartbeats.json](./211814-heartbeats.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
 | Heartbeats: A Galactic Requiem | 60473 | [60473-heartbeats-a-galactic-requiem.json](./60473-heartbeats-a-galactic-requiem.json) |
@@ -6354,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Back | 342406 | [342406-hit-back.json](./342406-hit-back.json) |
+| Hit Confirmed | 164318 | [164318-hit-confirmed.json](./164318-hit-confirmed.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit Idol | 343213 | [343213-hit-idol.json](./343213-hit-idol.json) |
