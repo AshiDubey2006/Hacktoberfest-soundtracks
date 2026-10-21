@@ -4648,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
+| No!Ah!'s Ark | 163795 | [163795-no-ah-s-ark.json](./163795-no-ah-s-ark.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No.8 High School | 333506 | [333506-no-8-high-school.json](./333506-no-8-high-school.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
 | Nym: Path of the Skycaster | 164224 | [164224-nym-path-of-the-skycaster.json](./164224-nym-path-of-the-skycaster.json) |
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
+| Nympho Wife | 163789 | [163789-nympho-wife.json](./163789-nympho-wife.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
 | Nymphomania Priestess | 346164 | [346164-nymphomania-priestess.json](./346164-nymphomania-priestess.json) |
