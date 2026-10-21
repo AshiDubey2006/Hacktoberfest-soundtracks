@@ -10261,8 +10261,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
+| Power & Revolution 2020 Edition: 2016 Scenarios | 168106 | [168106-power-and-revolution-2020-edition-2016-scenarios.json](./168106-power-and-revolution-2020-edition-2016-scenarios.json) |
+| Power & Revolution 2020 Edition: 2017 Scenarios | 168100 | [168100-power-and-revolution-2020-edition-2017-scenarios.json](./168100-power-and-revolution-2020-edition-2017-scenarios.json) |
+| Power & Revolution 2020 Edition: 2018 Scenarios | 168102 | [168102-power-and-revolution-2020-edition-2018-scenarios.json](./168102-power-and-revolution-2020-edition-2018-scenarios.json) |
 | Power & Revolution 2020 Edition: 2019 Scenarios | 168109 | [168109-power-and-revolution-2020-edition-2019-scenarios.json](./168109-power-and-revolution-2020-edition-2019-scenarios.json) |
 | Power & Revolution: 2019 Edition | 116207 | [116207-power-and-revolution-2019-edition.json](./116207-power-and-revolution-2019-edition.json) |
+| Power & Revolution: 2019 Edition - 2017 Scenarios | 168105 | [168105-power-and-revolution-2019-edition-2017-scenarios.json](./168105-power-and-revolution-2019-edition-2017-scenarios.json) |
+| Power & Revolution: 2019 Edition - 2018 Scenarios | 168103 | [168103-power-and-revolution-2019-edition-2018-scenarios.json](./168103-power-and-revolution-2019-edition-2018-scenarios.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power & Revolution: 2022 Edition | 196473 | [196473-power-and-revolution-2022-edition.json](./196473-power-and-revolution-2022-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
@@ -10841,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
+| Pretty Girls Mahjong Solitaire: Green | 168067 | [168067-pretty-girls-mahjong-solitaire-green.json](./168067-pretty-girls-mahjong-solitaire-green.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty Girls Panic! Plus | 169680 | [169680-pretty-girls-panic-plus.json](./169680-pretty-girls-panic-plus.json) |
 | Pretty Girls Pop Match | 322414 | [322414-pretty-girls-pop-match.json](./322414-pretty-girls-pop-match.json) |
