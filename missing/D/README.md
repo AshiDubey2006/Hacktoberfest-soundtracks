@@ -10878,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Castle | 163776 | [163776-draculas-castle.json](./163776-draculas-castle.json) |
 | Dracula's Castle | 170341 | [170341-draculas-castle.json](./170341-draculas-castle.json) |
 | Dracula's Castle | 184752 | [184752-draculas-castle.json](./184752-draculas-castle.json) |
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
@@ -13995,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
+| Dungeon's Hell | 163699 | [163699-dungeons-hell.json](./163699-dungeons-hell.json) |
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
