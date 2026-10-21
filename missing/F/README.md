@@ -5844,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleafall Champion | 92595 | [92595-fleafall-champion.json](./92595-fleafall-champion.json) |
 | Fleapit | 307781 | [307781-fleapit.json](./307781-fleapit.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
+| Fled fierce city | 163775 | [163775-fled-fierce-city.json](./163775-fled-fierce-city.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
 | Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
 | Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
+| Floor 13: Deep State | 163791 | [163791-floor-13-deep-state.json](./163791-floor-13-deep-state.json) |
 | Floor 9 | 316478 | [316478-floor-9.json](./316478-floor-9.json) |
 | Floor Chess | 244747 | [244747-floor-chess.json](./244747-floor-chess.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
