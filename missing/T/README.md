@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamup | 340794 | [340794-teamup.json](./340794-teamup.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
+| Tear and the Library of Labyrinths | 169618 | [169618-tear-and-the-library-of-labyrinths.json](./169618-tear-and-the-library-of-labyrinths.json) |
 | Tear of Time: Lost Memory | 192783 | [192783-tear-of-time-lost-memory.json](./192783-tear-of-time-lost-memory.json) |
 | Tear of Titans | 199319 | [199319-tear-of-titans.json](./199319-tear-of-titans.json) |
 | Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
@@ -8841,6 +8842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kabuki Phantom | 298973 | [298973-the-kabuki-phantom.json](./298973-the-kabuki-phantom.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
+| The Kalalau Trail | 169643 | [169643-the-kalalau-trail.json](./169643-the-kalalau-trail.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
 | The Kantist | 314092 | [314092-the-kantist.json](./314092-the-kantist.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
@@ -11290,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
+| The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
@@ -17419,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Taka World Soccer | 58217 | [58217-tiki-taka-world-soccer.json](./58217-tiki-taka-world-soccer.json) |
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
+| Tiki Tiki: The Tropical Memory Game | 169617 | [169617-tiki-tiki-the-tropical-memory-game.json](./169617-tiki-tiki-the-tropical-memory-game.json) |
 | Tiki Totems | 251507 | [251507-tiki-totems.json](./251507-tiki-totems.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tiki Towers 2: Monkey Republic | 65294 | [65294-tiki-towers-2-monkey-republic.json](./65294-tiki-towers-2-monkey-republic.json) |
@@ -25532,6 +25536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Bit Hero | 157498 | [157498-two-bit-hero.json](./157498-two-bit-hero.json) |
 | Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
+| Two by One | 169627 | [169627-two-by-one.json](./169627-two-by-one.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
 | Two Climbers | 266982 | [266982-two-climbers.json](./266982-two-climbers.json) |
 | Two Clusters Cold Haven | 189978 | [189978-two-clusters-cold-haven.json](./189978-two-clusters-cold-haven.json) |
