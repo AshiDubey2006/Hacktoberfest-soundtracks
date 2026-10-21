@@ -150,7 +150,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Mode | 329977 | [329977-x-mode.json](./329977-x-mode.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Morph: Defense | 27663 | [27663-x-morph-defense.json](./27663-x-morph-defense.json) |
+| X-Morph: Defense - European Assault | 170773 | [170773-x-morph-defense-european-assault.json](./170773-x-morph-defense-european-assault.json) |
+| X-Morph: Defense - Last Bastion | 170774 | [170774-x-morph-defense-last-bastion.json](./170774-x-morph-defense-last-bastion.json) |
 | X-Morph: Defense - Limited Edition | 166262 | [166262-x-morph-defense-limited-edition.json](./166262-x-morph-defense-limited-edition.json) |
+| X-Morph: Defense - Survival of the Fittest | 170775 | [170775-x-morph-defense-survival-of-the-fittest.json](./170775-x-morph-defense-survival-of-the-fittest.json) |
 | X-Moto | 122757 | [122757-x-moto.json](./122757-x-moto.json) |
 | X-Motor Racing | 50110 | [50110-x-motor-racing.json](./50110-x-motor-racing.json) |
 | X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
