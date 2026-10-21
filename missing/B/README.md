@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
 | Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
+| Bikini Alert | 163769 | [163769-bikini-alert.json](./163769-bikini-alert.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Anime Girls Assault | 301510 | [301510-bikini-beach-anime-girls-assault.json](./301510-bikini-beach-anime-girls-assault.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
@@ -11899,6 +11900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricky to Me | 181011 | [181011-bricky-to-me.json](./181011-bricky-to-me.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
 | Brico Utile | 269676 | [269676-brico-utile.json](./269676-brico-utile.json) |
+| Bricole | 163773 | [163773-bricole.json](./163773-bricole.json) |
 | Briddle | 169615 | [169615-briddle.json](./169615-briddle.json) |
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
@@ -12272,6 +12274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | BRoS: Battle Royale of Survival | 240722 | [240722-bros-battle-royale-of-survival.json](./240722-bros-battle-royale-of-survival.json) |
+| Brotate | 163704 | [163704-brotate.json](./163704-brotate.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
