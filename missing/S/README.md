@@ -4268,11 +4268,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Blood Rugby Sevens | 122181 | [122181-sensible-blood-rugby-sevens.json](./122181-sensible-blood-rugby-sevens.json) |
 | Sensible Golf | 12762 | [12762-sensible-golf.json](./12762-sensible-golf.json) |
 | Sensible Massacre | 71425 | [71425-sensible-massacre.json](./71425-sensible-massacre.json) |
+| Sensible Soccer | 165461 | [165461-sensible-soccer.json](./165461-sensible-soccer.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
+| Sensible Soccer Skills | 165477 | [165477-sensible-soccer-skills.json](./165477-sensible-soccer-skills.json) |
+| Sensible Soccer Skillz | 165478 | [165478-sensible-soccer-skillz.json](./165478-sensible-soccer-skillz.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
+| Sensible World of Soccer | 165468 | [165468-sensible-world-of-soccer.json](./165468-sensible-world-of-soccer.json) |
+| Sensible World of Soccer '95/'96 | 165465 | [165465-sensible-world-of-soccer-95-96.json](./165465-sensible-world-of-soccer-95-96.json) |
+| Sensible World of Soccer '97/'98 | 165474 | [165474-sensible-world-of-soccer-97-98.json](./165474-sensible-world-of-soccer-97-98.json) |
+| Sensible World of Soccer '97/'98 World Cup Edition | 165475 | [165475-sensible-world-of-soccer-97-98-world-cup-edition.json](./165475-sensible-world-of-soccer-97-98-world-cup-edition.json) |
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensitive Data: THE Math Game | 39224 | [39224-sensitive-data-the-math-game.json](./39224-sensitive-data-the-math-game.json) |
@@ -6577,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Shift | 192745 | [192745-shinobi-shift.json](./192745-shinobi-shift.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
+| Shinobi Story | 165447 | [165447-shinobi-story.json](./165447-shinobi-story.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
 | Shinobi, Koi Utsutsu for Nintendo Switch | 253739 | [253739-shinobi-koi-utsutsu-for-nintendo-switch.json](./253739-shinobi-koi-utsutsu-for-nintendo-switch.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
@@ -15328,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
 | Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
+| Space Ship: The Game | 165378 | [165378-space-ship-the-game.json](./165378-space-ship-the-game.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shock 3 | 41931 | [41931-space-shock-3.json](./41931-space-shock-3.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
@@ -17151,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Collapse! | 67894 | [67894-spongebob-squarepants-collapse.json](./67894-spongebob-squarepants-collapse.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 280432 | [280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./280432-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants in Jellyfishin' | 242430 | [242430-spongebob-squarepants-in-jellyfishin.json](./242430-spongebob-squarepants-in-jellyfishin.json) |
+| SpongeBob SquarePants Obstacle Odyssey 2: Time Trouble | 165459 | [165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json](./165459-spongebob-squarepants-obstacle-odyssey-2-time-trouble.json) |
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
@@ -24758,6 +24768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
 | Super Metroid: Ancient Chozo | 182259 | [182259-super-metroid-ancient-chozo.json](./182259-super-metroid-ancient-chozo.json) |
+| Super Metroid: Ascent | 165374 | [165374-super-metroid-ascent.json](./165374-super-metroid-ascent.json) |
 | Super Metroid: Battle | 318017 | [318017-super-metroid-battle.json](./318017-super-metroid-battle.json) |
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
