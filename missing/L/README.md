@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Master | 251445 | [251445-lazy-master.json](./251445-lazy-master.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
+| Lazy Postman | 168608 | [168608-lazy-postman.json](./168608-lazy-postman.json) |
 | Lazy Raise the Earth | 118725 | [118725-lazy-raise-the-earth.json](./118725-lazy-raise-the-earth.json) |
 | Lazy Sonic | 331975 | [331975-lazy-sonic.json](./331975-lazy-sonic.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf It Alone | 376206 | [376206-leaf-it-alone.json](./376206-leaf-it-alone.json) |
+| Leaf Me Alone | 168597 | [168597-leaf-me-alone.json](./168597-leaf-me-alone.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on the Wind | 97216 | [97216-leaf-on-the-wind.json](./97216-leaf-on-the-wind.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
@@ -2676,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
+| Leons Identität | 168598 | [168598-leons-identitat.json](./168598-leons-identitat.json) |
 | Leopard Lord | 137348 | [137348-leopard-lord.json](./137348-leopard-lord.json) |
 | Leopoldo Manquiseil | 110789 | [110789-leopoldo-manquiseil.json](./110789-leopoldo-manquiseil.json) |
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
