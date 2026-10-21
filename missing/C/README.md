@@ -2643,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
+| Castle of Pixel Skulls DX | 164301 | [164301-castle-of-pixel-skulls-dx.json](./164301-castle-of-pixel-skulls-dx.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
 | Castle of Secrets | 188992 | [188992-castle-of-secrets.json](./188992-castle-of-secrets.json) |
