@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
+| Pack of Demons | 168588 | [168588-pack-of-demons.json](./168588-pack-of-demons.json) |
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
@@ -3345,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
+| Perfect Affection Plan: Cassiopeia | 168612 | [168612-perfect-affection-plan-cassiopeia.json](./168612-perfect-affection-plan-cassiopeia.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
@@ -4321,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Reborn Games Big Christmas bundle | 331484 | [331484-phoenix-reborn-games-big-christmas-bundle.json](./331484-phoenix-reborn-games-big-christmas-bundle.json) |
 | Phoenix Rising | 154796 | [154796-phoenix-rising.json](./154796-phoenix-rising.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
+| Phoenix Squadron | 168599 | [168599-phoenix-squadron.json](./168599-phoenix-squadron.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
 | Phoenix Wright Ace Attorney: What, When, Where They Saw the Murder | 224449 | [224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json](./224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json) |
@@ -9088,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police Heroes | 240666 | [240666-police-heroes.json](./240666-police-heroes.json) |
 | Police Hot Pursuit | 193239 | [193239-police-hot-pursuit.json](./193239-police-hot-pursuit.json) |
+| Police hot Tale | 168594 | [168594-police-hot-tale.json](./168594-police-hot-tale.json) |
 | Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
@@ -9143,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polimines | 195457 | [195457-polimines.json](./195457-polimines.json) |
 | Polimines 2 | 244653 | [244653-polimines-2.json](./244653-polimines-2.json) |
 | Polinizamor | 179037 | [179037-polinizamor.json](./179037-polinizamor.json) |
+| PoliPlanet | 168576 | [168576-poliplanet.json](./168576-poliplanet.json) |
 | Polis | 307097 | [307097-polis.json](./307097-polis.json) |
 | Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
