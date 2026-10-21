@@ -3944,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
+| Rento Fortune Monolit: Deep Board | 170741 | [170741-rento-fortune-monolit-deep-board.json](./170741-rento-fortune-monolit-deep-board.json) |
 | Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | RentoFortune | 187545 | [187545-rentofortune.json](./187545-rentofortune.json) |
@@ -7369,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman & Crystal | 366622 | [366622-rockman-and-crystal.json](./366622-rockman-and-crystal.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
+| Rockman 2: Dr. Wily no Nazo | 170742 | [170742-rockman-2-dr-wily-no-nazo.json](./170742-rockman-2-dr-wily-no-nazo.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Burst Chaser | 304132 | [304132-rockman-3-burst-chaser.json](./304132-rockman-3-burst-chaser.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
