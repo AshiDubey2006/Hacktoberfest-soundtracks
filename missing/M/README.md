@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl | 258429 | [258429-magical-girl.json](./258429-magical-girl.json) |
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
+| Magical Girl Creator | 163788 | [163788-magical-girl-creator.json](./163788-magical-girl-creator.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
 | Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Parkour | 156900 | [156900-marble-parkour.json](./156900-marble-parkour.json) |
 | Marble Parkour 2: Roll and Roll | 163186 | [163186-marble-parkour-2-roll-and-roll.json](./163186-marble-parkour-2-roll-and-roll.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
+| Marble Pop Paradise | 163706 | [163706-marble-pop-paradise.json](./163706-marble-pop-paradise.json) |
 | Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
 | Marble Puzzle Blast: Rescue Adventure | 195427 | [195427-marble-puzzle-blast-rescue-adventure.json](./195427-marble-puzzle-blast-rescue-adventure.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
@@ -13333,6 +13335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
+| Morto: Chapter 1 | 163700 | [163700-morto-chapter-1.json](./163700-morto-chapter-1.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
 | Mortol II | 318738 | [318738-mortol-ii.json](./318738-mortol-ii.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
