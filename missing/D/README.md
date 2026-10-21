@@ -4864,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Scrolls | 249716 | [249716-demon-scrolls.json](./249716-demon-scrolls.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Siege | 406905 | [406905-demon-siege.json](./406905-demon-siege.json) |
+| Demon Sighting | 168592 | [168592-demon-sighting.json](./168592-demon-sighting.json) |
 | Demon Skin | 145582 | [145582-demon-skin.json](./145582-demon-skin.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
@@ -4887,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro Kamado (Infinity Castle) Character Pack | 376258 | [376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json](./376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro, Zenitsu, and Inosuke - Character Pack | 237992 | [237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json](./237992-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-zenitsu-and-inosuke-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack | 376257 | [376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json](./376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json) |
+| Demon Source | 168586 | [168586-demon-source.json](./168586-demon-source.json) |
 | Demon Spore | 190422 | [190422-demon-spore.json](./190422-demon-spore.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Stick | 376051 | [376051-demon-stick.json](./376051-demon-stick.json) |
@@ -4896,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
 | Demon Sword: Incubus | 203955 | [203955-demon-sword-incubus.json](./203955-demon-sword-incubus.json) |
+| Demon Tamer | 168587 | [168587-demon-tamer.json](./168587-demon-tamer.json) |
 | Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
 | Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
@@ -6207,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dex | 16925 | [16925-dex.json](./16925-dex.json) |
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
+| Dex Survival | 168603 | [168603-dex-survival.json](./168603-dex-survival.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
@@ -14358,6 +14362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dverghold | 380832 | [380832-dverghold.json](./380832-dverghold.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
+| DW | 168616 | [168616-dw.json](./168616-dw.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf Boozter | 353619 | [353619-dwarf-boozter.json](./353619-dwarf-boozter.json) |
