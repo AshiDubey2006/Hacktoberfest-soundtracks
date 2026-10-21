@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
+| Nym: Path of the Skycaster | 164224 | [164224-nym-path-of-the-skycaster.json](./164224-nym-path-of-the-skycaster.json) |
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
