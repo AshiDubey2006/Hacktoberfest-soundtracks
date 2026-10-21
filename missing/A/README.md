@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure of a Lifetime | 97221 | [97221-adventure-of-a-lifetime.json](./97221-adventure-of-a-lifetime.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
+| Adventure of Bears | 169100 | [169100-adventure-of-bears.json](./169100-adventure-of-bears.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
@@ -10236,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argus | 363051 | [363051-argus.json](./363051-argus.json) |
 | Argus | 46762 | [46762-argus.json](./46762-argus.json) |
 | Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
+| Argus Panoptes | 169122 | [169122-argus-panoptes.json](./169122-argus-panoptes.json) |
 | Argy Bargy | 135755 | [135755-argy-bargy.json](./135755-argy-bargy.json) |
 | Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
