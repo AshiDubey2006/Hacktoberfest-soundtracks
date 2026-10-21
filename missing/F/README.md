@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mini Golf | 50744 | [50744-family-mini-golf.json](./50744-family-mini-golf.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
+| Family Mysteries Collection | 164754 | [164754-family-mysteries-collection.json](./164754-family-mysteries-collection.json) |
 | Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
 | Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
@@ -9741,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
+| Frostpunk: Complete Collection | 164768 | [164768-frostpunk-complete-collection.json](./164768-frostpunk-complete-collection.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: Game of the Year Edition | 169208 | [169208-frostpunk-game-of-the-year-edition.json](./169208-frostpunk-game-of-the-year-edition.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
@@ -10730,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Love Space Machine: Glimmer Deck | 368120 | [368120-future-love-space-machine-glimmer-deck.json](./368120-future-love-space-machine-glimmer-deck.json) |
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
+| Future Ninja | 164756 | [164756-future-ninja.json](./164756-future-ninja.json) |
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
