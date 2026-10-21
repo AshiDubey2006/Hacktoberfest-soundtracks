@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
+| Scramble | 168574 | [168574-scramble.json](./168574-scramble.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal Save: Royal Decree | 419124 | [419124-seal-save-royal-decree.json](./419124-seal-save-royal-decree.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | SEAL Team 12 | 17602 | [17602-seal-team-12.json](./17602-seal-team-12.json) |
+| Seal World | 168583 | [168583-seal-world.json](./168583-seal-world.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
 | Sealand Survivor | 336504 | [336504-sealand-survivor.json](./336504-sealand-survivor.json) |
@@ -4638,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Deadly Sins: Anime Girls Fantasy Love | 410405 | [410405-seven-deadly-sins-anime-girls-fantasy-love.json](./410405-seven-deadly-sins-anime-girls-fantasy-love.json) |
+| Seven Demons | 168590 | [168590-seven-demons.json](./168590-seven-demons.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
@@ -6302,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikisai Kankaku Test Art na Kyouyou Nou-tre Joushiki IQ Check | 254927 | [254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json](./254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
+| Shikokushi: Food and Sightseeing and Beauties | 168606 | [168606-shikokushi-food-and-sightseeing-and-beauties.json](./168606-shikokushi-food-and-sightseeing-and-beauties.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
 | Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
@@ -7209,7 +7213,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
+| Shots | 168595 | [168595-shots.json](./168595-shots.json) |
 | Shots Fired | 55221 | [55221-shots-fired.json](./55221-shots-fired.json) |
+| Shots Fired in the Dark Forest | 168593 | [168593-shots-fired-in-the-dark-forest.json](./168593-shots-fired-in-the-dark-forest.json) |
 | Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shòu'ěr Gōnglüè TFK Faculty | 119641 | [119641-shouer-gonglue-tfk-faculty.json](./119641-shouer-gonglue-tfk-faculty.json) |
 | Shougakusei Atarimae Test | 266161 | [266161-shougakusei-atarimae-test.json](./266161-shougakusei-atarimae-test.json) |
@@ -16387,6 +16393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | Spewer | 63228 | [63228-spewer.json](./63228-spewer.json) |
+| Speyarranoth | 168615 | [168615-speyarranoth.json](./168615-speyarranoth.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
@@ -22275,6 +22282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submersible Simulator: Discover the Titanic into Ocean | 271274 | [271274-submersible-simulator-discover-the-titanic-into-ocean.json](./271274-submersible-simulator-discover-the-titanic-into-ocean.json) |
 | Submind | 416091 | [416091-submind.json](./416091-submind.json) |
 | Submission | 353496 | [353496-submission.json](./353496-submission.json) |
+| Submorse | 168600 | [168600-submorse.json](./168600-submorse.json) |
 | Subnautic Adventures | 87875 | [87875-subnautic-adventures.json](./87875-subnautic-adventures.json) |
 | Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Subnautica 2 | 320140 | [320140-subnautica-2.json](./320140-subnautica-2.json) |
@@ -23231,6 +23239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
+| Sunrise Tragedy | 168614 | [168614-sunrise-tragedy.json](./168614-sunrise-tragedy.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise World War | 145271 | [145271-sunrise-world-war.json](./145271-sunrise-world-war.json) |
 | Sunrise: The Game | 187088 | [187088-sunrise-the-game.json](./187088-sunrise-the-game.json) |
