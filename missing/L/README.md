@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
 | Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
+| Lee-Lee's Quest 2 | 165370 | [165370-lee-lees-quest-2.json](./165370-lee-lees-quest-2.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
@@ -4121,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
+| Lineage W | 165362 | [165362-lineage-w.json](./165362-lineage-w.json) |
 | Lineage: The Blood Pledge | 78247 | [78247-lineage-the-blood-pledge.json](./78247-lineage-the-blood-pledge.json) |
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
 | Lineality | 286600 | [286600-lineality.json](./286600-lineality.json) |
