@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Cleaner | 301680 | [301680-aerial-cleaner.json](./301680-aerial-cleaner.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
+| Aerial Life: Premium Limited Edition | 166989 | [166989-aerial-life-premium-limited-edition.json](./166989-aerial-life-premium-limited-edition.json) |
 | Aerial Lockdown | 337421 | [337421-aerial-lockdown.json](./337421-aerial-lockdown.json) |
 | Aerial Mini | 339695 | [339695-aerial-mini.json](./339695-aerial-mini.json) |
 | Aerial Nature Jigsaw Puzzles | 267854 | [267854-aerial-nature-jigsaw-puzzles.json](./267854-aerial-nature-jigsaw-puzzles.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi After Days | 127935 | [127935-aikagi-after-days.json](./127935-aikagi-after-days.json) |
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
+| Aikano: Yukizora no Triangle - Premium Limited Edition | 166992 | [166992-aikano-yukizora-no-triangle-premium-limited-edition.json](./166992-aikano-yukizora-no-triangle-premium-limited-edition.json) |
 | Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
@@ -4718,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alessia's Dollhouse | 308044 | [308044-alessias-dollhouse.json](./308044-alessias-dollhouse.json) |
 | Aleste Branch | 120663 | [120663-aleste-branch.json](./120663-aleste-branch.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
+| Aleste Collection: Game Gear Micro Limited Edition | 167017 | [167017-aleste-collection-game-gear-micro-limited-edition.json](./167017-aleste-collection-game-gear-micro-limited-edition.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
@@ -11508,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Tyranny of King Washington - The Betrayal | 302628 | [302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json](./302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Redemption | 302629 | [302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json](./302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json) |
 | Assassin's Creed Infinity | 154791 | [154791-assassins-creed-infinity.json](./154791-assassins-creed-infinity.json) |
+| Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack | 167003 | [167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json](./167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
