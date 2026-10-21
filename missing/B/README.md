@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frogs | 63198 | [63198-battle-frogs.json](./63198-battle-frogs.json) |
 | Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
 | Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
+| Battle Garegga Rev.2016: Premium Edition | 166996 | [166996-battle-garegga-rev-2016-premium-edition.json](./166996-battle-garegga-rev-2016-premium-edition.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
 | Battle Gear 2 | 286627 | [286627-battle-gear-2.json](./286627-battle-gear-2.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: Apocalypse | 82528 | [82528-battlefield-1-apocalypse.json](./82528-battlefield-1-apocalypse.json) |
 | Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
+| Battlefield 1: Premium Edition | 166991 | [166991-battlefield-1-premium-edition.json](./166991-battlefield-1-premium-edition.json) |
 | Battlefield 1: Revolution | 94085 | [94085-battlefield-1-revolution.json](./94085-battlefield-1-revolution.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
 | Battlefield 1: They Shall Not Pass | 26941 | [26941-battlefield-1-they-shall-not-pass.json](./26941-battlefield-1-they-shall-not-pass.json) |
@@ -7520,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
 | Blaster Master Zero II | 116416 | [116416-blaster-master-zero-ii.json](./116416-blaster-master-zero-ii.json) |
 | Blaster Master Zero III | 145058 | [145058-blaster-master-zero-iii.json](./145058-blaster-master-zero-iii.json) |
+| Blaster Master Zero Trilogy: MetaFight Chronicle - Limited Edition | 166977 | [166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json](./166977-blaster-master-zero-trilogy-metafight-chronicle-limited-edition.json) |
 | Blaster Master: Enemy Below | 49840 | [49840-blaster-master-enemy-below.json](./49840-blaster-master-enemy-below.json) |
 | Blaster Master: Pimp your Ride | 216301 | [216301-blaster-master-pimp-your-ride.json](./216301-blaster-master-pimp-your-ride.json) |
 | Blaster Multiplayer | 284010 | [284010-blaster-multiplayer.json](./284010-blaster-multiplayer.json) |
