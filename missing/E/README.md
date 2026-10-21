@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elebeater VR | 250242 | [250242-elebeater-vr.json](./250242-elebeater-vr.json) |
 | Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
+| Elec | 163793 | [163793-elec.json](./163793-elec.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | ElecHead | 129518 | [129518-elechead.json](./129518-elechead.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
+| EverWorld | 163774 | [163774-everworld.json](./163774-everworld.json) |
 | Every 5x5 Nonogram | 346905 | [346905-every-5x5-nonogram.json](./346905-every-5x5-nonogram.json) |
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
