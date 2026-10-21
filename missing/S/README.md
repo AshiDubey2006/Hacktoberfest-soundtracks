@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Gazers | 263334 | [263334-scarlet-gazers.json](./263334-scarlet-gazers.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
+| Scarlet Hollow: Episode 1 | 170219 | [170219-scarlet-hollow-episode-1.json](./170219-scarlet-hollow-episode-1.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl V | 171393 | [171393-seek-girl-v.json](./171393-seek-girl-v.json) |
 | Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
 | Seek Girl VII | 171392 | [171392-seek-girl-vii.json](./171392-seek-girl-vii.json) |
+| Seek Girl VIII | 170222 | [170222-seek-girl-viii.json](./170222-seek-girl-viii.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
@@ -8628,6 +8630,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
+| Simutrans: Pak128.Britain | 170180 | [170180-simutrans-pak128-britain.json](./170180-simutrans-pak128-britain.json) |
+| Simutrans: Pak128.German | 170181 | [170181-simutrans-pak128-german.json](./170181-simutrans-pak128-german.json) |
+| Simutrans: Pak128.Japan | 170178 | [170178-simutrans-pak128-japan.json](./170178-simutrans-pak128-japan.json) |
+| Simutrans: Pak64 | 170179 | [170179-simutrans-pak64.json](./170179-simutrans-pak64.json) |
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
 | Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
@@ -9585,6 +9591,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Glove | 183833 | [183833-sky-glove.json](./183833-sky-glove.json) |
+| Sky Goddess Ⅱ: DLC-1 | 170174 | [170174-sky-goddess-ii-dlc-1.json](./170174-sky-goddess-ii-dlc-1.json) |
+| Sky Goddess Ⅱ: DLC-2 | 170176 | [170176-sky-goddess-ii-dlc-2.json](./170176-sky-goddess-ii-dlc-2.json) |
+| Sky Goddess Ⅱ: DLC-4 | 170175 | [170175-sky-goddess-ii-dlc-4.json](./170175-sky-goddess-ii-dlc-4.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
@@ -16769,6 +16778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
+| Spirit | 170177 | [170177-spirit.json](./170177-spirit.json) |
 | Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
@@ -22822,6 +22832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sum!! | 175580 | [175580-sum.json](./175580-sum.json) |
 | Sumairu Cubic! -Suiheisen made Nan Mile? After & Another Stories- | 59772 | [59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json](./59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
+| Sumatra: Fate of Yandi - Collector's Edition | 170206 | [170206-sumatra-fate-of-yandi-collectors-edition.json](./170206-sumatra-fate-of-yandi-collectors-edition.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
