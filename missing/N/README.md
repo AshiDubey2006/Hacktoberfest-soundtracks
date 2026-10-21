@@ -5280,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
+| NostAlgic | 166463 | [166463-nostalgic.json](./166463-nostalgic.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
