@@ -3731,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Volleyball | 359223 | [359223-beach-volleyball.json](./359223-beach-volleyball.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
+| Beach Volleyball Competition | 169635 | [169635-beach-volleyball-competition.json](./169635-beach-volleyball-competition.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
@@ -7524,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasterball 3 | 205983 | [205983-blasterball-3.json](./205983-blasterball-3.json) |
+| BlasterBeat | 169654 | [169654-blasterbeat.json](./169654-blasterbeat.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blastermancer | 363170 | [363170-blastermancer.json](./363170-blastermancer.json) |
@@ -8575,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodicide | 262270 | [262270-bloodicide.json](./262270-bloodicide.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodkill: Goreblast Overkill | 332642 | [332642-bloodkill-goreblast-overkill.json](./332642-bloodkill-goreblast-overkill.json) |
+| Bloodland | 169623 | [169623-bloodland.json](./169623-bloodland.json) |
 | Bloodland Battle Royale | 124564 | [124564-bloodland-battle-royale.json](./124564-bloodland-battle-royale.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
 | Bloodletter | 177270 | [177270-bloodletter.json](./177270-bloodletter.json) |
@@ -10029,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
 | Boom Company | 189993 | [189993-boom-company.json](./189993-boom-company.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
+| Boom Face | 169637 | [169637-boom-face.json](./169637-boom-face.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
@@ -11873,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricky to Me | 181011 | [181011-bricky-to-me.json](./181011-bricky-to-me.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
 | Brico Utile | 269676 | [269676-brico-utile.json](./269676-brico-utile.json) |
+| Briddle | 169615 | [169615-briddle.json](./169615-briddle.json) |
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
