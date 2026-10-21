@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 134574 | [134574-paradise-lost.json](./134574-paradise-lost.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
+| Paradise Lost | 165941 | [165941-paradise-lost.json](./165941-paradise-lost.json) |
 | Paradise Lost | 193865 | [193865-paradise-lost.json](./193865-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
 | Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
+| Party Parkade | 165953 | [165953-party-parkade.json](./165953-party-parkade.json) |
 | Party Party Anxiety! | 383018 | [383018-party-party-anxiety.json](./383018-party-party-anxiety.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Character Skin Pack | 251487 | [251487-party-party-time-character-skin-pack.json](./251487-party-party-time-character-skin-pack.json) |
@@ -5255,7 +5257,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Ripley’s Believe It or Not! | 353152 | [353152-pinball-arcade-ripley-s-believe-it-or-not.json](./353152-pinball-arcade-ripley-s-believe-it-or-not.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Scared Stiff | 349363 | [349363-pinball-arcade-scared-stiff.json](./349363-pinball-arcade-scared-stiff.json) |
+| Pinball Arcade: Season Five Pro Pack | 166025 | [166025-pinball-arcade-season-five-pro-pack.json](./166025-pinball-arcade-season-five-pro-pack.json) |
+| Pinball Arcade: Season Four Pack | 166023 | [166023-pinball-arcade-season-four-pack.json](./166023-pinball-arcade-season-four-pack.json) |
+| Pinball Arcade: Season Four Pro Pack | 166026 | [166026-pinball-arcade-season-four-pro-pack.json](./166026-pinball-arcade-season-four-pro-pack.json) |
+| Pinball Arcade: Season Seven Pro Pack | 166027 | [166027-pinball-arcade-season-seven-pro-pack.json](./166027-pinball-arcade-season-seven-pro-pack.json) |
+| Pinball Arcade: Season Seven Table Pack | 166024 | [166024-pinball-arcade-season-seven-table-pack.json](./166024-pinball-arcade-season-seven-table-pack.json) |
+| Pinball Arcade: Season Six Pro Pack | 166028 | [166028-pinball-arcade-season-six-pro-pack.json](./166028-pinball-arcade-season-six-pro-pack.json) |
+| Pinball Arcade: Season Three Pro Pack | 166029 | [166029-pinball-arcade-season-three-pro-pack.json](./166029-pinball-arcade-season-three-pro-pack.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
+| Pinball Arcade: Season Two Pro Pack | 166030 | [166030-pinball-arcade-season-two-pro-pack.json](./166030-pinball-arcade-season-two-pro-pack.json) |
 | Pinball Arcade: Sorcerer | 349343 | [349343-pinball-arcade-sorcerer.json](./349343-pinball-arcade-sorcerer.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
 | Pinball Arcade: Spanish Eyes | 349963 | [349963-pinball-arcade-spanish-eyes.json](./349963-pinball-arcade-spanish-eyes.json) |
