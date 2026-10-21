@@ -5064,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
+| Lo-fi Life | 168075 | [168075-lo-fi-life.json](./168075-lo-fi-life.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
@@ -6082,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
+| Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
