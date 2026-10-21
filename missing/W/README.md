@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
 | Warrior | 287575 | [287575-warrior.json](./287575-warrior.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
+| Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
 | Warrior Cats: Clans of the Forest | 412520 | [412520-warrior-cats-clans-of-the-forest.json](./412520-warrior-cats-clans-of-the-forest.json) |
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
@@ -6782,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
 | Worms Rumble: Cats & Dogs Double Pack | 246781 | [246781-worms-rumble-cats-and-dogs-double-pack.json](./246781-worms-rumble-cats-and-dogs-double-pack.json) |
+| Worms Rumble: Digital Deluxe Edition | 164748 | [164748-worms-rumble-digital-deluxe-edition.json](./164748-worms-rumble-digital-deluxe-edition.json) |
 | Worms Rumble: Emote Pack | 301562 | [301562-worms-rumble-emote-pack.json](./301562-worms-rumble-emote-pack.json) |
 | Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
