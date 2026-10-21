@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Genesis: Idle Loot | 417320 | [417320-war-of-genesis-idle-loot.json](./417320-war-of-genesis-idle-loot.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
+| War of Gold | 165482 | [165482-war-of-gold.json](./165482-war-of-gold.json) |
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
