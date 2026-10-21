@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Dungeon 2 | 157115 | [157115-one-more-dungeon-2.json](./157115-one-more-dungeon-2.json) |
+| One More Dungeon: Limited Edition | 167007 | [167007-one-more-dungeon-limited-edition.json](./167007-one-more-dungeon-limited-edition.json) |
 | One More Encounter | 298817 | [298817-one-more-encounter.json](./298817-one-more-encounter.json) |
 | One More Experiment | 346576 | [346576-one-more-experiment.json](./346576-one-more-experiment.json) |
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
@@ -2212,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni | 384838 | [384838-oni.json](./384838-oni.json) |
 | Oni Academy | 257980 | [257980-oni-academy.json](./257980-oni-academy.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
+| Oni Ama: Watashi ni Amaete, Onii-chan - Limited Edition | 166985 | [166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json](./166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
 | Oni Hunters | 265506 | [265506-oni-hunters.json](./265506-oni-hunters.json) |
