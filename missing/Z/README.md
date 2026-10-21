@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
+| Zombie Friday | 165952 | [165952-zombie-friday.json](./165952-zombie-friday.json) |
 | Zombie Frontier 3 | 86992 | [86992-zombie-frontier-3.json](./86992-zombie-frontier-3.json) |
 | Zombie Frontier 4 | 208064 | [208064-zombie-frontier-4.json](./208064-zombie-frontier-4.json) |
 | Zombie Fun Run | 322849 | [322849-zombie-fun-run.json](./322849-zombie-fun-run.json) |
