@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
+| Yellowlooper | 167521 | [167521-yellowlooper.json](./167521-yellowlooper.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
 | Yellowtoy | 118116 | [118116-yellowtoy.json](./118116-yellowtoy.json) |
 | Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
