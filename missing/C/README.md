@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
+| Caroline's Abyss | 169621 | [169621-carolines-abyss.json](./169621-carolines-abyss.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
 | Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
+| Christmas Elf | 169614 | [169614-christmas-elf.json](./169614-christmas-elf.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Escape Toy | 317090 | [317090-christmas-escape-toy.json](./317090-christmas-escape-toy.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
@@ -10433,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
+| Consternation II | 169640 | [169640-consternation-ii.json](./169640-consternation-ii.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
@@ -14119,6 +14122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
+| Cryptid Crew | 169634 | [169634-cryptid-crew.json](./169634-cryptid-crew.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Hunt feat. Mothman | 419997 | [419997-cryptid-hunt-feat-mothman.json](./419997-cryptid-hunt-feat-mothman.json) |
 | Cryptid Kitchen | 244328 | [244328-cryptid-kitchen.json](./244328-cryptid-kitchen.json) |
@@ -15348,6 +15352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
 | Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
+| Cutie Bear | 169660 | [169660-cutie-bear.json](./169660-cutie-bear.json) |
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
@@ -15433,6 +15438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
+| Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
 | Cyber Driver | 117055 | [117055-cyber-driver.json](./117055-cyber-driver.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
@@ -15655,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpop | 219982 | [219982-cyberpop.json](./219982-cyberpop.json) |
 | Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
+| Cyberpunica 2.0.2.0 | 169644 | [169644-cyberpunica-2-0-2-0.json](./169644-cyberpunica-2-0-2-0.json) |
 | Cyberpunk | 236691 | [236691-cyberpunk.json](./236691-cyberpunk.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
