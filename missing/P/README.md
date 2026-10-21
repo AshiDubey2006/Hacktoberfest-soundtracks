@@ -13875,6 +13875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures: Serve Dishes | 329429 | [329429-puzzle-adventures-serve-dishes.json](./329429-puzzle-adventures-serve-dishes.json) |
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
+| Puzzle Aquarium | 169121 | [169121-puzzle-aquarium.json](./169121-puzzle-aquarium.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Birds | 175645 | [175645-puzzle-art-birds.json](./175645-puzzle-art-birds.json) |
