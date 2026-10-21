@@ -4857,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light - Wild Constellations | 354195 | [354195-maze-path-of-light-wild-constellations.json](./354195-maze-path-of-light-wild-constellations.json) |
 | Maze: Path of Light - Wild Edition | 368780 | [368780-maze-path-of-light-wild-edition.json](./368780-maze-path-of-light-wild-edition.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
+| Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
@@ -8487,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
 | Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
+| Midnight Calling: Jeronimo - Collector's Edition | 170199 | [170199-midnight-calling-jeronimo-collectors-edition.json](./170199-midnight-calling-jeronimo-collectors-edition.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon | 95917 | [95917-midnight-calling-wise-dragon.json](./95917-midnight-calling-wise-dragon.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
@@ -9132,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
+| Mimpi Dreams: Mars DLC | 170183 | [170183-mimpi-dreams-mars-dlc.json](./170183-mimpi-dreams-mars-dlc.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
 | Mimpi Volleyball | 257468 | [257468-mimpi-volleyball.json](./257468-mimpi-volleyball.json) |
 | Mimsy & Friends! | 179520 | [179520-mimsy-and-friends.json](./179520-mimsy-and-friends.json) |
@@ -10946,6 +10949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
+| Moai 6: Unexpected Guests - Collector's Edition | 170205 | [170205-moai-6-unexpected-guests-collectors-edition.json](./170205-moai-6-unexpected-guests-collectors-edition.json) |
 | Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
@@ -14362,6 +14366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
+| Ms. Holmes: Five Orange Pips - Collector's Edition | 170212 | [170212-ms-holmes-five-orange-pips-collectors-edition.json](./170212-ms-holmes-five-orange-pips-collectors-edition.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Holmes: The Case of the Dancing Men - Collector's Edition | 253896 | [253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json](./253896-ms-holmes-the-case-of-the-dancing-men-collectors-edition.json) |
@@ -16519,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
+| Mystery Case Files: The Harbinger - Collector's Edition | 170214 | [170214-mystery-case-files-the-harbinger-collectors-edition.json](./170214-mystery-case-files-the-harbinger-collectors-edition.json) |
 | Mystery Case Files: The Last Resort | 247894 | [247894-mystery-case-files-the-last-resort.json](./247894-mystery-case-files-the-last-resort.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Malgrave Incident | 5040 | [5040-mystery-case-files-the-malgrave-incident.json](./5040-mystery-case-files-the-malgrave-incident.json) |
@@ -16650,6 +16656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
+| Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
 | Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
 | Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
