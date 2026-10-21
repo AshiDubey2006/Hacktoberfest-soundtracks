@@ -4278,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
 | Her Last Wish | 414154 | [414154-her-last-wish.json](./414154-her-last-wish.json) |
 | Her Lie I Tried to Believe | 87953 | [87953-her-lie-i-tried-to-believe.json](./87953-her-lie-i-tried-to-believe.json) |
+| Her Lie I Tried to Believe: Extended Edition | 169636 | [169636-her-lie-i-tried-to-believe-extended-edition.json](./169636-her-lie-i-tried-to-believe-extended-edition.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her Love in the Force | 147610 | [147610-her-love-in-the-force.json](./147610-her-love-in-the-force.json) |
 | Her Love Just Washed Away | 261957 | [261957-her-love-just-washed-away.json](./261957-her-love-just-washed-away.json) |
@@ -5083,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexologic | 86323 | [86323-hexologic.json](./86323-hexologic.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexonaut | 293168 | [293168-hexonaut.json](./293168-hexonaut.json) |
+| Hexonex | 169658 | [169658-hexonex.json](./169658-hexonex.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexora | 347740 | [347740-hexora.json](./347740-hexora.json) |
 | Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
@@ -6834,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
+| Hollow Mind: The Lost Puppy | 169625 | [169625-hollow-mind-the-lost-puppy.json](./169625-hollow-mind-the-lost-puppy.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
 | Hollow Mission | 242960 | [242960-hollow-mission.json](./242960-hollow-mission.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
@@ -9417,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
 | HuZero: Caravan Edition | 222850 | [222850-huzero-caravan-edition.json](./222850-huzero-caravan-edition.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
+| Hvor: Confrontation | 169641 | [169641-hvor-confrontation.json](./169641-hvor-confrontation.json) |
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
