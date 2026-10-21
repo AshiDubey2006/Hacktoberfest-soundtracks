@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter | 343893 | [343893-choplifter.json](./343893-choplifter.json) |
 | Choplifter | 343894 | [343894-choplifter.json](./343894-choplifter.json) |
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
+| Choplifter HD: Arrowhead Chopper | 170746 | [170746-choplifter-hd-arrowhead-chopper.json](./170746-choplifter-hd-arrowhead-chopper.json) |
 | Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
 | Choplifter III: Rescue Survive | 7824 | [7824-choplifter-iii-rescue-survive.json](./7824-choplifter-iii-rescue-survive.json) |
 | Choplifter! | 282062 | [282062-choplifter.json](./282062-choplifter.json) |
