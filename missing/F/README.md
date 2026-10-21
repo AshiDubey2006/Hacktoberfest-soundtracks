@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Gen | 285328 | [285328-first-gen.json](./285328-first-gen.json) |
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
+| First Hero: Epic of Gilgamesh | 170726 | [170726-first-hero-epic-of-gilgamesh.json](./170726-first-hero-epic-of-gilgamesh.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
 | First Kiss | 177741 | [177741-first-kiss.json](./177741-first-kiss.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
