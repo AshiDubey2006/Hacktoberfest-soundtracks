@@ -9906,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
+| Company of Heroes 2: German Commander - Lightning War Doctrine | 168086 | [168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json](./168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
@@ -11895,6 +11896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19 | 147170 | [147170-covid-19.json](./147170-covid-19.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
+| Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
