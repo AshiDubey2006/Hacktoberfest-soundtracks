@@ -8548,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
+| Simple Machines | 164227 | [164227-simple-machines.json](./164227-simple-machines.json) |
 | Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
 | Simple Minded | 273241 | [273241-simple-minded.json](./273241-simple-minded.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
@@ -8902,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
+| Sir Christopher | 164230 | [164230-sir-christopher.json](./164230-sir-christopher.json) |
 | Sir Eatsalot | 69340 | [69340-sir-eatsalot.json](./69340-sir-eatsalot.json) |
 | Sir Erik | 301439 | [301439-sir-erik.json](./301439-sir-erik.json) |
 | Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
@@ -24005,6 +24007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Inefficient Golf | 90074 | [90074-super-inefficient-golf.json](./90074-super-inefficient-golf.json) |
+| Super Intern Story | 164212 | [164212-super-intern-story.json](./164212-super-intern-story.json) |
 | Super International Cricket | 42456 | [42456-super-international-cricket.json](./42456-super-international-cricket.json) |
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
 | Super Is Hot | 142374 | [142374-super-is-hot.json](./142374-super-is-hot.json) |
@@ -25085,6 +25088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Releasio 64 | 344171 | [344171-super-releasio-64.json](./344171-super-releasio-64.json) |
 | Super Retro BoxBot | 279470 | [279470-super-retro-boxbot.json](./279470-super-retro-boxbot.json) |
+| Super Retro Charge | 164291 | [164291-super-retro-charge.json](./164291-super-retro-charge.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
 | Super Retro Kart | 242940 | [242940-super-retro-kart.json](./242940-super-retro-kart.json) |
