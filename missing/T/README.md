@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
+| TD Worlds | 168619 | [168619-td-worlds.json](./168619-td-worlds.json) |
 | TD: Goblin Defenders | 101650 | [101650-td-goblin-defenders.json](./101650-td-goblin-defenders.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDF: Kaijuu Daisensou | 410186 | [410186-tdf-kaijuu-daisensou.json](./410186-tdf-kaijuu-daisensou.json) |
@@ -7619,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden Gate Pai Sho | 320849 | [320849-the-garden-gate-pai-sho.json](./320849-the-garden-gate-pai-sho.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
+| The Garden of Orilon | 168581 | [168581-the-garden-of-orilon.json](./168581-the-garden-of-orilon.json) |
 | The Garden of the Gods | 341848 | [341848-the-garden-of-the-gods.json](./341848-the-garden-of-the-gods.json) |
 | The Garden of Youth | 394595 | [394595-the-garden-of-youth.json](./394595-the-garden-of-youth.json) |
 | The Garden Path | 145482 | [145482-the-garden-path.json](./145482-the-garden-path.json) |
@@ -8115,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
+| The Heat of War | 168596 | [168596-the-heat-of-war.json](./168596-the-heat-of-war.json) |
 | The Heaven | 346207 | [346207-the-heaven.json](./346207-the-heaven.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
@@ -10908,7 +10911,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -10995,6 +10997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
 | The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
+| The Niflhel Day | 168584 | [168584-the-niflhel-day.json](./168584-the-niflhel-day.json) |
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
@@ -24444,6 +24447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump Vs Rocketman | 230134 | [230134-trump-vs-rocketman.json](./230134-trump-vs-rocketman.json) |
+| Trump vs. Covid: Save the World Clicker | 168575 | [168575-trump-vs-covid-save-the-world-clicker.json](./168575-trump-vs-covid-save-the-world-clicker.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
