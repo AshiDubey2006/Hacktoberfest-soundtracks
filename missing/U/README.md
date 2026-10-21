@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Heavens | 398011 | [398011-under-the-heavens.json](./398011-under-the-heavens.json) |
 | Under the Hood | 260026 | [260026-under-the-hood.json](./260026-under-the-hood.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
+| Under the Jolly Roger | 164300 | [164300-under-the-jolly-roger.json](./164300-under-the-jolly-roger.json) |
 | Under the Jolly Roger + Crossroads Inn: Bring Me That Horizon Bundle | 305487 | [305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json](./305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json) |
 | Under the Jolly Roger: Complete Edition | 204272 | [204272-under-the-jolly-roger-complete-edition.json](./204272-under-the-jolly-roger-complete-edition.json) |
 | Under The Mask | 281914 | [281914-under-the-mask.json](./281914-under-the-mask.json) |
@@ -2319,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
 | Untitled Cuphead Sequel | 404675 | [404675-untitled-cuphead-sequel.json](./404675-untitled-cuphead-sequel.json) |
+| Untitled Darkness | 164302 | [164302-untitled-darkness.json](./164302-untitled-darkness.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Dungeons & Dragons Game | 291609 | [291609-untitled-dungeons-and-dragons-game.json](./291609-untitled-dungeons-and-dragons-game.json) |
 | Untitled Experimental Platformer by KG | 316699 | [316699-untitled-experimental-platformer-by-kg.json](./316699-untitled-experimental-platformer-by-kg.json) |
