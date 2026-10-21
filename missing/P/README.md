@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
 | Paladin's Quest | 46586 | [46586-paladins-quest.json](./46586-paladins-quest.json) |
 | Paladins Strike | 70844 | [70844-paladins-strike.json](./70844-paladins-strike.json) |
+| Paladins: Deluxe Edition | 164752 | [164752-paladins-deluxe-edition.json](./164752-paladins-deluxe-edition.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: The Butcher's BBQ Pack | 252881 | [252881-payday-2-the-butchers-bbq-pack.json](./252881-payday-2-the-butchers-bbq-pack.json) |
 | Payday 2: The Butcher's Western Pack | 225175 | [225175-payday-2-the-butchers-western-pack.json](./225175-payday-2-the-butchers-western-pack.json) |
 | Payday 2: The Charlie Santa Heist | 167684 | [167684-payday-2-the-charlie-santa-heist.json](./167684-payday-2-the-charlie-santa-heist.json) |
+| Payday 2: The Crimewave Collection | 164824 | [164824-payday-2-the-crimewave-collection.json](./164824-payday-2-the-crimewave-collection.json) |
 | Payday 2: The Diamond Heist | 167685 | [167685-payday-2-the-diamond-heist.json](./167685-payday-2-the-diamond-heist.json) |
 | Payday 2: The Diamond Store Heist | 167695 | [167695-payday-2-the-diamond-store-heist.json](./167695-payday-2-the-diamond-store-heist.json) |
 | Payday 2: The Election Day Heist | 167697 | [167697-payday-2-the-election-day-heist.json](./167697-payday-2-the-election-day-heist.json) |
@@ -3948,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K21: Deluxe Edition | 136291 | [136291-pga-tour-2k21-deluxe-edition.json](./136291-pga-tour-2k21-deluxe-edition.json) |
+| PGA Tour 2K21: Digital Deluxe Edition | 164831 | [164831-pga-tour-2k21-digital-deluxe-edition.json](./164831-pga-tour-2k21-digital-deluxe-edition.json) |
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
