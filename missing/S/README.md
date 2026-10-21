@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
 | Saisen Meikyuu | 206547 | [206547-saisen-meikyuu.json](./206547-saisen-meikyuu.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
+| Saishuu Shiken Kujira: Alive | 166453 | [166453-saishuu-shiken-kujira-alive.json](./166453-saishuu-shiken-kujira-alive.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
 | Sáivu | 252268 | [252268-saivu.json](./252268-saivu.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Ties | 58077 | [58077-secret-ties.json](./58077-secret-ties.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
+| Secret Trouble | 166493 | [166493-secret-trouble.json](./166493-secret-trouble.json) |
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
 | Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shisen-shou: Match-Mania | 154802 | [154802-shisen-shou-match-mania.json](./154802-shisen-shou-match-mania.json) |
+| Shisha no Yobu Yakata | 166560 | [166560-shisha-no-yobu-yakata.json](./166560-shisha-no-yobu-yakata.json) |
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shishi: Ballad of the Oracle | 120093 | [120093-shishi-ballad-of-the-oracle.json](./120093-shishi-ballad-of-the-oracle.json) |
 | Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
@@ -11741,6 +11744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
 | Snoutbreakers | 369453 | [369453-snoutbreakers.json](./369453-snoutbreakers.json) |
 | Snouty And The Great Rift | 417366 | [417366-snouty-and-the-great-rift.json](./417366-snouty-and-the-great-rift.json) |
+| Snow | 166450 | [166450-snow.json](./166450-snow.json) |
 | Snow | 221025 | [221025-snow.json](./221025-snow.json) |
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
@@ -14117,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukoku no Kusabi Hiiro no Kakera 3: Asu he no Tobira | 217761 | [217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json](./217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
+| Soukou Akki Muramasa: Shokuzai-hen | 166485 | [166485-soukou-akki-muramasa-shokuzai-hen.json](./166485-soukou-akki-muramasa-shokuzai-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Kihei Votoms: Uoodo-Kummen Hen | 77845 | [77845-soukou-kihei-votoms-uoodo-kummen-hen.json](./77845-soukou-kihei-votoms-uoodo-kummen-hen.json) |
@@ -21007,6 +21012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
+| Storror Parkour Pro | 166483 | [166483-storror-parkour-pro.json](./166483-storror-parkour-pro.json) |
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
