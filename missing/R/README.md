@@ -9338,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
+| Run | 165472 | [165472-run.json](./165472-run.json) |
 | Run | 359194 | [359194-run.json](./359194-run.json) |
 | Run | 85867 | [85867-run.json](./85867-run.json) |
 | Run 'n Gun: Deluxe | 266757 | [266757-run-n-gun-deluxe.json](./266757-run-n-gun-deluxe.json) |
