@@ -7543,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grub Truck | 295859 | [295859-grub-truck.json](./295859-grub-truck.json) |
 | Grubby Fingers | 343305 | [343305-grubby-fingers.json](./343305-grubby-fingers.json) |
 | GrubDash Driver: Food Delivery Driver Simulator | 189861 | [189861-grubdash-driver-food-delivery-driver-simulator.json](./189861-grubdash-driver-food-delivery-driver-simulator.json) |
+| Grubfish Royale | 165451 | [165451-grubfish-royale.json](./165451-grubfish-royale.json) |
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
