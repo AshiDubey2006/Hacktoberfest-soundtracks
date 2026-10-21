@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Cat Doctor | 204289 | [204289-kitty-cat-doctor.json](./204289-kitty-cat-doctor.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
+| Kitty Cat Tycoon | 169125 | [169125-kitty-cat-tycoon.json](./169125-kitty-cat-tycoon.json) |
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
 | Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
