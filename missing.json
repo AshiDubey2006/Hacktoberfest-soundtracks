@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T18:21:12.004Z",
-  "total_missing": 243318,
+  "generated_at": "2026-10-21T18:36:48.813Z",
+  "total_missing": 243368,
   "games": [
     {
       "igdb_id": 191680,
@@ -32317,6 +32317,11 @@
       "file": "missing/A/120310-ailment.json"
     },
     {
+      "igdb_id": 164838,
+      "game_name": "Ailment & Endurance Bundle",
+      "file": "missing/A/164838-ailment-and-endurance-bundle.json"
+    },
+    {
       "igdb_id": 120311,
       "game_name": "Ailment: Endurance",
       "file": "missing/A/120311-ailment-endurance.json"
@@ -53807,6 +53812,11 @@
       "file": "missing/A/284403-another-door.json"
     },
     {
+      "igdb_id": 164761,
+      "game_name": "Another Dungeon",
+      "file": "missing/A/164761-another-dungeon.json"
+    },
+    {
       "igdb_id": 245210,
       "game_name": "Another Dungeon",
       "file": "missing/A/245210-another-dungeon.json"
@@ -59990,6 +60000,11 @@
       "igdb_id": 147107,
       "game_name": "Arcade Archives: Koutetsu Yousai Strahl",
       "file": "missing/A/147107-arcade-archives-koutetsu-yousai-strahl.json"
+    },
+    {
+      "igdb_id": 164766,
+      "game_name": "Arcade Archives: Kuri Kinton",
+      "file": "missing/A/164766-arcade-archives-kuri-kinton.json"
     },
     {
       "igdb_id": 337975,
@@ -70657,6 +70672,11 @@
       "file": "missing/A/404811-assassin-of-spider-2-2099.json"
     },
     {
+      "igdb_id": 164755,
+      "game_name": "Assassin Run 2D",
+      "file": "missing/A/164755-assassin-run-2d.json"
+    },
+    {
       "igdb_id": 345076,
       "game_name": "Assassin Story",
       "file": "missing/A/345076-assassin-story.json"
@@ -71100,6 +71120,11 @@
       "igdb_id": 141160,
       "game_name": "Assassin's Creed Valhalla: Collector's Edition",
       "file": "missing/A/141160-assassins-creed-valhalla-collectors-edition.json"
+    },
+    {
+      "igdb_id": 164835,
+      "game_name": "Assassin's Creed Valhalla: Deluxe Edition",
+      "file": "missing/A/164835-assassins-creed-valhalla-deluxe-edition.json"
     },
     {
       "igdb_id": 211296,
@@ -71760,6 +71785,11 @@
       "igdb_id": 288862,
       "game_name": "Assetto Corsa Competizione: GT Racing Game Bundle",
       "file": "missing/A/288862-assetto-corsa-competizione-gt-racing-game-bundle.json"
+    },
+    {
+      "igdb_id": 164853,
+      "game_name": "Assetto Corsa Competizione: Intercontinental GT Pack",
+      "file": "missing/A/164853-assetto-corsa-competizione-intercontinental-gt-pack.json"
     },
     {
       "igdb_id": 266155,
@@ -109280,6 +109310,11 @@
       "igdb_id": 125068,
       "game_name": "Between Two Castles",
       "file": "missing/B/125068-between-two-castles.json"
+    },
+    {
+      "igdb_id": 164762,
+      "game_name": "Between Two Cities",
+      "file": "missing/B/164762-between-two-cities.json"
     },
     {
       "igdb_id": 196672,
@@ -159617,6 +159652,11 @@
       "file": "missing/C/141635-capcom-arcade-stadium-pack-3-arcade-evolution.json"
     },
     {
+      "igdb_id": 164749,
+      "game_name": "Capcom Arcade Stadium Packs 1, 2, and 3",
+      "file": "missing/C/164749-capcom-arcade-stadium-packs-1-2-and-3.json"
+    },
+    {
       "igdb_id": 234302,
       "game_name": "Capcom Arcade Stadium: Battle Circuit",
       "file": "missing/C/234302-capcom-arcade-stadium-battle-circuit.json"
@@ -188527,6 +188567,11 @@
       "file": "missing/C/135634-city-driving-simulator.json"
     },
     {
+      "igdb_id": 164764,
+      "game_name": "City Driving Simulator 2",
+      "file": "missing/C/164764-city-driving-simulator-2.json"
+    },
+    {
       "igdb_id": 220298,
       "game_name": "City Dunk 2",
       "file": "missing/C/220298-city-dunk-2.json"
@@ -206880,6 +206925,11 @@
       "igdb_id": 76229,
       "game_name": "Contradiction",
       "file": "missing/C/76229-contradiction.json"
+    },
+    {
+      "igdb_id": 164767,
+      "game_name": "Contradiction 8Bit",
+      "file": "missing/C/164767-contradiction-8bit.json"
     },
     {
       "igdb_id": 11333,
@@ -280447,6 +280497,11 @@
       "file": "missing/D/154347-dont-starve-console-edition.json"
     },
     {
+      "igdb_id": 164840,
+      "game_name": "Don't Starve: Giant Edition + Shipwrecked Expansion",
+      "file": "missing/D/164840-dont-starve-giant-edition-shipwrecked-expansion.json"
+    },
+    {
       "igdb_id": 103326,
       "game_name": "Don't Starve: Hamlet",
       "file": "missing/D/103326-dont-starve-hamlet.json"
@@ -301677,6 +301732,11 @@
       "file": "missing/D/28890-dungeon-escape-vr.json"
     },
     {
+      "igdb_id": 164750,
+      "game_name": "Dungeon Escape: Console Edition",
+      "file": "missing/D/164750-dungeon-escape-console-edition.json"
+    },
+    {
       "igdb_id": 80905,
       "game_name": "Dungeon Escapist",
       "file": "missing/D/80905-dungeon-escapist.json"
@@ -307005,6 +307065,11 @@
       "igdb_id": 118728,
       "game_name": "EA Sports UFC 3: Deluxe Edition",
       "file": "missing/E/118728-ea-sports-ufc-3-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 164841,
+      "game_name": "EA Sports UFC 4: Deluxe Edition",
+      "file": "missing/E/164841-ea-sports-ufc-4-deluxe-edition.json"
     },
     {
       "igdb_id": 255901,
@@ -321265,6 +321330,11 @@
       "igdb_id": 271633,
       "game_name": "Endoparasitic VR",
       "file": "missing/E/271633-endoparasitic-vr.json"
+    },
+    {
+      "igdb_id": 164760,
+      "game_name": "Endorfire Tower Defense",
+      "file": "missing/E/164760-endorfire-tower-defense.json"
     },
     {
       "igdb_id": 268763,
@@ -344895,6 +344965,11 @@
       "igdb_id": 135764,
       "game_name": "Family Mysteries 3: Criminal Mindset",
       "file": "missing/F/135764-family-mysteries-3-criminal-mindset.json"
+    },
+    {
+      "igdb_id": 164754,
+      "game_name": "Family Mysteries Collection",
+      "file": "missing/F/164754-family-mysteries-collection.json"
     },
     {
       "igdb_id": 131986,
@@ -387182,6 +387257,11 @@
       "file": "missing/F/341662-frostpunk-1886.json"
     },
     {
+      "igdb_id": 164768,
+      "game_name": "Frostpunk: Complete Collection",
+      "file": "missing/F/164768-frostpunk-complete-collection.json"
+    },
+    {
       "igdb_id": 117420,
       "game_name": "Frostpunk: Console Edition",
       "file": "missing/F/117420-frostpunk-console-edition.json"
@@ -392125,6 +392205,11 @@
       "igdb_id": 217407,
       "game_name": "Future Mirror",
       "file": "missing/F/217407-future-mirror.json"
+    },
+    {
+      "igdb_id": 164756,
+      "game_name": "Future Ninja",
+      "file": "missing/F/164756-future-ninja.json"
     },
     {
       "igdb_id": 36415,
@@ -399557,6 +399642,11 @@
       "file": "missing/G/314675-garden-box.json"
     },
     {
+      "igdb_id": 164825,
+      "game_name": "Garden Bundle",
+      "file": "missing/G/164825-garden-bundle.json"
+    },
+    {
       "igdb_id": 215902,
       "game_name": "Garden Business",
       "file": "missing/G/215902-garden-business.json"
@@ -399600,6 +399690,11 @@
       "igdb_id": 406903,
       "game_name": "Garden Eternal",
       "file": "missing/G/406903-garden-eternal.json"
+    },
+    {
+      "igdb_id": 164830,
+      "game_name": "Garden Flipper",
+      "file": "missing/G/164830-garden-flipper.json"
     },
     {
       "igdb_id": 337241,
@@ -403432,6 +403527,11 @@
       "file": "missing/G/276062-generation-zero-advanced-intelligence-cosmetics-pack.json"
     },
     {
+      "igdb_id": 164842,
+      "game_name": "Generation Zero: Alpine Unrest",
+      "file": "missing/G/164842-generation-zero-alpine-unrest.json"
+    },
+    {
       "igdb_id": 170971,
       "game_name": "Generation Zero: Apparel Crafting",
       "file": "missing/G/170971-generation-zero-apparel-crafting.json"
@@ -403530,6 +403630,11 @@
       "igdb_id": 331542,
       "game_name": "Generation Zero: Starter Pack Bundle",
       "file": "missing/G/331542-generation-zero-starter-pack-bundle.json"
+    },
+    {
+      "igdb_id": 164851,
+      "game_name": "Generation Zero: Story Bundle",
+      "file": "missing/G/164851-generation-zero-story-bundle.json"
     },
     {
       "igdb_id": 234919,
@@ -501767,6 +501872,11 @@
       "file": "missing/I/323384-injustice-2-gods-shader-pack.json"
     },
     {
+      "igdb_id": 164829,
+      "game_name": "Injustice 2: Hellboy",
+      "file": "missing/I/164829-injustice-2-hellboy.json"
+    },
+    {
       "igdb_id": 323388,
       "game_name": "Injustice 2: John Stewart",
       "file": "missing/I/323388-injustice-2-john-stewart.json"
@@ -501780,6 +501890,11 @@
       "igdb_id": 323386,
       "game_name": "Injustice 2: Power Girl",
       "file": "missing/I/323386-injustice-2-power-girl.json"
+    },
+    {
+      "igdb_id": 164827,
+      "game_name": "Injustice 2: Raiden",
+      "file": "missing/I/164827-injustice-2-raiden.json"
     },
     {
       "igdb_id": 165037,
@@ -501805,6 +501920,11 @@
       "igdb_id": 165044,
       "game_name": "Injustice 2: The Atom",
       "file": "missing/I/165044-injustice-2-the-atom.json"
+    },
+    {
+      "igdb_id": 164834,
+      "game_name": "Injustice 2: TMNT",
+      "file": "missing/I/164834-injustice-2-tmnt.json"
     },
     {
       "igdb_id": 139807,
@@ -541365,6 +541485,11 @@
       "igdb_id": 115030,
       "game_name": "Kingdom Come: Deliverance - Band of Bastards",
       "file": "missing/K/115030-kingdom-come-deliverance-band-of-bastards.json"
+    },
+    {
+      "igdb_id": 164856,
+      "game_name": "Kingdom Come: Deliverance - DLC Collection",
+      "file": "missing/K/164856-kingdom-come-deliverance-dlc-collection.json"
     },
     {
       "igdb_id": 104985,
@@ -585750,6 +585875,16 @@
       "igdb_id": 214706,
       "game_name": "Lou's Lagoon",
       "file": "missing/L/214706-lous-lagoon.json"
+    },
+    {
+      "igdb_id": 164850,
+      "game_name": "Lou's Revenge",
+      "file": "missing/L/164850-lous-revenge.json"
+    },
+    {
+      "igdb_id": 164837,
+      "game_name": "Lou's Revenge + One Dog Story Bundle",
+      "file": "missing/L/164837-lous-revenge-one-dog-story-bundle.json"
     },
     {
       "igdb_id": 19849,
@@ -631142,6 +631277,11 @@
       "file": "missing/M/373617-metro-rivals-new-york.json"
     },
     {
+      "igdb_id": 164753,
+      "game_name": "Metro Saga Bundle",
+      "file": "missing/M/164753-metro-saga-bundle.json"
+    },
+    {
       "igdb_id": 105601,
       "game_name": "Metro Sim Hustle",
       "file": "missing/M/105601-metro-sim-hustle.json"
@@ -634620,6 +634760,11 @@
       "igdb_id": 53358,
       "game_name": "Middle-earth: Shadow of War - Silver Edition",
       "file": "missing/M/53358-middle-earth-shadow-of-war-silver-edition.json"
+    },
+    {
+      "igdb_id": 164839,
+      "game_name": "Middle-earth: Shadow of War - Slaughter Tribe Nemesis",
+      "file": "missing/M/164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json"
     },
     {
       "igdb_id": 52198,
@@ -639237,6 +639382,11 @@
       "file": "missing/M/326827-minecraft-create-above-and-beyond.json"
     },
     {
+      "igdb_id": 164849,
+      "game_name": "Minecraft Dungeons: Echoing Void",
+      "file": "missing/M/164849-minecraft-dungeons-echoing-void.json"
+    },
+    {
       "igdb_id": 132145,
       "game_name": "Minecraft Dungeons: Hero Edition",
       "file": "missing/M/132145-minecraft-dungeons-hero-edition.json"
@@ -639250,6 +639400,11 @@
       "igdb_id": 135565,
       "game_name": "Minecraft Dungeons: Jungle Awakens",
       "file": "missing/M/135565-minecraft-dungeons-jungle-awakens.json"
+    },
+    {
+      "igdb_id": 164846,
+      "game_name": "Minecraft Dungeons: Ultimate DLC Bundle",
+      "file": "missing/M/164846-minecraft-dungeons-ultimate-dlc-bundle.json"
     },
     {
       "igdb_id": 164776,
@@ -695892,6 +696047,11 @@
       "file": "missing/N/256880-nihility-infinite-teeth.json"
     },
     {
+      "igdb_id": 164758,
+      "game_name": "Nihilo",
+      "file": "missing/N/164758-nihilo.json"
+    },
+    {
       "igdb_id": 270844,
       "game_name": "Nihilore: The Mechanical Empire",
       "file": "missing/N/270844-nihilore-the-mechanical-empire.json"
@@ -727042,6 +727202,11 @@
       "file": "missing/O/119532-outbreak-epidemic.json"
     },
     {
+      "igdb_id": 164845,
+      "game_name": "Outbreak: Epidemic - Definitive Edition",
+      "file": "missing/O/164845-outbreak-epidemic-definitive-edition.json"
+    },
+    {
       "igdb_id": 261361,
       "game_name": "Outbreak: Epidemic Viral Terror",
       "file": "missing/O/261361-outbreak-epidemic-viral-terror.json"
@@ -733880,6 +734045,11 @@
       "igdb_id": 70844,
       "game_name": "Paladins Strike",
       "file": "missing/P/70844-paladins-strike.json"
+    },
+    {
+      "igdb_id": 164752,
+      "game_name": "Paladins: Deluxe Edition",
+      "file": "missing/P/164752-paladins-deluxe-edition.json"
     },
     {
       "igdb_id": 263482,
@@ -743677,6 +743847,11 @@
       "file": "missing/P/167684-payday-2-the-charlie-santa-heist.json"
     },
     {
+      "igdb_id": 164824,
+      "game_name": "Payday 2: The Crimewave Collection",
+      "file": "missing/P/164824-payday-2-the-crimewave-collection.json"
+    },
+    {
       "igdb_id": 167685,
       "game_name": "Payday 2: The Diamond Heist",
       "file": "missing/P/167685-payday-2-the-diamond-heist.json"
@@ -750070,6 +750245,11 @@
       "igdb_id": 136291,
       "game_name": "PGA Tour 2K21: Deluxe Edition",
       "file": "missing/P/136291-pga-tour-2k21-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 164831,
+      "game_name": "PGA Tour 2K21: Digital Deluxe Edition",
+      "file": "missing/P/164831-pga-tour-2k21-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 214136,
@@ -827007,6 +827187,11 @@
       "file": "missing/R/198688-remnant-records.json"
     },
     {
+      "igdb_id": 164747,
+      "game_name": "Remnant: From the Ashes - Complete Edition",
+      "file": "missing/R/164747-remnant-from-the-ashes-complete-edition.json"
+    },
+    {
       "igdb_id": 134829,
       "game_name": "Remnant: From the Ashes - Subject 2923",
       "file": "missing/R/134829-remnant-from-the-ashes-subject-2923.json"
@@ -829430,6 +829615,11 @@
       "igdb_id": 122108,
       "game_name": "Resident Evil Resistance",
       "file": "missing/R/122108-resident-evil-resistance.json"
+    },
+    {
+      "igdb_id": 164826,
+      "game_name": "Resident Evil Revelations 1 & 2 Bundle",
+      "file": "missing/R/164826-resident-evil-revelations-1-and-2-bundle.json"
     },
     {
       "igdb_id": 254130,
@@ -846340,6 +846530,11 @@
       "igdb_id": 406758,
       "game_name": "Rogue Company: Second Sight Starter Pack",
       "file": "missing/R/406758-rogue-company-second-sight-starter-pack.json"
+    },
+    {
+      "igdb_id": 164751,
+      "game_name": "Rogue Company: Ultimate Edition",
+      "file": "missing/R/164751-rogue-company-ultimate-edition.json"
     },
     {
       "igdb_id": 257356,
@@ -913767,6 +913962,11 @@
       "file": "missing/S/25085-smite-tactics.json"
     },
     {
+      "igdb_id": 164843,
+      "game_name": "Smite: Digital Deluxe Edition 2021",
+      "file": "missing/S/164843-smite-digital-deluxe-edition-2021.json"
+    },
+    {
       "igdb_id": 361801,
       "game_name": "Smith & Dungeon",
       "file": "missing/S/361801-smith-and-dungeon.json"
@@ -925357,6 +925557,11 @@
       "file": "missing/S/25684-sonic-mania-collectors-edition.json"
     },
     {
+      "igdb_id": 164855,
+      "game_name": "Sonic Mania: Encore",
+      "file": "missing/S/164855-sonic-mania-encore.json"
+    },
+    {
       "igdb_id": 229527,
       "game_name": "Sonic Mars",
       "file": "missing/S/229527-sonic-mars.json"
@@ -935400,6 +935605,11 @@
       "igdb_id": 270777,
       "game_name": "Space Time Ocean",
       "file": "missing/S/270777-space-time-ocean.json"
+    },
+    {
+      "igdb_id": 164763,
+      "game_name": "Space to Grow",
+      "file": "missing/S/164763-space-to-grow.json"
     },
     {
       "igdb_id": 177801,
@@ -948012,6 +948222,11 @@
       "file": "missing/S/320896-squidward-tractor.json"
     },
     {
+      "igdb_id": 164757,
+      "game_name": "Squidward's Suicide",
+      "file": "missing/S/164757-squidwards-suicide.json"
+    },
+    {
       "igdb_id": 234099,
       "game_name": "Squiggle Drop",
       "file": "missing/S/234099-squiggle-drop.json"
@@ -959107,6 +959322,11 @@
       "file": "missing/S/262305-steep-town.json"
     },
     {
+      "igdb_id": 164854,
+      "game_name": "Steep X Games: Gold Edition",
+      "file": "missing/S/164854-steep-x-games-gold-edition.json"
+    },
+    {
       "igdb_id": 53668,
       "game_name": "Steep: Gold Edition",
       "file": "missing/S/53668-steep-gold-edition.json"
@@ -968655,6 +968875,11 @@
       "igdb_id": 322447,
       "game_name": "Stunt Bike Extreme",
       "file": "missing/S/322447-stunt-bike-extreme.json"
+    },
+    {
+      "igdb_id": 164759,
+      "game_name": "Stunt Buggies",
+      "file": "missing/S/164759-stunt-buggies.json"
     },
     {
       "igdb_id": 252927,
@@ -1093747,6 +1093972,11 @@
       "file": "missing/T/152165-tom-clancys-the-division-2-year-1-pass.json"
     },
     {
+      "igdb_id": 164857,
+      "game_name": "Tom Clancy's The Division Franchise Bundle",
+      "file": "missing/T/164857-tom-clancys-the-division-franchise-bundle.json"
+    },
+    {
       "igdb_id": 53822,
       "game_name": "Tom Clancy's The Division: Gold Edition",
       "file": "missing/T/53822-tom-clancys-the-division-gold-edition.json"
@@ -1118827,6 +1119057,11 @@
       "file": "missing/T/90387-truck-driver.json"
     },
     {
+      "igdb_id": 164852,
+      "game_name": "Truck Driver + Hidden Places & Damage System DLC Bundle",
+      "file": "missing/T/164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json"
+    },
+    {
       "igdb_id": 320383,
       "game_name": "Truck Driver Go",
       "file": "missing/T/320383-truck-driver-go.json"
@@ -1128470,6 +1128705,11 @@
       "igdb_id": 90536,
       "game_name": "Ultimate Bubble Shooter",
       "file": "missing/U/90536-ultimate-bubble-shooter.json"
+    },
+    {
+      "igdb_id": 164765,
+      "game_name": "Ultimate Bumper Cars: Dodgems",
+      "file": "missing/U/164765-ultimate-bumper-cars-dodgems.json"
     },
     {
       "igdb_id": 384337,
@@ -1165117,6 +1165357,11 @@
       "file": "missing/W/156536-warrior-beneath-heaven.json"
     },
     {
+      "igdb_id": 164844,
+      "game_name": "Warrior Boy",
+      "file": "missing/W/164844-warrior-boy.json"
+    },
+    {
       "igdb_id": 412520,
       "game_name": "Warrior Cats: Clans of the Forest",
       "file": "missing/W/412520-warrior-cats-clans-of-the-forest.json"
@@ -1191440,6 +1191685,11 @@
       "igdb_id": 246781,
       "game_name": "Worms Rumble: Cats & Dogs Double Pack",
       "file": "missing/W/246781-worms-rumble-cats-and-dogs-double-pack.json"
+    },
+    {
+      "igdb_id": 164748,
+      "game_name": "Worms Rumble: Digital Deluxe Edition",
+      "file": "missing/W/164748-worms-rumble-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 301562,
