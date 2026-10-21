@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elly's Adventure | 315203 | [315203-ellys-adventure.json](./315203-ellys-adventure.json) |
+| Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
+| Enypnion | 167511 | [167511-enypnion.json](./167511-enypnion.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
 | Enzbots | 123353 | [123353-enzbots.json](./123353-enzbots.json) |
 | Eo | 211661 | [211661-eo.json](./211661-eo.json) |
