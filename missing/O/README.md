@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
 | Orbis Fractura | 368587 | [368587-orbis-fractura.json](./368587-orbis-fractura.json) |
 | Orbis Fugae | 129613 | [129613-orbis-fugae.json](./129613-orbis-fugae.json) |
+| Orbis Sepia: The End of Worlds | 168582 | [168582-orbis-sepia-the-end-of-worlds.json](./168582-orbis-sepia-the-end-of-worlds.json) |
 | Orbisia | 197129 | [197129-orbisia.json](./197129-orbisia.json) |
 | Orbit | 237266 | [237266-orbit.json](./237266-orbit.json) |
 | Orbit | 315019 | [315019-orbit.json](./315019-orbit.json) |
@@ -3642,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
+| Our Apartment | 168617 | [168617-our-apartment.json](./168617-our-apartment.json) |
 | Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
 | Our Baseball Club Manager Girl Was Framed in a Bunk Bed so I Banged Her | 83220 | [83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json](./83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json) |
