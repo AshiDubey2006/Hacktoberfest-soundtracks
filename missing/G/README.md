@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelli Fields | 292394 | [292394-gelli-fields.json](./292394-gelli-fields.json) |
 | Gelluloid Domination | 330758 | [330758-gelluloid-domination.json](./330758-gelluloid-domination.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
+| Gelly Break Deluxe | 164317 | [164317-gelly-break-deluxe.json](./164317-gelly-break-deluxe.json) |
 | Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
 | Gelocity Time Trial | 416792 | [416792-gelocity-time-trial.json](./416792-gelocity-time-trial.json) |
 | Gem | 265126 | [265126-gem.json](./265126-gem.json) |
