@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T16:51:49.088Z",
-  "total_missing": 243018,
+  "generated_at": "2026-10-21T17:09:55.997Z",
+  "total_missing": 243069,
   "games": [
     {
       "igdb_id": 191680,
@@ -4750,6 +4750,11 @@
       "igdb_id": 34000,
       "game_name": "1775: Rebellion",
       "file": "missing/0-9/34000-1775-rebellion.json"
+    },
+    {
+      "igdb_id": 168108,
+      "game_name": "1775: Rebellion - Southern Theatre Scenario",
+      "file": "missing/0-9/168108-1775-rebellion-southern-theatre-scenario.json"
     },
     {
       "igdb_id": 63378,
@@ -26995,6 +27000,11 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
+    },
+    {
+      "igdb_id": 342233,
+      "game_name": "Adventures In Time & Space",
+      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -86442,11 +86452,6 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
-      "igdb_id": 221410,
-      "game_name": "Bad Piggies HD",
-      "file": "missing/B/221410-bad-piggies-hd.json"
-    },
-    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -108120,6 +108125,11 @@
       "igdb_id": 374169,
       "game_name": "Berrywitched! The Harvest",
       "file": "missing/B/374169-berrywitched-the-harvest.json"
+    },
+    {
+      "igdb_id": 168104,
+      "game_name": "Berserk and the Band of the Hawk: Additional Scenario Set",
+      "file": "missing/B/168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json"
     },
     {
       "igdb_id": 224121,
@@ -202872,6 +202882,11 @@
       "file": "missing/C/145682-company-of-heroes-2-complete-collection.json"
     },
     {
+      "igdb_id": 168086,
+      "game_name": "Company of Heroes 2: German Commander - Lightning War Doctrine",
+      "file": "missing/C/168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json"
+    },
+    {
       "igdb_id": 168294,
       "game_name": "Company of Heroes 2: German Commander - Spearhead Doctrine",
       "file": "missing/C/168294-company-of-heroes-2-german-commander-spearhead-doctrine.json"
@@ -212815,6 +212830,11 @@
       "igdb_id": 165003,
       "game_name": "Covid-19: Corona Clicker",
       "file": "missing/C/165003-covid-19-corona-clicker.json"
+    },
+    {
+      "igdb_id": 168085,
+      "game_name": "Covid: Survive the PlanDemic",
+      "file": "missing/C/168085-covid-survive-the-plandemic.json"
     },
     {
       "igdb_id": 285531,
@@ -325210,6 +325230,11 @@
       "igdb_id": 154377,
       "game_name": "Escape",
       "file": "missing/E/154377-escape.json"
+    },
+    {
+      "igdb_id": 168071,
+      "game_name": "Escape",
+      "file": "missing/E/168071-escape.json"
     },
     {
       "igdb_id": 175910,
@@ -538847,11 +538872,6 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
-      "igdb_id": 219820,
-      "game_name": "Kimi mo vtuber ni Naranai?",
-      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
-    },
-    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -547347,9 +547367,24 @@
       "file": "missing/K/253306-koi-zen-opposite-colors.json"
     },
     {
+      "igdb_id": 168065,
+      "game_name": "Koi-Koi Japan: Hana-Awase Rule",
+      "file": "missing/K/168065-koi-koi-japan-hana-awase-rule.json"
+    },
+    {
       "igdb_id": 53261,
       "game_name": "Koi-Koi Japan: Ukiyoe Deluxe Edition",
       "file": "missing/K/53261-koi-koi-japan-ukiyoe-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 168066,
+      "game_name": "Koi-Koi Japan: Ukiyoe Tours Vol.2",
+      "file": "missing/K/168066-koi-koi-japan-ukiyoe-tours-vol-2.json"
+    },
+    {
+      "igdb_id": 168064,
+      "game_name": "Koi-Koi Japan: Ukiyoe Tours Vol.3",
+      "file": "missing/K/168064-koi-koi-japan-ukiyoe-tours-vol-3.json"
     },
     {
       "igdb_id": 58571,
@@ -577837,6 +577872,11 @@
       "file": "missing/L/287166-lo-fi-haiku-coffee-and-chill.json"
     },
     {
+      "igdb_id": 168075,
+      "game_name": "Lo-fi Life",
+      "file": "missing/L/168075-lo-fi-life.json"
+    },
+    {
       "igdb_id": 369199,
       "game_name": "Lo-Friction",
       "file": "missing/L/369199-lo-friction.json"
@@ -582925,6 +582965,11 @@
       "igdb_id": 263225,
       "game_name": "Lost Castle 2",
       "file": "missing/L/263225-lost-castle-2.json"
+    },
+    {
+      "igdb_id": 168060,
+      "game_name": "Lost Castle: The Old Ones Awaken",
+      "file": "missing/L/168060-lost-castle-the-old-ones-awaken.json"
     },
     {
       "igdb_id": 300766,
@@ -625487,6 +625532,31 @@
       "file": "missing/M/417340-memory-card-flip.json"
     },
     {
+      "igdb_id": 168080,
+      "game_name": "Memory Card Monsters: Expanded Content 3",
+      "file": "missing/M/168080-memory-card-monsters-expanded-content-3.json"
+    },
+    {
+      "igdb_id": 168078,
+      "game_name": "Memory Card Monsters: Expanded Content 4",
+      "file": "missing/M/168078-memory-card-monsters-expanded-content-4.json"
+    },
+    {
+      "igdb_id": 168077,
+      "game_name": "Memory Card Monsters: Expanded Content 5",
+      "file": "missing/M/168077-memory-card-monsters-expanded-content-5.json"
+    },
+    {
+      "igdb_id": 168079,
+      "game_name": "Memory Card Monsters: Expanded Content 6",
+      "file": "missing/M/168079-memory-card-monsters-expanded-content-6.json"
+    },
+    {
+      "igdb_id": 168081,
+      "game_name": "Memory Card Monsters: Expanded Content 7",
+      "file": "missing/M/168081-memory-card-monsters-expanded-content-7.json"
+    },
+    {
       "igdb_id": 89676,
       "game_name": "Memory Challenge!",
       "file": "missing/M/89676-memory-challenge.json"
@@ -641867,6 +641937,11 @@
       "file": "missing/M/223531-minipoly-io.json"
     },
     {
+      "igdb_id": 168076,
+      "game_name": "MiniRacer",
+      "file": "missing/M/168076-miniracer.json"
+    },
+    {
       "igdb_id": 151834,
       "game_name": "MiniRacingOnline",
       "file": "missing/M/151834-miniracingonline.json"
@@ -650610,6 +650685,11 @@
       "igdb_id": 298108,
       "game_name": "Monolit",
       "file": "missing/M/298108-monolit.json"
+    },
+    {
+      "igdb_id": 168101,
+      "game_name": "Monolith",
+      "file": "missing/M/168101-monolith.json"
     },
     {
       "igdb_id": 154570,
@@ -669485,6 +669565,16 @@
       "igdb_id": 370471,
       "game_name": "My Femboy Maid",
       "file": "missing/M/370471-my-femboy-maid.json"
+    },
+    {
+      "igdb_id": 168069,
+      "game_name": "My Fight: EeOneGuy",
+      "file": "missing/M/168069-my-fight-eeoneguy.json"
+    },
+    {
+      "igdb_id": 168068,
+      "game_name": "My Fight: Mariana Ro",
+      "file": "missing/M/168068-my-fight-mariana-ro.json"
     },
     {
       "igdb_id": 336483,
@@ -689067,6 +689157,11 @@
       "file": "missing/N/129521-new-colony.json"
     },
     {
+      "igdb_id": 168074,
+      "game_name": "New Dawn",
+      "file": "missing/N/168074-new-dawn.json"
+    },
+    {
       "igdb_id": 25819,
       "game_name": "New Dawn",
       "file": "missing/N/25819-new-dawn.json"
@@ -700420,6 +700515,51 @@
       "igdb_id": 238618,
       "game_name": "Nobunaga's Ambition: Sphere of Influence - Ascension: Scenario Senranyamazu",
       "file": "missing/N/238618-nobunagas-ambition-sphere-of-influence-ascension-scenario-senranyamazu.json"
+    },
+    {
+      "igdb_id": 168098,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 1: Stronger Than a Alliance",
+      "file": "missing/N/168098-nobunagas-ambition-sphere-of-influence-scenario-1-stronger-than-a-alliance.json"
+    },
+    {
+      "igdb_id": 168094,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 2: God of War Descends",
+      "file": "missing/N/168094-nobunagas-ambition-sphere-of-influence-scenario-2-god-of-war-descends.json"
+    },
+    {
+      "igdb_id": 168095,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 3: Dawn of Revolution",
+      "file": "missing/N/168095-nobunagas-ambition-sphere-of-influence-scenario-3-dawn-of-revolution.json"
+    },
+    {
+      "igdb_id": 168091,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 4: Fateful Clash",
+      "file": "missing/N/168091-nobunagas-ambition-sphere-of-influence-scenario-4-fateful-clash.json"
+    },
+    {
+      "igdb_id": 168097,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 5: Battle of Nagashino",
+      "file": "missing/N/168097-nobunagas-ambition-sphere-of-influence-scenario-5-battle-of-nagashino.json"
+    },
+    {
+      "igdb_id": 168090,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 6: Battle of Itsukushima",
+      "file": "missing/N/168090-nobunagas-ambition-sphere-of-influence-scenario-6-battle-of-itsukushima.json"
+    },
+    {
+      "igdb_id": 168093,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 7: Battle of Tetorigawa",
+      "file": "missing/N/168093-nobunagas-ambition-sphere-of-influence-scenario-7-battle-of-tetorigawa.json"
+    },
+    {
+      "igdb_id": 168107,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 8: The One-eyed Dragon",
+      "file": "missing/N/168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json"
+    },
+    {
+      "igdb_id": 168092,
+      "game_name": "Nobunaga's Ambition: Sphere of Influence - Scenario 9: Shingen's Final Step",
+      "file": "missing/N/168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json"
     },
     {
       "igdb_id": 28244,
@@ -780797,6 +780937,21 @@
       "file": "missing/P/199599-power-of-metal.json"
     },
     {
+      "igdb_id": 168106,
+      "game_name": "Power & Revolution 2020 Edition: 2016 Scenarios",
+      "file": "missing/P/168106-power-and-revolution-2020-edition-2016-scenarios.json"
+    },
+    {
+      "igdb_id": 168100,
+      "game_name": "Power & Revolution 2020 Edition: 2017 Scenarios",
+      "file": "missing/P/168100-power-and-revolution-2020-edition-2017-scenarios.json"
+    },
+    {
+      "igdb_id": 168102,
+      "game_name": "Power & Revolution 2020 Edition: 2018 Scenarios",
+      "file": "missing/P/168102-power-and-revolution-2020-edition-2018-scenarios.json"
+    },
+    {
       "igdb_id": 168109,
       "game_name": "Power & Revolution 2020 Edition: 2019 Scenarios",
       "file": "missing/P/168109-power-and-revolution-2020-edition-2019-scenarios.json"
@@ -780805,6 +780960,16 @@
       "igdb_id": 116207,
       "game_name": "Power & Revolution: 2019 Edition",
       "file": "missing/P/116207-power-and-revolution-2019-edition.json"
+    },
+    {
+      "igdb_id": 168105,
+      "game_name": "Power & Revolution: 2019 Edition - 2017 Scenarios",
+      "file": "missing/P/168105-power-and-revolution-2019-edition-2017-scenarios.json"
+    },
+    {
+      "igdb_id": 168103,
+      "game_name": "Power & Revolution: 2019 Edition - 2018 Scenarios",
+      "file": "missing/P/168103-power-and-revolution-2019-edition-2018-scenarios.json"
     },
     {
       "igdb_id": 162429,
@@ -783695,6 +783860,11 @@
       "igdb_id": 170376,
       "game_name": "Pretty Girls Mahjong Solitaire: Blue",
       "file": "missing/P/170376-pretty-girls-mahjong-solitaire-blue.json"
+    },
+    {
+      "igdb_id": 168067,
+      "game_name": "Pretty Girls Mahjong Solitaire: Green",
+      "file": "missing/P/168067-pretty-girls-mahjong-solitaire-green.json"
     },
     {
       "igdb_id": 30181,
@@ -820107,6 +820277,11 @@
       "file": "missing/R/196532-reboot-the-world.json"
     },
     {
+      "igdb_id": 168058,
+      "game_name": "Reboot: Froth",
+      "file": "missing/R/168058-reboot-froth.json"
+    },
+    {
       "igdb_id": 131921,
       "game_name": "Rebop Blasters",
       "file": "missing/R/131921-rebop-blasters.json"
@@ -851945,6 +852120,11 @@
       "igdb_id": 117081,
       "game_name": "RRRR 2",
       "file": "missing/R/117081-rrrr-2.json"
+    },
+    {
+      "igdb_id": 168059,
+      "game_name": "Rrrr3",
+      "file": "missing/R/168059-rrrr3.json"
     },
     {
       "igdb_id": 339983,
@@ -901752,6 +901932,11 @@
       "file": "missing/S/177958-siren-head-dating-sim.json"
     },
     {
+      "igdb_id": 168062,
+      "game_name": "Siren Head Hentai Edition",
+      "file": "missing/S/168062-siren-head-hentai-edition.json"
+    },
+    {
       "igdb_id": 195390,
       "game_name": "Siren Head Horror Bunker VR",
       "file": "missing/S/195390-siren-head-horror-bunker-vr.json"
@@ -908680,6 +908865,11 @@
       "igdb_id": 138045,
       "game_name": "Slide Stars",
       "file": "missing/S/138045-slide-stars.json"
+    },
+    {
+      "igdb_id": 168061,
+      "game_name": "Slide Stories: Bonds & Memories",
+      "file": "missing/S/168061-slide-stories-bonds-and-memories.json"
     },
     {
       "igdb_id": 96893,
@@ -1016097,6 +1016287,11 @@
       "file": "missing/T/397056-textquests.json"
     },
     {
+      "igdb_id": 168084,
+      "game_name": "Textreme 2",
+      "file": "missing/T/168084-textreme-2.json"
+    },
+    {
       "igdb_id": 62713,
       "game_name": "Textris",
       "file": "missing/T/62713-textris.json"
@@ -1050732,6 +1050927,11 @@
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
     },
     {
+      "igdb_id": 408022,
+      "game_name": "The Name I Wear",
+      "file": "missing/T/408022-the-name-i-wear.json"
+    },
+    {
       "igdb_id": 178458,
       "game_name": "The Nameless",
       "file": "missing/T/178458-the-nameless.json"
@@ -1084920,6 +1085120,11 @@
       "igdb_id": 30407,
       "game_name": "Time Tenshi 2: Special Edition",
       "file": "missing/T/30407-time-tenshi-2-special-edition.json"
+    },
+    {
+      "igdb_id": 168070,
+      "game_name": "Time Tenshi 2: Special Edition DLC",
+      "file": "missing/T/168070-time-tenshi-2-special-edition-dlc.json"
     },
     {
       "igdb_id": 96616,
@@ -1142852,6 +1143057,11 @@
       "file": "missing/V/228907-vanguard-princess-kurumi.json"
     },
     {
+      "igdb_id": 168096,
+      "game_name": "Vanguard Princess Lilith",
+      "file": "missing/V/168096-vanguard-princess-lilith.json"
+    },
+    {
       "igdb_id": 170929,
       "game_name": "Vanguard Princess: Hilda Rize",
       "file": "missing/V/170929-vanguard-princess-hilda-rize.json"
@@ -1148125,6 +1148335,11 @@
       "igdb_id": 243623,
       "game_name": "Viking Survivors",
       "file": "missing/V/243623-viking-survivors.json"
+    },
+    {
+      "igdb_id": 168083,
+      "game_name": "Viking Trickshot: Full Game",
+      "file": "missing/V/168083-viking-trickshot-full-game.json"
     },
     {
       "igdb_id": 118779,
@@ -1154917,6 +1155132,16 @@
       "file": "missing/V/127659-vr-refuse-classification.json"
     },
     {
+      "igdb_id": 168072,
+      "game_name": "VR Regatta: The Sailing Game - Arctic",
+      "file": "missing/V/168072-vr-regatta-the-sailing-game-arctic.json"
+    },
+    {
+      "igdb_id": 168073,
+      "game_name": "VR Regatta: The Sailing Game - Lake in Japan",
+      "file": "missing/V/168073-vr-regatta-the-sailing-game-lake-in-japan.json"
+    },
+    {
       "igdb_id": 182782,
       "game_name": "VR Relaxation Space Room",
       "file": "missing/V/182782-vr-relaxation-space-room.json"
@@ -1155235,6 +1155460,11 @@
       "igdb_id": 216488,
       "game_name": "VR War Lab",
       "file": "missing/V/216488-vr-war-lab.json"
+    },
+    {
+      "igdb_id": 168082,
+      "game_name": "VR Wonderland: mini civilizations in a forest",
+      "file": "missing/V/168082-vr-wonderland-mini-civilizations-in-a-forest.json"
     },
     {
       "igdb_id": 224651,
@@ -1161365,6 +1161595,21 @@
       "igdb_id": 8383,
       "game_name": "Wargame: European Escalation",
       "file": "missing/W/8383-wargame-european-escalation.json"
+    },
+    {
+      "igdb_id": 168087,
+      "game_name": "Wargame: European Escalation - Conquest",
+      "file": "missing/W/168087-wargame-european-escalation-conquest.json"
+    },
+    {
+      "igdb_id": 168089,
+      "game_name": "Wargame: European Escalation - Fatal Error",
+      "file": "missing/W/168089-wargame-european-escalation-fatal-error.json"
+    },
+    {
+      "igdb_id": 168088,
+      "game_name": "Wargame: European Escalation - New Battlefields",
+      "file": "missing/W/168088-wargame-european-escalation-new-battlefields.json"
     },
     {
       "igdb_id": 53887,
@@ -1171380,6 +1171625,11 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
+    },
+    {
+      "igdb_id": 406738,
+      "game_name": "Wheelchair for Two",
+      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
@@ -1212995,6 +1213245,11 @@
       "igdb_id": 147267,
       "game_name": "ZombieVital DG",
       "file": "missing/Z/147267-zombievital-dg.json"
+    },
+    {
+      "igdb_id": 168063,
+      "game_name": "ZombieWave: Unlimited Challenges",
+      "file": "missing/Z/168063-zombiewave-unlimited-challenges.json"
     },
     {
       "igdb_id": 228003,
