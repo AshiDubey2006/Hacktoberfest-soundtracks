@@ -2090,6 +2090,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
+| Malzbie's Pinball Collection: Ghost House | 166022 | [166022-malzbies-pinball-collection-ghost-house.json](./166022-malzbies-pinball-collection-ghost-house.json) |
+| Malzbie's Pinball Collection: Ghouls | 166020 | [166020-malzbies-pinball-collection-ghouls.json](./166020-malzbies-pinball-collection-ghouls.json) |
+| Malzbie's Pinball Collection: Labyrinth | 166019 | [166019-malzbies-pinball-collection-labyrinth.json](./166019-malzbies-pinball-collection-labyrinth.json) |
+| Malzbie's Pinball Collection: Mud Race Table | 166018 | [166018-malzbies-pinball-collection-mud-race-table.json](./166018-malzbies-pinball-collection-mud-race-table.json) |
+| Malzbie's Pinball Collection: Playground | 166021 | [166021-malzbies-pinball-collection-playground.json](./166021-malzbies-pinball-collection-playground.json) |
+| Malzbie's Pinball Collection: Sheriff Table | 166017 | [166017-malzbies-pinball-collection-sheriff-table.json](./166017-malzbies-pinball-collection-sheriff-table.json) |
 | Malzbie's Pinball Collection: The Garden Table | 166016 | [166016-malzbies-pinball-collection-the-garden-table.json](./166016-malzbies-pinball-collection-the-garden-table.json) |
 | Mama | 403441 | [403441-mama.json](./403441-mama.json) |
 | Mama Cabra | 341167 | [341167-mama-cabra.json](./341167-mama-cabra.json) |
@@ -6902,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad | 1144 | [1144-men-of-war-assault-squad.json](./1144-men-of-war-assault-squad.json) |
+| Men of War: Assault Squad - Skirmish Pack | 165949 | [165949-men-of-war-assault-squad-skirmish-pack.json](./165949-men-of-war-assault-squad-skirmish-pack.json) |
 | Men of War: Assault Squad 2 | 5572 | [5572-men-of-war-assault-squad-2.json](./5572-men-of-war-assault-squad-2.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Cold War | 121565 | [121565-men-of-war-assault-squad-2-cold-war.json](./121565-men-of-war-assault-squad-2-cold-war.json) |
@@ -7091,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant to the Stars | 196612 | [196612-merchant-to-the-stars.json](./196612-merchant-to-the-stars.json) |
+| Merchant: Frozen Tome | 165943 | [165943-merchant-frozen-tome.json](./165943-merchant-frozen-tome.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchant's Odyssey | 270518 | [270518-merchants-odyssey.json](./270518-merchants-odyssey.json) |
 | Merchant's Rise | 393964 | [393964-merchants-rise.json](./393964-merchants-rise.json) |
@@ -10143,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
+| Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | Minotaur: The Labyrinths of Crete | 38779 | [38779-minotaur-the-labyrinths-of-crete.json](./38779-minotaur-the-labyrinths-of-crete.json) |
