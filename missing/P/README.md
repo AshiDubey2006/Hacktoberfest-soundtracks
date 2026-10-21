@@ -4439,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photos with Mario | 61573 | [61573-photos-with-mario.json](./61573-photos-with-mario.json) |
 | PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
+| PhotoWorld: Smooth Corners | 163799 | [163799-photoworld-smooth-corners.json](./163799-photoworld-smooth-corners.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
 | Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
