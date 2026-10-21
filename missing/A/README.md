@@ -13217,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
 | Automobilista: Donington Park | 171082 | [171082-automobilista-donington-park.json](./171082-automobilista-donington-park.json) |
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
+| Automobilista: Legendary Tracks Part 1 - Imola | 170745 | [170745-automobilista-legendary-tracks-part-1-imola.json](./170745-automobilista-legendary-tracks-part-1-imola.json) |
 | Automobilista: Legendary Tracks Part 2 - Adelaide | 156078 | [156078-automobilista-legendary-tracks-part-2-adelaide.json](./156078-automobilista-legendary-tracks-part-2-adelaide.json) |
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
