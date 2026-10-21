@@ -5169,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock's Quest | 46557 | [46557-locks-quest.json](./46557-locks-quest.json) |
 | Lockdown | 286791 | [286791-lockdown.json](./286791-lockdown.json) |
 | LockDown | 225705 | [225705-lockdown.json](./225705-lockdown.json) |
+| Lockdown Hero | 167514 | [167514-lockdown-hero.json](./167514-lockdown-hero.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
