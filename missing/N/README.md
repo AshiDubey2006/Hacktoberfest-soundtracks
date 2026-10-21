@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
+| Neon GraVel | 167544 | [167544-neon-gravel.json](./167544-neon-gravel.json) |
 | Neon Grid | 392205 | [392205-neon-grid.json](./392205-neon-grid.json) |
 | Neon Grid Defenders | 297887 | [297887-neon-grid-defenders.json](./297887-neon-grid-defenders.json) |
 | Neon Hardcore | 51586 | [51586-neon-hardcore.json](./51586-neon-hardcore.json) |
