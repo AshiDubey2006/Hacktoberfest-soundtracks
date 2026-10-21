@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
 | Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
+| Random Raiders | 169639 | [169639-random-raiders.json](./169639-random-raiders.json) |
 | Random Rooms | 86761 | [86761-random-rooms.json](./86761-random-rooms.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
@@ -3625,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relapse | 342849 | [342849-relapse.json](./342849-relapse.json) |
 | Relapse | 376100 | [376100-relapse.json](./376100-relapse.json) |
 | Relapse | 58908 | [58908-relapse.json](./58908-relapse.json) |
+| Relash | 169647 | [169647-relash.json](./169647-relash.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relation Killer | 224645 | [224645-relation-killer.json](./224645-relation-killer.json) |
 | Relative Frame | 382932 | [382932-relative-frame.json](./382932-relative-frame.json) |
