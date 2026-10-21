@@ -2763,7 +2763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3331,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
+| AgarZ | 165455 | [165455-agarz.json](./165455-agarz.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
 | Agatha Christie Hidden Object Collection | 198087 | [198087-agatha-christie-hidden-object-collection.json](./198087-agatha-christie-hidden-object-collection.json) |
@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
 | Alcoholic Daddy | 337054 | [337054-alcoholic-daddy.json](./337054-alcoholic-daddy.json) |
 | AlcremieStudio | 319561 | [319561-alcremiestudio.json](./319561-alcremiestudio.json) |
+| Alcúdia | 165367 | [165367-alcudia.json](./165367-alcudia.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
@@ -6474,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Western Star 49X | 288633 | [288633-american-truck-simulator-western-star-49x.json](./288633-american-truck-simulator-western-star-49x.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
+| American Truck Simulator: Wyoming | 165379 | [165379-american-truck-simulator-wyoming.json](./165379-american-truck-simulator-wyoming.json) |
 | American Truck Traffic Racer: Highway Racing | 133816 | [133816-american-truck-traffic-racer-highway-racing.json](./133816-american-truck-traffic-racer-highway-racing.json) |
 | American Trucker: The Simulation | 52581 | [52581-american-trucker-the-simulation.json](./52581-american-trucker-the-simulation.json) |
 | American University Life | 105752 | [105752-american-university-life.json](./105752-american-university-life.json) |
@@ -12750,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atrio: The Dark Wild | 121637 | [121637-atrio-the-dark-wild.json](./121637-atrio-the-dark-wild.json) |
 | Atrion Project | 261732 | [261732-atrion-project.json](./261732-atrion-project.json) |
+| Atrium Invasion | 165360 | [165360-atrium-invasion.json](./165360-atrium-invasion.json) |
 | Atrium Malum | 212173 | [212173-atrium-malum.json](./212173-atrium-malum.json) |
 | Atrium Mortis | 372500 | [372500-atrium-mortis.json](./372500-atrium-mortis.json) |
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
@@ -12824,6 +12827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Moe H | 98503 | [98503-attack-on-moe-h.json](./98503-attack-on-moe-h.json) |
 | Attack on Mutation Station | 307118 | [307118-attack-on-mutation-station.json](./307118-attack-on-mutation-station.json) |
 | Attack on Pearl Harbor | 21520 | [21520-attack-on-pearl-harbor.json](./21520-attack-on-pearl-harbor.json) |
+| Attack on Quest | 165462 | [165462-attack-on-quest.json](./165462-attack-on-quest.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Steel | 346228 | [346228-attack-on-steel.json](./346228-attack-on-steel.json) |
 | Attack on Survey Cops | 312819 | [312819-attack-on-survey-cops.json](./312819-attack-on-survey-cops.json) |
