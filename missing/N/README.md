@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Citizen | 224690 | [224690-new-citizen.json](./224690-new-citizen.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
+| New Dawn | 168074 | [168074-new-dawn.json](./168074-new-dawn.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Dawn Protocol | 416562 | [416562-new-dawn-protocol.json](./416562-new-dawn-protocol.json) |
 | New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
@@ -4765,6 +4766,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Souzou with Power Up Kit - Shokutokudoumei Scenario | 150666 | [150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json](./150666-nobunagas-ambition-souzou-with-power-up-kit-shokutokudoumei-scenario.json) |
 | Nobunaga's Ambition: Sphere of Influence | 10996 | [10996-nobunagas-ambition-sphere-of-influence.json](./10996-nobunagas-ambition-sphere-of-influence.json) |
 | Nobunaga's Ambition: Sphere of Influence - Ascension: Scenario Senranyamazu | 238618 | [238618-nobunagas-ambition-sphere-of-influence-ascension-scenario-senranyamazu.json](./238618-nobunagas-ambition-sphere-of-influence-ascension-scenario-senranyamazu.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 1: Stronger Than a Alliance | 168098 | [168098-nobunagas-ambition-sphere-of-influence-scenario-1-stronger-than-a-alliance.json](./168098-nobunagas-ambition-sphere-of-influence-scenario-1-stronger-than-a-alliance.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 2: God of War Descends | 168094 | [168094-nobunagas-ambition-sphere-of-influence-scenario-2-god-of-war-descends.json](./168094-nobunagas-ambition-sphere-of-influence-scenario-2-god-of-war-descends.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 3: Dawn of Revolution | 168095 | [168095-nobunagas-ambition-sphere-of-influence-scenario-3-dawn-of-revolution.json](./168095-nobunagas-ambition-sphere-of-influence-scenario-3-dawn-of-revolution.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 4: Fateful Clash | 168091 | [168091-nobunagas-ambition-sphere-of-influence-scenario-4-fateful-clash.json](./168091-nobunagas-ambition-sphere-of-influence-scenario-4-fateful-clash.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 5: Battle of Nagashino | 168097 | [168097-nobunagas-ambition-sphere-of-influence-scenario-5-battle-of-nagashino.json](./168097-nobunagas-ambition-sphere-of-influence-scenario-5-battle-of-nagashino.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 6: Battle of Itsukushima | 168090 | [168090-nobunagas-ambition-sphere-of-influence-scenario-6-battle-of-itsukushima.json](./168090-nobunagas-ambition-sphere-of-influence-scenario-6-battle-of-itsukushima.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 7: Battle of Tetorigawa | 168093 | [168093-nobunagas-ambition-sphere-of-influence-scenario-7-battle-of-tetorigawa.json](./168093-nobunagas-ambition-sphere-of-influence-scenario-7-battle-of-tetorigawa.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 8: The One-eyed Dragon | 168107 | [168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json](./168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json) |
+| Nobunaga's Ambition: Sphere of Influence - Scenario 9: Shingen's Final Step | 168092 | [168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json](./168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json) |
 | Nobunaga's Ambition: Taishi | 28244 | [28244-nobunagas-ambition-taishi.json](./28244-nobunagas-ambition-taishi.json) |
 | Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario | 150673 | [150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json](./150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json) |
 | Nobunaga's Ambition: Taishi - Mount Tennozan Scenario | 150670 | [150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json](./150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json) |
