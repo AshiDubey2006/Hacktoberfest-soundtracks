@@ -22383,6 +22383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Hive II: Crimson Moon | 308483 | [308483-suburban-hive-ii-crimson-moon.json](./308483-suburban-hive-ii-crimson-moon.json) |
 | Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
 | Suburbia | 273232 | [273232-suburbia.json](./273232-suburbia.json) |
+| Suburi | 163710 | [163710-suburi.json](./163710-suburi.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion | 79125 | [79125-subversion.json](./79125-subversion.json) |
@@ -26900,6 +26901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
 | Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
+| Sweet House Love | 163797 | [163797-sweet-house-love.json](./163797-sweet-house-love.json) |
 | Sweet Hunt | 339455 | [339455-sweet-hunt.json](./339455-sweet-hunt.json) |
 | Sweet Ice-Cream | 339454 | [339454-sweet-ice-cream.json](./339454-sweet-ice-cream.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
