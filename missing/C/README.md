@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
 | Cartacombs | 114858 | [114858-cartacombs.json](./114858-cartacombs.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
+| Cartagra: Tamashii no Kunou | 166451 | [166451-cartagra-tamashii-no-kunou.json](./166451-cartagra-tamashii-no-kunou.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Cartas contra tugas | 343036 | [343036-cartas-contra-tugas.json](./343036-cartas-contra-tugas.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch-22 | 94163 | [94163-catch-22.json](./94163-catch-22.json) |
+| Catch! Kimochi Sensation | 166561 | [166561-catch-kimochi-sensation.json](./166561-catch-kimochi-sensation.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
@@ -14137,6 +14139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
+| Crypto Cars World | 166476 | [166476-crypto-cars-world.json](./166476-crypto-cars-world.json) |
 | Crypto Clicker | 391693 | [391693-crypto-clicker.json](./391693-crypto-clicker.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
