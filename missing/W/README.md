@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wings VR | 30162 | [30162-wacky-wings-vr.json](./30162-wacky-wings-vr.json) |
+| Wacky Wizarding Dungeon | 169653 | [169653-wacky-wizarding-dungeon.json](./169653-wacky-wizarding-dungeon.json) |
 | Wacky Wonderland Wollop: A 3D Platformer for the Ages Game of the Year All Time: The Game | 259149 | [259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json](./259149-wacky-wonderland-wollop-a-3d-platformer-for-the-ages-game-of-the-year-all-time-the-game.json) |
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
@@ -7290,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
+| WWR: World of Warfare Robots | 169628 | [169628-wwr-world-of-warfare-robots.json](./169628-wwr-world-of-warfare-robots.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | wxSand | 146671 | [146671-wxsand.json](./146671-wxsand.json) |
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
