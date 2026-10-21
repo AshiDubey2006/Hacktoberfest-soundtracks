@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out of My Store! | 268512 | [268512-get-out-of-my-store.json](./268512-get-out-of-my-store.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
+| Get Out! | 163708 | [163708-get-out.json](./163708-get-out.json) |
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
@@ -7683,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
 | Guardian of the Water Altar | 379183 | [379183-guardian-of-the-water-altar.json](./379183-guardian-of-the-water-altar.json) |
+| Guardian of Warcraft | 163770 | [163770-guardian-of-warcraft.json](./163770-guardian-of-warcraft.json) |
 | Guardian Prelude | 104580 | [104580-guardian-prelude.json](./104580-guardian-prelude.json) |
 | Guardian Project | 196539 | [196539-guardian-project.json](./196539-guardian-project.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
