@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticon | 189368 | [189368-galacticon.json](./189368-galacticon.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
+| Galactigun | 169128 | [169128-galactigun.json](./169128-galactigun.json) |
 | Galactineers | 33920 | [33920-galactineers.json](./33920-galactineers.json) |
 | Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
+| Ghost Marriage Matchmaking | 169112 | [169112-ghost-marriage-matchmaking.json](./169112-ghost-marriage-matchmaking.json) |
 | Ghost Master | 726 | [726-ghost-master.json](./726-ghost-master.json) |
 | Ghost Master: Complete Edition | 290310 | [290310-ghost-master-complete-edition.json](./290310-ghost-master-complete-edition.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
@@ -3531,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' Last Tour: Book Burning Simulator | 150558 | [150558-girls-last-tour-book-burning-simulator.json](./150558-girls-last-tour-book-burning-simulator.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
+| Girlvania: Summer Lust | 169127 | [169127-girlvania-summer-lust.json](./169127-girlvania-summer-lust.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
 | Girthbound | 389522 | [389522-girthbound.json](./389522-girthbound.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
@@ -6619,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Journey: Mr. Penguin's Letter | 63766 | [63766-great-journey-mr-penguins-letter.json](./63766-great-journey-mr-penguins-letter.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
+| Great Marble Adventure | 169109 | [169109-great-marble-adventure.json](./169109-great-marble-adventure.json) |
 | Great Mountain Experience | 102336 | [102336-great-mountain-experience.json](./102336-great-mountain-experience.json) |
 | Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
