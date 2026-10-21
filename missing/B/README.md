@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
+| Banality Wars Carridin | 167538 | [167538-banality-wars-carridin.json](./167538-banality-wars-carridin.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
 | Banan's Peel Out | 422155 | [422155-banans-peel-out.json](./422155-banans-peel-out.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
@@ -13162,6 +13163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
+| Bullet Shot | 167525 | [167525-bullet-shot.json](./167525-bullet-shot.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
 | Bullet Sorrow VR | 28172 | [28172-bullet-sorrow-vr.json](./28172-bullet-sorrow-vr.json) |
 | Bullet Soul | 27677 | [27677-bullet-soul.json](./27677-bullet-soul.json) |
