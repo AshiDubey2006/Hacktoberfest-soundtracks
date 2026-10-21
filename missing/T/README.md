@@ -10924,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -18844,6 +18845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu Pudding Simulator | 114871 | [114871-tofu-pudding-simulator.json](./114871-tofu-pudding-simulator.json) |
 | Tofu Run: Remastered | 350364 | [350364-tofu-run-remastered.json](./350364-tofu-run-remastered.json) |
 | Tofu Topple | 143379 | [143379-tofu-topple.json](./143379-tofu-topple.json) |
+| Tofu Tower | 164296 | [164296-tofu-tower.json](./164296-tofu-tower.json) |
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
@@ -19001,6 +19003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
+| Tokyo Afterschool Summoners | 164311 | [164311-tokyo-afterschool-summoners.json](./164311-tokyo-afterschool-summoners.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Babel | 11653 | [11653-tokyo-babel.json](./11653-tokyo-babel.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
@@ -19066,6 +19069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tokyo Rogue | 153977 | [153977-tokyo-rogue.json](./153977-tokyo-rogue.json) |
+| Tokyo Run | 164308 | [164308-tokyo-run.json](./164308-tokyo-run.json) |
 | Tokyo Satsujinki Gakkou no Kaidan | 321824 | [321824-tokyo-satsujinki-gakkou-no-kaidan.json](./321824-tokyo-satsujinki-gakkou-no-kaidan.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
