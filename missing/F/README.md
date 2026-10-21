@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
 | Fantasy Telemarketer | 397410 | [397410-fantasy-telemarketer.json](./397410-fantasy-telemarketer.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
+| Fantasy Tennis 2 | 166465 | [166465-fantasy-tennis-2.json](./166465-fantasy-tennis-2.json) |
 | Fantasy Three Kingdoms and Eight Formations | 273760 | [273760-fantasy-three-kingdoms-and-eight-formations.json](./273760-fantasy-three-kingdoms-and-eight-formations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
 | Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, We See Each Other for the Last Time..... | 348983 | [348983-farewell-we-see-each-other-for-the-last-time.json](./348983-farewell-we-see-each-other-for-the-last-time.json) |
 | Farewells | 217288 | [217288-farewells.json](./217288-farewells.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
+| Farfalle OS | 166456 | [166456-farfalle-os.json](./166456-farfalle-os.json) |
 | Fargone | 228935 | [228935-fargone.json](./228935-fargone.json) |
 | Farhaven | 421181 | [421181-farhaven.json](./421181-farhaven.json) |
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
@@ -3039,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | Feral Rites | 23955 | [23955-feral-rites.json](./23955-feral-rites.json) |
+| FeralHeart | 166478 | [166478-feralheart.json](./166478-feralheart.json) |
 | FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
@@ -3661,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiil Mark 37 | 183246 | [183246-fiil-mark-37.json](./183246-fiil-mark-37.json) |
 | FIL | 160096 | [160096-fil.json](./160096-fil.json) |
 | Fila Decathlon | 62641 | [62641-fila-decathlon.json](./62641-fila-decathlon.json) |
+| FILA World Tour Tennis | 166490 | [166490-fila-world-tour-tennis.json](./166490-fila-world-tour-tennis.json) |
 | Filament | 121885 | [121885-filament.json](./121885-filament.json) |
 | Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
