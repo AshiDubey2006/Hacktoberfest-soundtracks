@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe | 314414 | [314414-giraffe.json](./314414-giraffe.json) |
 | Giraffe and Annika | 101220 | [101220-giraffe-and-annika.json](./101220-giraffe-and-annika.json) |
+| Giraffe and Annika: Musical Mayhem Edition | 165956 | [165956-giraffe-and-annika-musical-mayhem-edition.json](./165956-giraffe-and-annika-musical-mayhem-edition.json) |
 | Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo | 87138 | [87138-giraffes-matching-zoo.json](./87138-giraffes-matching-zoo.json) |
