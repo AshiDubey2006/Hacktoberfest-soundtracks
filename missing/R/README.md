@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reboot My Heart | 368900 | [368900-reboot-my-heart.json](./368900-reboot-my-heart.json) |
 | Reboot the World | 196532 | [196532-reboot-the-world.json](./196532-reboot-the-world.json) |
+| Reboot: Froth | 168058 | [168058-reboot-froth.json](./168058-reboot-froth.json) |
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborder | 415850 | [415850-reborder.json](./415850-reborder.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
@@ -8989,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrootage Reloaded | 187358 | [187358-rrootage-reloaded.json](./187358-rrootage-reloaded.json) |
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
+| Rrrr3 | 168059 | [168059-rrrr3.json](./168059-rrrr3.json) |
 | RrrrrAbbits | 339983 | [339983-rrrrrabbits.json](./339983-rrrrrabbits.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
