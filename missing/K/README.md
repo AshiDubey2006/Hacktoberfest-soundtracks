@@ -4572,6 +4572,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Armored Mr. Ping and Jombie Oogway | 170753 | [170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json](./170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Bao and Panda Vista | 170752 | [170752-kung-fu-panda-showdown-of-legendary-legends-bao-and-panda-vista.json](./170752-kung-fu-panda-showdown-of-legendary-legends-bao-and-panda-vista.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Jombie Porcupine and Jombie Master Croc | 170755 | [170755-kung-fu-panda-showdown-of-legendary-legends-jombie-porcupine-and-jombie-master-croc.json](./170755-kung-fu-panda-showdown-of-legendary-legends-jombie-porcupine-and-jombie-master-croc.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Kai and Master's Garden | 170754 | [170754-kung-fu-panda-showdown-of-legendary-legends-kai-and-masters-garden.json](./170754-kung-fu-panda-showdown-of-legendary-legends-kai-and-masters-garden.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Master Chicken and Li | 170751 | [170751-kung-fu-panda-showdown-of-legendary-legends-master-chicken-and-li.json](./170751-kung-fu-panda-showdown-of-legendary-legends-master-chicken-and-li.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Panda Village | 170750 | [170750-kung-fu-panda-showdown-of-legendary-legends-panda-village.json](./170750-kung-fu-panda-showdown-of-legendary-legends-panda-village.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Rhino Armor Li and Jombie Master Bear | 170758 | [170758-kung-fu-panda-showdown-of-legendary-legends-rhino-armor-li-and-jombie-master-bear.json](./170758-kung-fu-panda-showdown-of-legendary-legends-rhino-armor-li-and-jombie-master-bear.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Spirit Realm | 170757 | [170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json](./170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json) |
+| Kung Fu Panda: Showdown of Legendary Legends - Warrior Po and Jombie Master Chicken | 170756 | [170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json](./170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json) |
 | Kung Fu Rider | 16128 | [16128-kung-fu-rider.json](./16128-kung-fu-rider.json) |
 | Kung Fu Road | 62620 | [62620-kung-fu-road.json](./62620-kung-fu-road.json) |
 | Kung Fu School | 230888 | [230888-kung-fu-school.json](./230888-kung-fu-school.json) |
