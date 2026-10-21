@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
 | Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
 | Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
+| Lawless Lands: Runemaster | 165945 | [165945-lawless-lands-runemaster.json](./165945-lawless-lands-runemaster.json) |
 | Lawless Lands: Second Soul | 167713 | [167713-lawless-lands-second-soul.json](./167713-lawless-lands-second-soul.json) |
 | Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
+| Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: All in One | 171312 | [171312-love-colors-all-in-one.json](./171312-love-colors-all-in-one.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
