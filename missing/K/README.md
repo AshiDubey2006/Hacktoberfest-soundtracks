@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss of Death | 313875 | [313875-kiss-of-death.json](./313875-kiss-of-death.json) |
 | Kiss of Revenge | 238413 | [238413-kiss-of-revenge.json](./238413-kiss-of-revenge.json) |
+| Kiss of War | 166461 | [166461-kiss-of-war.json](./166461-kiss-of-war.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss the Demiurge | 215593 | [215593-kiss-the-demiurge.json](./215593-kiss-the-demiurge.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kud Wafter: Converted Edition | 274649 | [274649-kud-wafter-converted-edition.json](./274649-kud-wafter-converted-edition.json) |
 | Kudamono Drop | 316780 | [316780-kudamono-drop.json](./316780-kudamono-drop.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
+| Kudaranu Mousou No | 166468 | [166468-kudaranu-mousou-no.json](./166468-kudaranu-mousou-no.json) |
 | Kudo’s Kuppa | 397866 | [397866-kudo-s-kuppa.json](./397866-kudo-s-kuppa.json) |
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
