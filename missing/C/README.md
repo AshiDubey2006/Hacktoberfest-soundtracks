@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
 | Cannonpistol | 334346 | [334346-cannonpistol.json](./334346-cannonpistol.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
+| Cannonship | 167536 | [167536-cannonship.json](./167536-cannonship.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
@@ -11246,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party: Rebuilt | 151849 | [151849-corpse-party-rebuilt.json](./151849-corpse-party-rebuilt.json) |
 | Corpse-Party: if | 413925 | [413925-corpse-party-if.json](./413925-corpse-party-if.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
+| Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpses 'N Souls | 11066 | [11066-corpses-n-souls.json](./11066-corpses-n-souls.json) |
 | Corpus et Spiritus | 389092 | [389092-corpus-et-spiritus.json](./389092-corpus-et-spiritus.json) |
