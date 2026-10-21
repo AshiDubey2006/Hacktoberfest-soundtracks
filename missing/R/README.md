@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden: 30th Anniversary | 229121 | [229121-raiden-30th-anniversary.json](./229121-raiden-30th-anniversary.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
+| Raider Bots | 167539 | [167539-raider-bots.json](./167539-raider-bots.json) |
 | Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
 | Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
 | Raider: Origin | 174682 | [174682-raider-origin.json](./174682-raider-origin.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
+| Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
