@@ -4508,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Bifröst Jötunn Skin | 316383 | [316383-hero-siege-bifrost-jotunn-skin.json](./316383-hero-siege-bifrost-jotunn-skin.json) |
 | Hero Siege: Bifröst Viking Skin | 316382 | [316382-hero-siege-bifrost-viking-skin.json](./316382-hero-siege-bifrost-viking-skin.json) |
+| Hero Siege: Class - Shield Lancer | 170734 | [170734-hero-siege-class-shield-lancer.json](./170734-hero-siege-class-shield-lancer.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
 | Hero Siege: Gates of Valhalla - Collector's Edition | 204954 | [204954-hero-siege-gates-of-valhalla-collectors-edition.json](./204954-hero-siege-gates-of-valhalla-collectors-edition.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Three Kingdoms 7 | 143522 | [143522-heroes-of-the-three-kingdoms-7.json](./143522-heroes-of-the-three-kingdoms-7.json) |
 | Heroes of the Triangle: Mask Rush | 402417 | [402417-heroes-of-the-triangle-mask-rush.json](./402417-heroes-of-the-triangle-mask-rush.json) |
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
+| Heroes of Three Kingdoms | 170770 | [170770-heroes-of-three-kingdoms.json](./170770-heroes-of-three-kingdoms.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
 | Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
@@ -8677,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive the Night shift | 295870 | [295870-how-to-survive-the-night-shift.json](./295870-how-to-survive-the-night-shift.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: El Diablo Islands - Host | 172087 | [172087-how-to-survive-el-diablo-islands-host.json](./172087-how-to-survive-el-diablo-islands-host.json) |
+| How to Survive: Heat Wave - Jack's pack | 170744 | [170744-how-to-survive-heat-wave-jacks-pack.json](./170744-how-to-survive-heat-wave-jacks-pack.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
