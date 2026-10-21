@@ -5951,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
+| Lords of the Fallen: Complete Edition | 166990 | [166990-lords-of-the-fallen-complete-edition.json](./166990-lords-of-the-fallen-complete-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
 | Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
@@ -6854,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | Lovecraft's Untold Stories 2 | 172449 | [172449-lovecrafts-untold-stories-2.json](./172449-lovecrafts-untold-stories-2.json) |
+| Lovecraft's Untold Stories: Collector's Edition | 166999 | [166999-lovecrafts-untold-stories-collectors-edition.json](./166999-lovecrafts-untold-stories-collectors-edition.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
 | Loved | 57559 | [57559-loved.json](./57559-loved.json) |
