@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
 | 2048 Card Game | 235229 | [235229-2048-card-game.json](./235229-2048-card-game.json) |
 | 2048 Cat | 147264 | [147264-2048-cat.json](./147264-2048-cat.json) |
+| 2048 Colorful | 164304 | [164304-2048-colorful.json](./164304-2048-colorful.json) |
 | 2048 Farmer in the Dell | 221231 | [221231-2048-farmer-in-the-dell.json](./221231-2048-farmer-in-the-dell.json) |
 | 2048 for Playdate | 341927 | [341927-2048-for-playdate.json](./341927-2048-for-playdate.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
+| 23 Seconds to 5 | 164309 | [164309-23-seconds-to-5.json](./164309-23-seconds-to-5.json) |
 | 2310 seconds in Hell | 189954 | [189954-2310-seconds-in-hell.json](./189954-2310-seconds-in-hell.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 24 | 283078 | [283078-24.json](./283078-24.json) |
