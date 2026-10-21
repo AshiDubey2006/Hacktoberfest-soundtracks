@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
 | Zlatogorye 2 | 19122 | [19122-zlatogorye-2.json](./19122-zlatogorye-2.json) |
 | Zlatogorye 2: Holodnye Nebesa | 256695 | [256695-zlatogorye-2-holodnye-nebesa.json](./256695-zlatogorye-2-holodnye-nebesa.json) |
+| Zleepy | 163712 | [163712-zleepy.json](./163712-zleepy.json) |
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
