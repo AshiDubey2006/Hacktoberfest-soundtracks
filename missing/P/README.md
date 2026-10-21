@@ -11538,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2018 Lite | 86384 | [86384-pro-evolution-soccer-2018-lite.json](./86384-pro-evolution-soccer-2018-lite.json) |
+| Pro Evolution Soccer 2018: Legendary Edition | 166997 | [166997-pro-evolution-soccer-2018-legendary-edition.json](./166997-pro-evolution-soccer-2018-legendary-edition.json) |
 | Pro Evolution Soccer 2019 | 100359 | [100359-pro-evolution-soccer-2019.json](./100359-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
