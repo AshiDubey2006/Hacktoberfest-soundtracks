@@ -5587,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
+| The Christmas Spirit: Journey Before Christmas - Collector's Edition | 170211 | [170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json](./170211-the-christmas-spirit-journey-before-christmas-collectors-edition.json) |
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
 | The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
 | The Chronic | 273251 | [273251-the-chronic.json](./273251-the-chronic.json) |
@@ -14678,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch Veils: The Mansion | 288622 | [288622-the-witch-veils-the-mansion.json](./288622-the-witch-veils-the-mansion.json) |
 | The Witch-in-Training and the Magic Seal | 191619 | [191619-the-witch-in-training-and-the-magic-seal.json](./191619-the-witch-in-training-and-the-magic-seal.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
+| The Witch's Apprentice: A Magical Mishap - Collector's Edition | 170198 | [170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json](./170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json) |
 | The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
@@ -19939,6 +19941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado! | 118297 | [118297-tornado.json](./118297-tornado.json) |
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
+| Tornuffalo: Full-Body Action with Vive Trackers | 170191 | [170191-tornuffalo-full-body-action-with-vive-trackers.json](./170191-tornuffalo-full-body-action-with-vive-trackers.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
 | Toro | 34099 | [34099-toro.json](./34099-toro.json) |
 | Toro to Kyuujitsu | 178328 | [178328-toro-to-kyuujitsu.json](./178328-toro-to-kyuujitsu.json) |
@@ -25336,6 +25339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Legend | 400098 | [400098-twin-legend.json](./400098-twin-legend.json) |
+| Twin Mind: Murderous Jealousy - Collector's Edition | 170197 | [170197-twin-mind-murderous-jealousy-collectors-edition.json](./170197-twin-mind-murderous-jealousy-collectors-edition.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Mind: Nobody's Here - Collector's Edition | 226582 | [226582-twin-mind-nobodys-here-collectors-edition.json](./226582-twin-mind-nobodys-here-collectors-edition.json) |
 | Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
