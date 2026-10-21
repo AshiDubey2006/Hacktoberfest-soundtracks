@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
 | Imperishable Memories | 109564 | [109564-imperishable-memories.json](./109564-imperishable-memories.json) |
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
+| Imperium BCE | 169626 | [169626-imperium-bce.json](./169626-imperium-bce.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
@@ -3522,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside Pitch 2003 | 23697 | [23697-inside-pitch-2003.json](./23697-inside-pitch-2003.json) |
 | Inside SCP-167 | 285712 | [285712-inside-scp-167.json](./285712-inside-scp-167.json) |
+| Inside Soccer | 169649 | [169649-inside-soccer.json](./169649-inside-soccer.json) |
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
