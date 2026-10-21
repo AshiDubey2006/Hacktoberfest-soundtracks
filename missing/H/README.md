@@ -9385,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hurry Up Hedgehog! | 47855 | [47855-hurry-up-hedgehog.json](./47855-hurry-up-hedgehog.json) |
+| Hurry Up! | 167518 | [167518-hurry-up.json](./167518-hurry-up.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
 | Hush | 34988 | [34988-hush.json](./34988-hush.json) |
