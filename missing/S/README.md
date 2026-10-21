@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
+| Sand Bullets | 169094 | [169094-sand-bullets.json](./169094-sand-bullets.json) |
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
 | Sapper Robot | 211657 | [211657-sapper-robot.json](./211657-sapper-robot.json) |
+| Sapper Simulator | 169123 | [169123-sapper-simulator.json](./169123-sapper-simulator.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
@@ -4931,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
 | Sexy Breakout | 284240 | [284240-sexy-breakout.json](./284240-sexy-breakout.json) |
+| Sexy Caravan | 169099 | [169099-sexy-caravan.json](./169099-sexy-caravan.json) |
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
@@ -12237,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft Earth | 143457 | [143457-soft-earth.json](./143457-soft-earth.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
+| Soft Wind | 169092 | [169092-soft-wind.json](./169092-soft-wind.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade | 204999 | [204999-softball-breakthrough-gaming-arcade.json](./204999-softball-breakthrough-gaming-arcade.json) |
@@ -14450,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
+| Souno's Curse | 169130 | [169130-sounos-curse.json](./169130-sounos-curse.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
@@ -14759,6 +14764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
+| Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
@@ -22409,6 +22415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Throne | 385254 | [385254-succubus-throne.json](./385254-succubus-throne.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
+| Succubus With Guns | 169098 | [169098-succubus-with-guns.json](./169098-succubus-with-guns.json) |
 | Succubus With Guns: Campaign "Winding Path" | 291683 | [291683-succubus-with-guns-campaign-winding-path.json](./291683-succubus-with-guns-campaign-winding-path.json) |
 | Succubus With Guns: Costume "Joy of Succubus" | 291678 | [291678-succubus-with-guns-costume-joy-of-succubus.json](./291678-succubus-with-guns-costume-joy-of-succubus.json) |
 | Succubus x Saint | 327265 | [327265-succubus-x-saint.json](./327265-succubus-x-saint.json) |
@@ -26991,6 +26998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swim4Swim | 410280 | [410280-swim4swim.json](./410280-swim4swim.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
+| Swimmer Admiration | 169093 | [169093-swimmer-admiration.json](./169093-swimmer-admiration.json) |
 | Swimmer Away | 347354 | [347354-swimmer-away.json](./347354-swimmer-away.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
 | Swimming Pool Cleaner | 219561 | [219561-swimming-pool-cleaner.json](./219561-swimming-pool-cleaner.json) |
