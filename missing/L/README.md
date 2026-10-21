@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights | 232867 | [232867-lights.json](./232867-lights.json) |
 | Lights | 314009 | [314009-lights.json](./314009-lights.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
+| Lights Camera Slaughter | 169102 | [169102-lights-camera-slaughter.json](./169102-lights-camera-slaughter.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
@@ -7696,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
 | Lust Theory 3 | 384754 | [384754-lust-theory-3.json](./384754-lust-theory-3.json) |
 | Lust Trip | 213477 | [213477-lust-trip.json](./213477-lust-trip.json) |
+| Lust Vessel | 169104 | [169104-lust-vessel.json](./169104-lust-vessel.json) |
 | Lust's Cupid | 258824 | [258824-lusts-cupid.json](./258824-lusts-cupid.json) |
 | Luster | 368107 | [368107-luster.json](./368107-luster.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
