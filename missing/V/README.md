@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Princess Kurumi | 228907 | [228907-vanguard-princess-kurumi.json](./228907-vanguard-princess-kurumi.json) |
+| Vanguard Princess Lilith | 168096 | [168096-vanguard-princess-lilith.json](./168096-vanguard-princess-lilith.json) |
 | Vanguard Princess: Hilda Rize | 170929 | [170929-vanguard-princess-hilda-rize.json](./170929-vanguard-princess-hilda-rize.json) |
 | Vanguard Princess: Online Deluxe | 168167 | [168167-vanguard-princess-online-deluxe.json](./168167-vanguard-princess-online-deluxe.json) |
 | Vanguard Run | 57345 | [57345-vanguard-run.json](./57345-vanguard-run.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
 | Viking Survival | 267259 | [267259-viking-survival.json](./267259-viking-survival.json) |
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
+| Viking Trickshot: Full Game | 168083 | [168083-viking-trickshot-full-game.json](./168083-viking-trickshot-full-game.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
@@ -3046,6 +3048,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Refuse Classification | 127659 | [127659-vr-refuse-classification.json](./127659-vr-refuse-classification.json) |
+| VR Regatta: The Sailing Game - Arctic | 168072 | [168072-vr-regatta-the-sailing-game-arctic.json](./168072-vr-regatta-the-sailing-game-arctic.json) |
+| VR Regatta: The Sailing Game - Lake in Japan | 168073 | [168073-vr-regatta-the-sailing-game-lake-in-japan.json](./168073-vr-regatta-the-sailing-game-lake-in-japan.json) |
 | VR Relaxation Space Room | 182782 | [182782-vr-relaxation-space-room.json](./182782-vr-relaxation-space-room.json) |
 | VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retreat | 31085 | [31085-vr-retreat.json](./31085-vr-retreat.json) |
@@ -3110,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Waifu: MuChan | 277843 | [277843-vr-waifu-muchan.json](./277843-vr-waifu-muchan.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
+| VR Wonderland: mini civilizations in a forest | 168082 | [168082-vr-wonderland-mini-civilizations-in-a-forest.json](./168082-vr-wonderland-mini-civilizations-in-a-forest.json) |
 | VR World of Pandas | 224651 | [224651-vr-world-of-pandas.json](./224651-vr-world-of-pandas.json) |
 | VR Zombies Survival | 395517 | [395517-vr-zombies-survival.json](./395517-vr-zombies-survival.json) |
 | VR_PlayRoom : Episode1(Escape Room - Horror) | 83805 | [83805-vr-playroom-episode1-escape-room-horror.json](./83805-vr-playroom-episode1-escape-room-horror.json) |
