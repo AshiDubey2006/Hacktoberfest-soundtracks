@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Sword: Secrets of the Eastern Sea | 341672 | [341672-wandering-sword-secrets-of-the-eastern-sea.json](./341672-wandering-sword-secrets-of-the-eastern-sea.json) |
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
+| Wandering Wolf | 165959 | [165959-wandering-wolf.json](./165959-wandering-wolf.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
 | Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
@@ -3058,7 +3059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -6080,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Bus Driving Simulator | 174613 | [174613-world-bus-driving-simulator.json](./174613-world-bus-driving-simulator.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
+| World Champions: Decathlon | 165936 | [165936-world-champions-decathlon.json](./165936-world-champions-decathlon.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
@@ -7171,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
 | WWE 2K19: New Moves | 167892 | [167892-wwe-2k19-new-moves.json](./167892-wwe-2k19-new-moves.json) |
 | WWE 2K19: Rey Mysterio & Ronda Rousey | 167891 | [167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json](./167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json) |
+| WWE 2K19: Rising Stars | 165939 | [165939-wwe-2k19-rising-stars.json](./165939-wwe-2k19-rising-stars.json) |
 | WWE 2K19: Titans Pack | 167893 | [167893-wwe-2k19-titans-pack.json](./167893-wwe-2k19-titans-pack.json) |
 | WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
