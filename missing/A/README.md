@@ -2763,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
+| Aim Academy | 167530 | [167530-aim-academy.json](./167530-aim-academy.json) |
 | Aim Assault | 316464 | [316464-aim-assault.json](./316464-aim-assault.json) |
 | Aim Beat Charm | 401762 | [401762-aim-beat-charm.json](./401762-aim-beat-charm.json) |
 | Aim Bot | 114343 | [114343-aim-bot.json](./114343-aim-bot.json) |
@@ -5198,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
 | Alien: Rogue Incursion Evolved Edition | 342923 | [342923-alien-rogue-incursion-evolved-edition.json](./342923-alien-rogue-incursion-evolved-edition.json) |
+| Alien's Armageddon | 167524 | [167524-aliens-armageddon.json](./167524-aliens-armageddon.json) |
 | Alien's Egg | 237427 | [237427-aliens-egg.json](./237427-aliens-egg.json) |
 | Alien's Return | 11237 | [11237-aliens-return.json](./11237-aliens-return.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
@@ -10244,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Ari's Delivery Palooza | 401185 | [401185-aris-delivery-palooza.json](./401185-aris-delivery-palooza.json) |
+| Ari's Journey | 167529 | [167529-aris-journey.json](./167529-aris-journey.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria | 263905 | [263905-aria.json](./263905-aria.json) |
 | Aria | 305379 | [305379-aria.json](./305379-aria.json) |
@@ -11107,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
+| As Dark as Night | 167543 | [167543-as-dark-as-night.json](./167543-as-dark-as-night.json) |
 | As Dusk Falls | 135995 | [135995-as-dusk-falls.json](./135995-as-dusk-falls.json) |
 | As Dusk Falls: Special Edition | 324757 | [324757-as-dusk-falls-special-edition.json](./324757-as-dusk-falls-special-edition.json) |
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
@@ -12190,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronimo | 237413 | [237413-astronimo.json](./237413-astronimo.json) |
 | Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
+| Astronium | 167542 | [167542-astronium.json](./167542-astronium.json) |
 | AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
 | Astronomia | 158092 | [158092-astronomia.json](./158092-astronomia.json) |
