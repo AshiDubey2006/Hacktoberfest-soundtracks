@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damage Chess | 420501 | [420501-damage-chess.json](./420501-damage-chess.json) |
 | Damage Control | 33302 | [33302-damage-control.json](./33302-damage-control.json) |
+| Damage Inc. Pacific Squadron WWII: F6F-5N "Crusader" Hellcat | 170723 | [170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json](./170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json) |
 | Damage Inc.: Metallica | 25067 | [25067-damage-inc-metallica.json](./25067-damage-inc-metallica.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
