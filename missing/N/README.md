@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverspring Chronicles | 188894 | [188894-neverspring-chronicles.json](./188894-neverspring-chronicles.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
+| Nevertales: Faryon - Collector's Edition | 170190 | [170190-nevertales-faryon-collectors-edition.json](./170190-nevertales-faryon-collectors-edition.json) |
 | Nevertales: Forgotten Pages | 187919 | [187919-nevertales-forgotten-pages.json](./187919-nevertales-forgotten-pages.json) |
 | Nevertales: Hearthbridge Cabinet - Collector's Edition | 132557 | [132557-nevertales-hearthbridge-cabinet-collectors-edition.json](./132557-nevertales-hearthbridge-cabinet-collectors-edition.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
