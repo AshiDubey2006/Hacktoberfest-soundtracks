@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
+| Daina Airan | 165448 | [165448-daina-airan.json](./165448-daina-airan.json) |
 | Dainty Pain | 136232 | [136232-dainty-pain.json](./136232-dainty-pain.json) |
 | Daioh | 39863 | [39863-daioh.json](./39863-daioh.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
@@ -8827,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeFight | 196508 | [196508-dogefight.json](./196508-dogefight.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
 | Dogeminer: CE | 396553 | [396553-dogeminer-ce.json](./396553-dogeminer-ce.json) |
+| Dogemon | 165480 | [165480-dogemon.json](./165480-dogemon.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
@@ -14682,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
 | Dystopia Derby | 366558 | [366558-dystopia-derby.json](./366558-dystopia-derby.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
+| Dystopia: Contest of Heroes | 165361 | [165361-dystopia-contest-of-heroes.json](./165361-dystopia-contest-of-heroes.json) |
 | Dystopian Debugger | 239689 | [239689-dystopian-debugger.json](./239689-dystopian-debugger.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
