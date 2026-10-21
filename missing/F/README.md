@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Bros: Tonosama #1 | 326646 | [326646-feudal-bros-tonosama-1.json](./326646-feudal-bros-tonosama-1.json) |
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
+| Feudal Kingdoms | 167545 | [167545-feudal-kingdoms.json](./167545-feudal-kingdoms.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
@@ -7394,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
 | Forest Factory | 358893 | [358893-forest-factory.json](./358893-forest-factory.json) |
 | Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
+| Forest Farm | 167556 | [167556-forest-farm.json](./167556-forest-farm.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
