@@ -8163,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Lipstick VR | 157217 | [157217-club-lipstick-vr.json](./157217-club-lipstick-vr.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
+| Club Marian | 167031 | [167031-club-marian.json](./167031-club-marian.json) |
 | Club Naughty | 30427 | [30427-club-naughty.json](./30427-club-naughty.json) |
 | Club Nintendo Picross Plus | 165121 | [165121-club-nintendo-picross-plus.json](./165121-club-nintendo-picross-plus.json) |
 | Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
@@ -11646,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Boomerang | 39830 | [39830-cotton-boomerang.json](./39830-cotton-boomerang.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
+| Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
